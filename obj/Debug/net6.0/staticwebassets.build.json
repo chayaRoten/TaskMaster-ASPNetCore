@@ -1,11 +1,71 @@
 {
   "Version": 1,
-  "Hash": "6S0A1XxZ32CzvbRWAccCcZdeIKRjiZTQcXsIVvHbTxA=",
+  "Hash": "603vbGTG77XBLHQWcVewsH3seKaCo8fcE8iZ2UTf3Fo=",
   "Source": "les3",
   "BasePath": "_content/les3",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "les3\\wwwroot",
+      "Source": "les3",
+      "ContentRoot": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les4\\Task\\wwwroot\\",
+      "BasePath": "_content/les3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les4\\Task\\wwwroot\\css\\site.css",
+      "SourceId": "les3",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les4\\Task\\wwwroot\\",
+      "BasePath": "_content/les3",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les4\\Task\\wwwroot\\index.html",
+      "SourceId": "les3",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les4\\Task\\wwwroot\\",
+      "BasePath": "_content/les3",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les4\\Task\\wwwroot\\js\\site.js",
+      "SourceId": "les3",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les4\\Task\\wwwroot\\",
+      "BasePath": "_content/les3",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
 }

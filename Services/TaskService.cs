@@ -1,27 +1,56 @@
 using Task.Models;
-namespace Task.Service;
+using Task.Interface;
+using System.Collections.Generic;
+using System.Linq;
+using System.IO;
+using System;
+using System.Text.Json;
 
-public static class TaskService
+namespace Task.Service{
+
+
+public class TaskService: ITaskService
 {
-    private static List<Task1> tasks;
+    // private List<Task1> tasks;
 
-    static TaskService()
-    {
-        tasks = new List<Task1>{
-            new Task1 {Id=1 , Name="aaa" , IsDo=true},
-            new Task1 {Id=2 , Name="bbb" , IsDo=false},
-            new Task1 {Id=3 , Name="ccc" , IsDo=true}
-        };
-    }
+    // public TaskService()
+    // {
+    //     tasks = new List<Task1>{
+    //         new Task1 {Id=1 , Name="aaa" , IsDo=true},
+    //         new Task1 {Id=2 , Name="bbb" , IsDo=false},
+    //         new Task1 {Id=3 , Name="ccc" , IsDo=true}
+    //     };
+    // }
 
-    public static List<Task1> GetAll() => tasks;
+        private List<Task1> tasks;
+        private string fileName = "Task.json";
+        public TaskService()
+        {
+            this.fileName = Path.Combine(/*webHost.ContentRootPath,*/ "Data", "Task.json");
 
-    public static Task1 GetById(int id) 
+            using (var jsonFile = File.OpenText(fileName))
+            {
+                tasks = JsonSerializer.Deserialize<List<Task1>>(jsonFile.ReadToEnd(),
+                new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                });
+            }
+        }
+
+        private void saveToFile()
+        {
+            File.WriteAllText(fileName, JsonSerializer.Serialize(tasks));
+        }
+
+    public List<Task1> GetAll() => tasks;
+
+    public Task1 GetById(int id) 
     {
         return tasks.FirstOrDefault(p => p.Id == id);
     }
 
-    public static int Add(Task1 newTask)
+    public int Add(Task1 newTask)
     {
         if (tasks.Count == 0)
 
@@ -35,11 +64,11 @@ public static class TaskService
             }
 
         tasks.Add(newTask);
-
+        saveToFile();
         return newTask.Id;
     }
   
-    public static bool Update(int id, Task1 newTask)
+    public bool Update(int id, Task1 newTask)
     {
         if (id != newTask.Id)
             return false;
@@ -53,12 +82,12 @@ public static class TaskService
             return false;
 
         tasks[index] = newTask;
-
+        saveToFile();
         return true;
     }  
 
       
-    public static bool Delete(int id)
+    public bool Delete(int id)
     {
         var existingTask = GetById(id);
         if (existingTask == null )
@@ -69,7 +98,19 @@ public static class TaskService
             return false;
 
         tasks.RemoveAt(index);
+        saveToFile();
         return true;
     }  
 
+    
+
+}
+
+public static class TaskUtils
+    {
+        public static void AddTask(this IServiceCollection services)
+        {
+            services.AddSingleton<ITaskService, TaskService>();
+        }
+    }
 }
