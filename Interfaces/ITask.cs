@@ -1,7 +1,7 @@
-using Task.Models;
+using MyTask.Models;
 using System.Collections.Generic;
 
-namespace Task.Interface
+namespace MyTask.Interface
 {
     public interface ITaskService
     {

@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
-using Task.Models;
-using Task.Service;
-using Task.Interface;
+using MyTask.Models;
+using MyTask.Service;
+using MyTask.Interface;
 
-namespace Task.Controllers;
+namespace MyTask.Controllers;
 
 [ApiController]
 [Route("[controller]")]

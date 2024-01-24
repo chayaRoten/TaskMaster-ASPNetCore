@@ -1,4 +1,4 @@
-namespace Task.Models;
+namespace MyTask.Models;
 
 public class Task1
 {
