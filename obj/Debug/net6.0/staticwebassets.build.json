@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZMhV0rA1vDPQwxBQt0buKY22Q72cAP/zigaIFbZUigo=",
+  "Hash": "PoPyFX5Yhkwe43c3vKsKpqdJObcFwsWQwz22gdE2l0k=",
   "Source": "les3",
   "BasePath": "_content/les3",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "les3\\wwwroot",
       "Source": "les3",
-      "ContentRoot": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les6\\MyTask\\wwwroot\\",
+      "ContentRoot": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\",
       "BasePath": "_content/les3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les6\\MyTask\\wwwroot\\css\\site.css",
+      "Identity": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\css\\site.css",
       "SourceId": "les3",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les6\\MyTask\\wwwroot\\",
+      "ContentRoot": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\",
       "BasePath": "_content/les3",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les6\\MyTask\\wwwroot\\index.html",
+      "Identity": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\index.html",
       "SourceId": "les3",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les6\\MyTask\\wwwroot\\",
+      "ContentRoot": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\",
       "BasePath": "_content/les3",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -51,10 +51,27 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les6\\MyTask\\wwwroot\\js\\site.js",
+      "Identity": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\js\\login.js",
       "SourceId": "les3",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\B\\רותן חיה\\תשפד\\זילברברג\\les6\\MyTask\\wwwroot\\",
+      "ContentRoot": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\",
+      "BasePath": "_content/les3",
+      "RelativePath": "js/login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\js\\site.js",
+      "SourceId": "les3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\",
       "BasePath": "_content/les3",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\task.html",
+      "SourceId": "les3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\wwwroot\\",
+      "BasePath": "_content/les3",
+      "RelativePath": "task.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\task.html"
     }
   ]
 }

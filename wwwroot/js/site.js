@@ -1,8 +1,31 @@
-const uri = '/Task';
-let pizzas = [];
+const uri = '/todo';
+let tasks = [];
+const token = localStorage.getItem("token");
 
-function getItems() {
-    fetch(uri)
+
+var myHeaders = new Headers();
+    myHeaders.append("Authorization", "Bearer " + token);
+    myHeaders.append("Content-Type", "application/json");
+getItems(token);
+
+function getItems(token) {
+    // fetch(uri , {
+    //     method: 'GET',
+    //     headers: {
+    //         'Accept': 'application/json',
+    //         'Content-Type': 'application/json',
+    //         'token': "Bearer "+ token
+    //     }
+    // })
+    // var myHeaders = new Headers();
+    // myHeaders.append("Authorization", "Bearer " + token);
+    // myHeaders.append("Content-Type", "application/json");
+    var requestOptions = {
+        method: 'GET',
+        headers: myHeaders,
+        redirect: 'follow'
+    };
+    fetch(uri, requestOptions)
         .then(response => response.json())
         .then(data => _displayItems(data))
         .catch(error => console.error('Unable to get items.', error));
@@ -10,39 +33,47 @@ function getItems() {
 
 function addItem() {
     const addNameTextbox = document.getElementById('add-name');
-
+    // var myHeaders = new Headers();
+    // myHeaders.append("Authorization", "Bearer " + token);
+    // myHeaders.append("Content-Type", "application/json");
     const item = {
         IsDo: false,
         name: addNameTextbox.value.trim()
     };
 
     fetch(uri, {
-            method: 'POST',
-            headers: {
-                'Accept': 'application/json',
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(item)
-        })
+        method: 'POST',
+        headers: myHeaders,
+        redirect: 'follow',
+        // headers: {
+        //     'Accept': 'application/json',
+        //     'Content-Type': 'application/json',
+        //     'token': "Bearer " + token
+        // },
+        body: JSON.stringify(item)
+    })
         .then(response => response.json())
         .then(() => {
-            getItems();
+            getItems(token);
             addNameTextbox.value = '';
         })
         .catch(error => console.error('Unable to add item.', error));
 }
-
 function deleteItem(id) {
+    // var myHeaders = new Headers();
+    // myHeaders.append("Authorization", "Bearer " + token);
+    // myHeaders.append("Content-Type", "application/json");
     fetch(`${uri}/${id}`, {
-            method: 'DELETE'
-        })
-        .then(() => getItems())
+        method: 'DELETE',
+        headers: myHeaders,
+        redirect: 'follow'
+    })
+        .then(() => getItems(token))
         .catch(error => console.error('Unable to delete item.', error));
 }
 
 function displayEditForm(id) {
-    const item = pizzas.find(item => item.id === id);
-
+    const item = tasks.find(item => item.id === id);
     document.getElementById('edit-name').value = item.name;
     document.getElementById('edit-id').value = item.id;
     document.getElementById('edit-IsDo').checked = item.IsDo;
@@ -56,16 +87,20 @@ function updateItem() {
         IsDo: document.getElementById('edit-IsDo').checked,
         name: document.getElementById('edit-name').value.trim()
     };
-
+    // var myHeaders = new Headers();
+    // myHeaders.append("Authorization", "Bearer " + token);
+    // myHeaders.append("Content-Type", "application/json");
     fetch(`${uri}/${itemId}`, {
-            method: 'PUT',
-            headers: {
-                'Accept': 'application/json',
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(item)
-        })
-        .then(() => getItems())
+        method: 'PUT',
+        headers: myHeaders,
+        // headers: {
+        //     'Accept': 'application/json',
+        //     'Content-Type': 'application/json',
+        //     'token': "Bearer " + token
+        // },
+        body: JSON.stringify(item)
+    })
+        .then(() => getItems(token))
         .catch(error => console.error('Unable to update item.', error));
 
     closeInput();
@@ -79,12 +114,10 @@ function closeInput() {
 
 function _displayCount(itemCount) {
     const name = (itemCount === 1) ? 'pizza' : 'Task kinds';
-
-    document.getElementById('counter').innerText = `${itemCount} ${name}`;
 }
 
 function _displayItems(data) {
-    const tBody = document.getElementById('pizzas');
+    const tBody = document.getElementById('tasks');
     tBody.innerHTML = '';
 
     _displayCount(data.length);
@@ -121,5 +154,6 @@ function _displayItems(data) {
         td4.appendChild(deleteButton);
     });
 
-    pizzas = data;
+    tasks = data;
+
 }

@@ -2,3 +2,3197 @@
 /Task.GET took 14ms. User: unknown
 /index.html.GET took 7ms. User: unknown
 /Task.GET took 1ms. User: unknown
+/index.html.GET took 52ms. User: unknown
+/css/site.css.GET took 3ms. User: unknown
+/favicon.ico.GET took 4ms. User: unknown
+/index.html.GET took 8ms. User: unknown
+/Task.GET took 13ms. User: unknown
+/index.html.GET took 5ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 5ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.POST took 45ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.POST took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.POST took 6ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.POST took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 6ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/5.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/5.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/5.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/5.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/5.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/5.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/6.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/6.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/7.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/8.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/8.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/8.DELETE took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 54ms. User: unknown
+/css/site.css.GET took 3ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/js/site.js.GET took 14ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger.GET took 3ms. User: unknown
+/swagger/index.html.GET took 22ms. User: unknown
+/swagger/swagger-ui.css.GET took 13ms. User: unknown
+/swagger/swagger-ui-standalone-preset.js.GET took 25ms. User: unknown
+/swagger/swagger-ui-bundle.js.GET took 68ms. User: unknown
+/swagger/favicon-32x32.png.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 55ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/3.GET took 3ms. User: unknown
+/Task.POST took 4ms. User: unknown
+/index.html.GET took 37ms. User: unknown
+/js/site.js.GET took 1ms. User: unknown
+/Task.GET took 20ms. User: unknown
+/swagger/index.html.GET took 24ms. User: unknown
+/swagger/v1/swagger.json.GET took 56ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/css/site.css.GET took 1ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/js/site.js.GET took 7ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/8.DELETE took 16ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/7.DELETE took 17ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/6.DELETE took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/5.DELETE took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 34ms. User: unknown
+/Task.GET took 12ms. User: unknown
+/Task.POST took 49ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/10.DELETE took 7ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/index.html.GET took 48ms. User: unknown
+/swagger/v1/swagger.json.GET took 56ms. User: unknown
+/swagger/index.html.GET took 48ms. User: unknown
+/swagger/v1/swagger.json.GET took 60ms. User: unknown
+/swagger/index.html.GET took 49ms. User: unknown
+/swagger/v1/swagger.json.GET took 57ms. User: unknown
+/swagger/index.html.GET took 50ms. User: unknown
+/swagger/v1/swagger.json.GET took 54ms. User: unknown
+/swagger/index.html.GET took 48ms. User: unknown
+/swagger/v1/swagger.json.GET took 54ms. User: unknown
+/user.GET took 14ms. User: unknown
+/index.html.GET took 37ms. User: unknown
+/js/site.js.GET took 1ms. User: unknown
+/Task.GET took 93ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/index.html.GET took 25ms. User: unknown
+/swagger/v1/swagger.json.GET took 57ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 95ms. User: unknown
+/index.html.GET took 11ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/index.html.GET took 24ms. User: unknown
+/swagger/v1/swagger.json.GET took 58ms. User: unknown
+/Admin/Login.POST took 24ms. User: unknown
+/index.html.GET took 32ms. User: unknown
+/Task.GET took 67ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/Task.POST took 1ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 34ms. User: unknown
+/Task.GET took 77ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 38ms. User: unknown
+/Task.GET took 74ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/index.html.GET took 46ms. User: unknown
+/Task.GET took 62ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 34ms. User: unknown
+/Task.GET took 73ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 35ms. User: unknown
+/Task.GET took 77ms. User: unknown
+/index.html.GET took 6ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 94ms. User: unknown
+/index.html.GET took 10ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/css/site.css.GET took 1ms. User: unknown
+/js/site.js.GET took 7ms. User: unknown
+/todo.GET took 28ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/todo.GET took 2ms. User: unknown
+/js/site.js.GET took 35ms. User: unknown
+/Task.GET took 70ms. User: unknown
+/index.html.GET took 7ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/swagger/index.html.GET took 49ms. User: unknown
+/swagger/v1/swagger.json.GET took 71ms. User: unknown
+/index.html.GET took 35ms. User: unknown
+/js/site.js.GET took 2ms. User: unknown
+/Task.GET took 72ms. User: unknown
+/index.html.GET took 5ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/index.html.GET took 25ms. User: unknown
+/swagger/v1/swagger.json.GET took 59ms. User: unknown
+/swagger/index.html.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 2ms. User: unknown
+/swagger/index.html.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/js/site.js.GET took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 41ms. User: unknown
+/js/site.js.GET took 2ms. User: unknown
+/css/site.css.GET took 14ms. User: unknown
+/favicon.ico.GET took 92ms. User: unknown
+/swagger.GET took 3ms. User: unknown
+/swagger/index.html.GET took 27ms. User: unknown
+/swagger/swagger-ui.css.GET took 24ms. User: unknown
+/swagger/swagger-ui-standalone-preset.js.GET took 34ms. User: unknown
+/swagger/swagger-ui-bundle.js.GET took 77ms. User: unknown
+/swagger/favicon-32x32.png.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 83ms. User: unknown
+/swagger/index.html.GET took 51ms. User: unknown
+/swagger/v1/swagger.json.GET took 62ms. User: unknown
+/index.html.GET took 20ms. User: unknown
+/Task.GET took 129ms. User: unknown
+/index.html.GET took 50ms. User: unknown
+/js/site.js.GET took 18ms. User: unknown
+/Task.GET took 99ms. User: unknown
+/.GET took 27ms. User: unknown
+/index.html.GET took 59ms. User: unknown
+/css/site.css.GET took 2ms. User: unknown
+/js/site.js.GET took 14ms. User: unknown
+/Task.GET took 356ms. User: unknown
+/index.html.GET took 8ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 11ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/favicon.ico.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 90ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 1ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/index.html.GET took 11ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger.GET took 3ms. User: unknown
+/swagger/index.html.GET took 27ms. User: unknown
+/swagger/swagger-ui.css.GET took 22ms. User: unknown
+/swagger/swagger-ui-standalone-preset.js.GET took 28ms. User: unknown
+/swagger/swagger-ui-bundle.js.GET took 71ms. User: unknown
+/swagger/favicon-32x32.png.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 74ms. User: unknown
+/index.html.GET took 34ms. User: unknown
+/Task.GET took 83ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 37ms. User: unknown
+/Task.GET took 55ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 35ms. User: unknown
+/Task.GET took 52ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 36ms. User: unknown
+/Task.GET took 53ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 36ms. User: unknown
+/Task.GET took 51ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 35ms. User: unknown
+/Task.GET took 49ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.POST took 1ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/index.html.GET took 38ms. User: unknown
+/Task.GET took 70ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/todo.GET took 14ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/Task.POST took 0ms. User: unknown
+/index.html.GET took 33ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 36ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 36ms. User: unknown
+/Task.GET took 74ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 41ms. User: unknown
+/Task.GET took 96ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 35ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 19ms. User: unknown
+/Task.GET took 83ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/swagger/index.html.GET took 1ms. User: unknown
+/swagger/index.html.GET took 1ms. User: unknown
+/swagger/index.html.GET took 1ms. User: unknown
+/swagger/index.html.GET took 0ms. User: unknown
+/swagger/index.html.GET took 54ms. User: unknown
+/swagger/v1/swagger.json.GET took 56ms. User: unknown
+/swagger/v1/swagger.json.GET took 4ms. User: unknown
+/index.html.GET took 34ms. User: unknown
+/Task.GET took 75ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 37ms. User: unknown
+/Task.GET took 69ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 34ms. User: unknown
+/Task.GET took 48ms. User: unknown
+/index.html.GET took 41ms. User: unknown
+/Task.GET took 53ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 67ms. User: unknown
+/swagger/v1/swagger.json.GET took 3ms. User: unknown
+/index.html.GET took 49ms. User: unknown
+/Task.GET took 114ms. User: unknown
+/index.html.GET took 36ms. User: unknown
+/Task.GET took 52ms. User: unknown
+/.GET took 107ms. User: unknown
+/index.html.GET took 76ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/index.html.GET took 43ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 6ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 74ms. User: unknown
+/index.html.GET took 43ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/index.html.GET took 42ms. User: unknown
+/Task.GET took 77ms. User: unknown
+/index.html.GET took 42ms. User: unknown
+/Task.GET took 53ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 129ms. User: unknown
+/index.html.GET took 18ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 1ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/index.html.GET took 26ms. User: unknown
+/swagger/v1/swagger.json.GET took 54ms. User: unknown
+/index.html.GET took 35ms. User: unknown
+/Task.GET took 57ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 1ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/index.html.GET took 25ms. User: unknown
+/swagger/v1/swagger.json.GET took 56ms. User: unknown
+/Task.POST took 44ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/10.DELETE took 8ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/2.PUT took 9ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/1.PUT took 6ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/3.PUT took 6ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/4.DELETE took 10ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/9.PUT took 8ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/index.html.GET took 55ms. User: unknown
+/swagger/v1/swagger.json.GET took 59ms. User: unknown
+/index.html.GET took 41ms. User: unknown
+/Task.GET took 75ms. User: unknown
+/swagger/index.html.GET took 37ms. User: unknown
+/swagger/v1/swagger.json.GET took 73ms. User: unknown
+/user.GET took 3ms. User: unknown
+/user.GET took 1ms. User: unknown
+/swagger/index.html.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 2ms. User: unknown
+/index.html.GET took 3ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/index.html.GET took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/index.html.GET took 26ms. User: unknown
+/swagger/v1/swagger.json.GET took 58ms. User: unknown
+/swagger/index.html.GET took 52ms. User: unknown
+/swagger/v1/swagger.json.GET took 60ms. User: unknown
+/user.GET took 58ms. User: unknown
+/user/222.GET took 16ms. User: unknown
+/user/333.GET took 3ms. User: unknown
+/user/111.GET took 0ms. User: unknown
+/index.html.GET took 10ms. User: unknown
+/Task.GET took 2ms. User: unknown
+/swagger/index.html.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 3ms. User: unknown
+/Task.GET took 123ms. User: unknown
+/swagger/index.html.GET took 36ms. User: unknown
+/swagger/v1/swagger.json.GET took 102ms. User: unknown
+/user.GET took 4ms. User: unknown
+/user/222.GET took 26ms. User: unknown
+/swagger/v1/swagger.json.GET took 4ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.POST took 31ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task/10.DELETE took 2ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/Task.GET took 0ms. User: unknown
+/swagger/index.html.GET took 78ms. User: unknown
+/swagger/v1/swagger.json.GET took 89ms. User: unknown
+/user.GET took 56ms. User: unknown
+/index.html.GET took 28ms. User: unknown
+/swagger/index.html.GET took 39ms. User: unknown
+/swagger/v1/swagger.json.GET took 113ms. User: unknown
+/swagger/index.html.GET took 75ms. User: unknown
+/swagger/v1/swagger.json.GET took 96ms. User: unknown
+/user.GET took 42ms. User: unknown
+/user.POST took 57ms. User: unknown
+/user.GET took 2ms. User: unknown
+/swagger/index.html.GET took 81ms. User: unknown
+/swagger/v1/swagger.json.GET took 90ms. User: unknown
+/user.GET took 45ms. User: unknown
+/user.POST took 84ms. User: unknown
+/user.GET took 2ms. User: unknown
+/user.GET took 0ms. User: unknown
+/swagger/index.html.GET took 121ms. User: unknown
+/swagger/v1/swagger.json.GET took 117ms. User: unknown
+/user.POST took 147ms. User: unknown
+/index.html.GET took 62ms. User: unknown
+/css/site.css.GET took 12ms. User: unknown
+/favicon.ico.GET took 89ms. User: unknown
+/index.html.GET took 36ms. User: unknown
+/todo.GET took 56ms. User: unknown
+/todo.GET took 1ms. User: unknown
+/swagger.GET took 3ms. User: unknown
+/swagger/index.html.GET took 40ms. User: unknown
+/swagger/swagger-ui.css.GET took 25ms. User: unknown
+/swagger/swagger-ui-standalone-preset.js.GET took 35ms. User: unknown
+/swagger/swagger-ui-bundle.js.GET took 111ms. User: unknown
+/swagger/favicon-32x32.png.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 103ms. User: unknown
+/Task.GET took 18ms. User: unknown
+/Task/9.GET took 17ms. User: unknown
+/user.GET took 1ms. User: unknown
+/user/3331.GET took 8ms. User: unknown
+/todo.GET took 1ms. User: unknown
+/index.html.GET took 40ms. User: unknown
+/todo.GET took 55ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/todo.GET took 1ms. User: unknown
+/index.html.GET took 38ms. User: unknown
+/todo.GET took 50ms. User: unknown
+/todo.GET took 1ms. User: unknown
+/favicon.ico.GET took 4ms. User: unknown
+/index.html.GET took 4ms. User: unknown
+/todo.GET took 0ms. User: unknown
+/Task.GET took 17ms. User: unknown
+/todo.GET took 0ms. User: unknown
+/index.html.GET took 37ms. User: unknown
+/todo.GET took 74ms. User: unknown
+/todo.GET took 1ms. User: unknown
+/index.html.GET took 35ms. User: unknown
+/todo.GET took 72ms. User: unknown
+/todo.POST took 43ms. User: unknown
+/todo.GET took 1ms. User: unknown
+/todo/10.DELETE took 10ms. User: unknown
+/todo.GET took 0ms. User: unknown
+/todo/9.PUT took 9ms. User: unknown
+/todo.GET took 0ms. User: unknown
+/swagger/index.html.GET took 24ms. User: unknown
+/swagger/v1/swagger.json.GET took 75ms. User: unknown
+/swagger/index.html.GET took 49ms. User: unknown
+/swagger/v1/swagger.json.GET took 53ms. User: unknown
+/user.GET took 91ms. User: unknown
+/swagger/index.html.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 3ms. User: unknown
+/swagger/index.html.GET took 49ms. User: unknown
+/swagger/v1/swagger.json.GET took 62ms. User: unknown
+/swagger/index.html.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 2ms. User: unknown
+/index.html.GET took 106ms. User: unknown
+/css/site.css.GET took 2ms. User: unknown
+/js/site.js.GET took 51ms. User: unknown
+/favicon.ico.GET took 140ms. User: unknown
+/todo.GET took 160ms. User: unknown
+/todo.GET took 1ms. User: unknown
+/swagger.GET took 3ms. User: unknown
+/swagger/index.html.GET took 23ms. User: unknown
+/swagger/swagger-ui.css.GET took 17ms. User: unknown
+/swagger/swagger-ui-standalone-preset.js.GET took 24ms. User: unknown
+/swagger/swagger-ui-bundle.js.GET took 75ms. User: unknown
+/swagger/favicon-32x32.png.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 63ms. User: unknown
+/user.GET took 2ms. User: unknown
+/user/111.PUT took 24ms. User: unknown
+/user/111.GET took 1ms. User: unknown
+/swagger/index.html.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 2ms. User: unknown
+/swagger/index.html.GET took 50ms. User: unknown
+/swagger/v1/swagger.json.GET took 60ms. User: unknown
+/swagger/index.html.GET took 50ms. User: unknown
+/swagger/v1/swagger.json.GET took 57ms. User: unknown
+/swagger/index.html.GET took 0ms. User: unknown
+/swagger/v1/swagger.json.GET took 2ms. User: unknown
+/user.GET took 69ms. User: unknown
+/user.POST took 38ms. User: unknown
+/user.GET took 1ms. User: unknown
+/swagger/index.html.GET took 49ms. User: unknown
+/swagger/v1/swagger.json.GET took 56ms. User: unknown
+/user/111.PUT took 88ms. User: unknown
+/user.GET took 2ms. User: unknown
+/swagger/index.html.GET took 49ms. User: unknown
+/swagger/v1/swagger.json.GET took 55ms. User: unknown
+/user.GET took 100ms. User: unknown
+/user/111.PUT took 28ms. User: unknown
+/user.GET took 1ms. User: unknown
+/swagger/index.html.GET took 48ms. User: unknown
+/swagger/v1/swagger.json.GET took 54ms. User: unknown
+/user.GET took 66ms. User: unknown
+/user/3331111.DELETE took 68ms. User: unknown
+/user.GET took 1ms. User: unknown
+/user.GET took 0ms. User: unknown
+/user.GET took 0ms. User: unknown
+/swagger/index.html.GET took 48ms. User: unknown
+/swagger/v1/swagger.json.GET took 55ms. User: unknown
+/user.GET took 69ms. User: unknown
+/user/333111.DELETE took 21ms. User: unknown
+/user.GET took 1ms. User: unknown
+19/02/2024 18:44:49 /swagger/index.html.GET took 56ms. User: unknown
+19/02/2024 18:44:49 /swagger/v1/swagger.json.GET took 63ms. User: unknown
+19/02/2024 18:44:52 /todo.GET took 70ms. User: unknown
+21/02/2024 12:29:19 /index.html.GET took 68ms. User: unknown
+21/02/2024 12:29:19 /css/site.css.GET took 6ms. User: unknown
+21/02/2024 12:29:19 /js/site.js.GET took 33ms. User: unknown
+21/02/2024 12:29:20 /favicon.ico.GET took 305ms. User: unknown
+21/02/2024 12:29:20 /todo.GET took 338ms. User: unknown
+21/02/2024 12:29:25 /todo.GET took 4ms. User: unknown
+21/02/2024 12:29:32 /swaggger.GET took 0ms. User: unknown
+21/02/2024 12:29:37 /swagger.GET took 3ms. User: unknown
+21/02/2024 12:29:37 /swagger/index.html.GET took 36ms. User: unknown
+21/02/2024 12:29:37 /swagger/swagger-ui.css.GET took 33ms. User: unknown
+21/02/2024 12:29:37 /swagger/swagger-ui-standalone-preset.js.GET took 41ms. User: unknown
+21/02/2024 12:29:37 /swagger/swagger-ui-bundle.js.GET took 112ms. User: unknown
+21/02/2024 12:29:37 /swagger/favicon-32x32.png.GET took 0ms. User: unknown
+21/02/2024 12:29:37 /swagger/v1/swagger.json.GET took 70ms. User: unknown
+21/02/2024 12:35:12 /todo.GET took 0ms. User: unknown
+21/02/2024 12:40:00 /Admin/Login.POST took 20ms. User: unknown
+21/02/2024 12:40:31 /Admin/Login.POST took 8ms. User: unknown
+21/02/2024 12:41:03 /Admin/Login.POST took 3ms. User: unknown
+21/02/2024 13:01:02 /swagger/index.html.GET took 53ms. User: unknown
+21/02/2024 13:01:02 /swagger/v1/swagger.json.GET took 55ms. User: unknown
+21/02/2024 13:01:49 /swagger/index.html.GET took 55ms. User: unknown
+21/02/2024 13:01:49 /swagger/v1/swagger.json.GET took 57ms. User: unknown
+21/02/2024 13:01:51 /Admin.GET took 59ms. User: unknown
+21/02/2024 13:02:01 /Admin.GET took 1ms. User: unknown
+21/02/2024 13:02:28 /index.html.GET took 10ms. User: unknown
+21/02/2024 13:02:28 /todo.GET took 3ms. User: unknown
+21/02/2024 13:08:48 /Admin.GET took 0ms. User: unknown
+21/02/2024 13:13:09 /Admin/Login.POST took 108ms. User: unknown
+21/02/2024 13:14:19 /swagger/index.html.GET took 55ms. User: unknown
+21/02/2024 13:14:19 /swagger/v1/swagger.json.GET took 66ms. User: unknown
+21/02/2024 13:14:59 /Admin/Login.POST took 278ms. User: unknown
+21/02/2024 13:18:29 /swagger/index.html.GET took 54ms. User: unknown
+21/02/2024 13:18:29 /swagger/v1/swagger.json.GET took 59ms. User: unknown
+21/02/2024 13:19:14 /swagger/index.html.GET took 0ms. User: unknown
+21/02/2024 13:19:14 /swagger/v1/swagger.json.GET took 3ms. User: unknown
+21/02/2024 13:19:37 /swagger/index.html.GET took 54ms. User: unknown
+21/02/2024 13:19:37 /swagger/v1/swagger.json.GET took 60ms. User: unknown
+21/02/2024 13:21:07 /swagger/index.html.GET took 54ms. User: unknown
+21/02/2024 13:21:07 /swagger/v1/swagger.json.GET took 59ms. User: unknown
+21/02/2024 13:21:10 /Admin.GET took 77ms. User: unknown
+21/02/2024 13:33:08 /user.GET took 2ms. User: unknown
+21/02/2024 13:33:36 /index.html.GET took 11ms. User: unknown
+21/02/2024 13:33:36 /todo.GET took 3ms. User: unknown
+23/02/2024 08:57:07 /index.html.GET took 97ms. User: unknown
+23/02/2024 08:57:07 /css/site.css.GET took 3ms. User: unknown
+23/02/2024 08:57:07 /js/site.js.GET took 56ms. User: unknown
+23/02/2024 08:57:08 /favicon.ico.GET took 543ms. User: unknown
+23/02/2024 08:57:08 /todo.GET took 580ms. User: unknown
+23/02/2024 08:57:13 /todo.GET took 1ms. User: unknown
+23/02/2024 08:57:21 /swagger.GET took 3ms. User: unknown
+23/02/2024 08:57:21 /swagger/index.html.GET took 39ms. User: unknown
+23/02/2024 08:57:21 /swagger/swagger-ui.css.GET took 17ms. User: unknown
+23/02/2024 08:57:21 /swagger/swagger-ui-standalone-preset.js.GET took 30ms. User: unknown
+23/02/2024 08:57:21 /swagger/swagger-ui-bundle.js.GET took 74ms. User: unknown
+23/02/2024 08:57:21 /swagger/favicon-32x32.png.GET took 0ms. User: unknown
+23/02/2024 08:57:21 /swagger/v1/swagger.json.GET took 76ms. User: unknown
+23/02/2024 09:01:22 /Admin.GET took 2ms. User: unknown
+23/02/2024 09:21:30 /swagger/index.html.GET took 52ms. User: unknown
+23/02/2024 09:21:31 /swagger/v1/swagger.json.GET took 60ms. User: unknown
+23/02/2024 09:21:39 /Admin.GET took 59ms. User: unknown
+23/02/2024 09:23:44 /Admin.GET took 44ms. User: unknown
+23/02/2024 10:08:19 /todo.GET took 779ms. User: unknown
+23/02/2024 10:08:19 /todo/3.DELETE took 18ms. User: unknown
+23/02/2024 10:08:19 /todo.GET took 1ms. User: unknown
+23/02/2024 10:08:23 /swagger/index.html.GET took 22ms. User: unknown
+23/02/2024 10:08:23 /swagger/v1/swagger.json.GET took 56ms. User: unknown
+24/02/2024 21:54:58 /index.html.GET took 98ms. User: unknown
+24/02/2024 21:54:58 /css/site.css.GET took 1ms. User: unknown
+24/02/2024 21:54:58 /favicon.ico.GET took 87ms. User: unknown
+24/02/2024 21:55:08 /swagger.GET took 3ms. User: unknown
+24/02/2024 21:55:08 /swagger/index.html.GET took 66ms. User: unknown
+24/02/2024 21:55:08 /swagger/swagger-ui.css.GET took 13ms. User: unknown
+24/02/2024 21:55:08 /swagger/swagger-ui-standalone-preset.js.GET took 7ms. User: unknown
+24/02/2024 21:55:08 /swagger/swagger-ui-bundle.js.GET took 25ms. User: unknown
+24/02/2024 21:55:08 /swagger/favicon-32x32.png.GET took 0ms. User: unknown
+24/02/2024 21:55:08 /swagger/v1/swagger.json.GET took 156ms. User: unknown
+24/02/2024 21:56:22 /swagger/v1/swagger.json.GET took 14ms. User: unknown
+24/02/2024 21:56:28 /todo.GET took 31ms. User: unknown
+24/02/2024 22:19:41 /Admin.GET took 7ms. User: unknown
+24/02/2024 22:20:13 /Admin.POST took 126ms. User: unknown
+24/02/2024 22:20:31 /Admin.GET took 58ms. User: unknown
+24/02/2024 22:20:33 /Admin.GET took 2ms. User: unknown
+24/02/2024 22:25:53 /swagger/index.html.GET took 76ms. User: unknown
+24/02/2024 22:25:53 /swagger/v1/swagger.json.GET took 84ms. User: unknown
+24/02/2024 22:25:57 /Admin.POST took 66ms. User: unknown
+24/02/2024 22:29:39 /swagger/index.html.GET took 80ms. User: unknown
+24/02/2024 22:29:39 /swagger/v1/swagger.json.GET took 88ms. User: unknown
+24/02/2024 22:29:49 /Admin/44.DELETE took 34ms. User: unknown
+24/02/2024 22:30:02 /Admin.POST took 345ms. User: unknown
+24/02/2024 22:30:26 /Admin.GET took 59ms. User: unknown
+24/02/2024 22:30:35 /Admin/33311.DELETE took 7ms. User: unknown
+24/02/2024 22:30:36 /Admin/33311.DELETE took 3ms. User: unknown
+24/02/2024 22:30:42 /Admin.GET took 1ms. User: unknown
+24/02/2024 22:31:23 /swagger/index.html.GET took 81ms. User: unknown
+24/02/2024 22:31:37 /swagger/index.html.GET took 87ms. User: unknown
+24/02/2024 22:32:31 /swagger/index.html.GET took 95ms. User: unknown
+24/02/2024 22:39:55 /todo.GET took 103ms. User: unknown
+24/02/2024 22:39:57 /swagger/index.html.GET took 42ms. User: unknown
+24/02/2024 22:40:45 /swagger/index.html.GET took 80ms. User: unknown
+24/02/2024 22:41:28 /swagger/index.html.GET took 78ms. User: unknown
+24/02/2024 22:41:28 /swagger/v1/swagger.json.GET took 92ms. User: unknown
+24/02/2024 22:42:41 /swagger/index.html.GET took 1ms. User: unknown
+24/02/2024 22:42:42 /swagger/v1/swagger.json.GET took 7ms. User: unknown
+24/02/2024 22:42:43 /swagger/index.html.GET took 0ms. User: unknown
+24/02/2024 22:42:43 /swagger/v1/swagger.json.GET took 8ms. User: unknown
+24/02/2024 22:42:44 /swagger/index.html.GET took 0ms. User: unknown
+24/02/2024 22:42:44 /swagger/v1/swagger.json.GET took 9ms. User: unknown
+24/02/2024 22:42:54 /swagger/index.html.GET took 83ms. User: unknown
+24/02/2024 22:43:49 /swagger/index.html.GET took 87ms. User: unknown
+24/02/2024 22:43:49 /swagger/v1/swagger.json.GET took 89ms. User: unknown
+24/02/2024 22:44:13 /Admin/Login.POST took 166ms. User: unknown
+24/02/2024 22:46:02 /swagger/index.html.GET took 226ms. User: unknown
+24/02/2024 22:46:03 /swagger/v1/swagger.json.GET took 214ms. User: unknown
+24/02/2024 22:46:35 /swagger/index.html.GET took 79ms. User: unknown
+24/02/2024 22:46:35 /swagger/v1/swagger.json.GET took 91ms. User: unknown
+24/02/2024 22:46:52 /Admin/Login.POST took 128ms. User: unknown
+24/02/2024 22:48:36 /swagger/index.html.GET took 83ms. User: unknown
+24/02/2024 22:48:37 /swagger/v1/swagger.json.GET took 108ms. User: unknown
+24/02/2024 22:49:31 /swagger/index.html.GET took 86ms. User: unknown
+24/02/2024 22:49:48 /swagger/index.html.GET took 81ms. User: unknown
+24/02/2024 22:49:49 /swagger/v1/swagger.json.GET took 97ms. User: unknown
+24/02/2024 22:50:10 /swagger/index.html.GET took 76ms. User: unknown
+24/02/2024 22:50:11 /swagger/v1/swagger.json.GET took 88ms. User: unknown
+24/02/2024 22:50:37 /swagger/index.html.GET took 77ms. User: unknown
+24/02/2024 22:50:37 /swagger/v1/swagger.json.GET took 92ms. User: unknown
+24/02/2024 22:54:17 /swagger/index.html.GET took 94ms. User: unknown
+24/02/2024 22:54:17 /swagger/v1/swagger.json.GET took 108ms. User: unknown
+24/02/2024 22:54:20 /Admin/Get.GET took 33ms. User: unknown
+24/02/2024 22:56:54 /swagger/index.html.GET took 78ms. User: unknown
+24/02/2024 22:56:54 /swagger/v1/swagger.json.GET took 86ms. User: unknown
+24/02/2024 22:56:57 /Admin/Get.GET took 34ms. User: unknown
+24/02/2024 22:57:15 /swagger/index.html.GET took 80ms. User: unknown
+24/02/2024 22:57:15 /swagger/v1/swagger.json.GET took 89ms. User: unknown
+24/02/2024 22:57:52 /Admin/Login.POST took 150ms. User: unknown
+24/02/2024 22:58:04 /Admin/Get.GET took 17ms. User: unknown
+24/02/2024 22:58:09 /Admin/Get.GET took 1ms. User: unknown
+24/02/2024 22:58:31 /swagger/index.html.GET took 77ms. User: unknown
+24/02/2024 22:58:32 /swagger/v1/swagger.json.GET took 85ms. User: unknown
+24/02/2024 22:58:34 /Admin.GET took 51ms. User: unknown
+24/02/2024 22:58:47 /Admin/Login.POST took 123ms. User: unknown
+24/02/2024 22:59:05 /Admin.GET took 0ms. User: unknown
+24/02/2024 23:03:37 /swagger/index.html.GET took 87ms. User: unknown
+24/02/2024 23:03:38 /swagger/v1/swagger.json.GET took 108ms. User: unknown
+24/02/2024 23:03:42 /Admin.GET took 33ms. User: unknown
+24/02/2024 23:03:54 /Admin/Login.POST took 129ms. User: unknown
+24/02/2024 23:04:05 /Admin.GET took 1ms. User: unknown
+24/02/2024 23:06:04 /swagger/index.html.GET took 128ms. User: unknown
+24/02/2024 23:06:27 /swagger/index.html.GET took 232ms. User: unknown
+24/02/2024 23:06:27 /swagger/v1/swagger.json.GET took 99ms. User: unknown
+24/02/2024 23:06:30 /Admin.GET took 33ms. User: unknown
+24/02/2024 23:08:37 /swagger/index.html.GET took 79ms. User: unknown
+24/02/2024 23:08:37 /swagger/v1/swagger.json.GET took 95ms. User: unknown
+24/02/2024 23:08:40 /Admin.GET took 36ms. User: unknown
+24/02/2024 23:08:49 /Admin.POST took 131ms. User: unknown
+24/02/2024 23:09:05 /Admin.GET took 59ms. User: unknown
+24/02/2024 23:09:20 /swagger/index.html.GET took 79ms. User: unknown
+24/02/2024 23:09:20 /swagger/v1/swagger.json.GET took 88ms. User: unknown
+24/02/2024 23:09:22 /Admin/Get.GET took 33ms. User: unknown
+24/02/2024 23:09:34 /Admin/Login.POST took 132ms. User: unknown
+24/02/2024 23:09:48 /Admin/Get.GET took 58ms. User: unknown
+24/02/2024 23:10:06 /swagger/index.html.GET took 84ms. User: unknown
+24/02/2024 23:10:06 /swagger/v1/swagger.json.GET took 89ms. User: unknown
+24/02/2024 23:10:09 /Admin/Get.GET took 34ms. User: unknown
+24/02/2024 23:10:19 /Admin.POST took 2ms. User: unknown
+24/02/2024 23:10:29 /Admin/Login.POST took 127ms. User: unknown
+24/02/2024 23:10:41 /Admin/Get.GET took 59ms. User: unknown
+24/02/2024 23:11:17 /Admin.POST took 33ms. User: unknown
+24/02/2024 23:13:33 /swagger/index.html.GET took 0ms. User: unknown
+24/02/2024 23:13:33 /swagger/v1/swagger.json.GET took 6ms. User: unknown
+24/02/2024 23:13:39 /index.html.GET took 10ms. User: unknown
+24/02/2024 23:13:39 /todo.GET took 2ms. User: unknown
+24/02/2024 23:13:40 /index.html.GET took 1ms. User: unknown
+24/02/2024 23:13:40 /todo.GET took 2ms. User: unknown
+24/02/2024 23:13:40 /index.html.GET took 1ms. User: unknown
+24/02/2024 23:13:40 /todo.GET took 0ms. User: unknown
+24/02/2024 23:13:42 /todo/999.DELETE took 4ms. User: unknown
+24/02/2024 23:13:42 /todo.GET took 0ms. User: unknown
+24/02/2024 23:13:48 /Admin/Get.GET took 0ms. User: unknown
+24/02/2024 23:14:05 /Admin/Login.POST took 2ms. User: unknown
+24/02/2024 23:14:16 /Admin/Get.GET took 0ms. User: unknown
+24/02/2024 23:14:17 /Admin/Get.GET took 0ms. User: unknown
+24/02/2024 23:14:20 /Admin/Get.GET took 0ms. User: unknown
+24/02/2024 23:14:43 /Admin/Get.GET took 1ms. User: unknown
+24/02/2024 23:14:51 /Admin/33311.DELETE took 4ms. User: unknown
+24/02/2024 23:15:37 /swagger/index.html.GET took 0ms. User: unknown
+24/02/2024 23:15:37 /swagger/v1/swagger.json.GET took 4ms. User: unknown
+25/02/2024 15:13:25 /index.html.GET took 62ms. User: unknown
+25/02/2024 15:13:25 /css/site.css.GET took 3ms. User: unknown
+25/02/2024 15:13:25 /favicon.ico.GET took 85ms. User: unknown
+25/02/2024 15:13:27 /todo.GET took 24ms. User: unknown
+25/02/2024 15:13:29 /index.html.GET took 5ms. User: unknown
+25/02/2024 15:13:29 /todo.GET took 2ms. User: unknown
+25/02/2024 15:13:35 /swagger.GET took 3ms. User: unknown
+25/02/2024 15:13:35 /swagger/index.html.GET took 29ms. User: unknown
+25/02/2024 15:13:35 /swagger/swagger-ui.css.GET took 19ms. User: unknown
+25/02/2024 15:13:35 /swagger/swagger-ui-standalone-preset.js.GET took 32ms. User: unknown
+25/02/2024 15:13:35 /swagger/swagger-ui-bundle.js.GET took 78ms. User: unknown
+25/02/2024 15:13:35 /swagger/favicon-32x32.png.GET took 0ms. User: unknown
+25/02/2024 15:13:35 /swagger/v1/swagger.json.GET took 109ms. User: unknown
+25/02/2024 15:13:57 /swagger/index.html.GET took 0ms. User: unknown
+25/02/2024 15:13:57 /swagger/v1/swagger.json.GET took 2ms. User: unknown
+25/02/2024 15:14:07 /swagger/index.html.GET took 53ms. User: unknown
+25/02/2024 15:14:07 /swagger/v1/swagger.json.GET took 68ms. User: unknown
+25/02/2024 15:14:34 /swagger/index.html.GET took 55ms. User: unknown
+25/02/2024 15:14:34 /swagger/v1/swagger.json.GET took 61ms. User: unknown
+25/02/2024 15:14:52 /swagger/index.html.GET took 65ms. User: unknown
+25/02/2024 15:14:52 /swagger/v1/swagger.json.GET took 97ms. User: unknown
+25/02/2024 15:15:04 /user/111.GET took 127ms. User: unknown
+25/02/2024 15:46:20 /todo.GET took 132ms. User: unknown
+25/02/2024 15:46:23 /index.html.GET took 11ms. User: unknown
+25/02/2024 15:46:23 /todo.GET took 1ms. User: unknown
+25/02/2024 15:46:25 /swagger/index.html.GET took 24ms. User: unknown
+25/02/2024 15:46:25 /swagger/v1/swagger.json.GET took 52ms. User: unknown
+25/02/2024 15:48:14 /index.html.GET took 39ms. User: unknown
+25/02/2024 15:48:14 /todo.GET took 61ms. User: unknown
+25/02/2024 15:48:14 /index.html.GET took 3ms. User: unknown
+25/02/2024 15:48:14 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:15 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:15 /todo.GET took 1ms. User: unknown
+25/02/2024 15:48:15 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:15 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:15 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:15 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:16 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:16 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:16 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:16 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:16 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:16 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:16 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:16 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:16 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:16 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:17 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:17 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:17 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:17 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:17 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:17 /todo.GET took 0ms. User: unknown
+25/02/2024 15:48:17 /index.html.GET took 2ms. User: unknown
+25/02/2024 15:48:17 /todo.GET took 0ms. User: unknown
+25/02/2024 15:57:09 /index.html.GET took 55ms. User: unknown
+25/02/2024 15:57:09 /todo.GET took 63ms. User: unknown
+25/02/2024 15:57:10 /index.html.GET took 6ms. User: unknown
+25/02/2024 15:57:10 /todo.GET took 0ms. User: unknown
+25/02/2024 15:57:11 /index.html.GET took 1ms. User: unknown
+25/02/2024 15:57:11 /todo.GET took 1ms. User: unknown
+25/02/2024 16:01:50 /index.html.GET took 43ms. User: unknown
+25/02/2024 16:01:50 /todo.GET took 63ms. User: unknown
+25/02/2024 16:01:51 /index.html.GET took 7ms. User: unknown
+25/02/2024 16:01:51 /todo.GET took 0ms. User: unknown
+25/02/2024 16:01:51 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:01:51 /todo.GET took 1ms. User: unknown
+25/02/2024 16:01:51 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:01:51 /todo.GET took 0ms. User: unknown
+25/02/2024 16:01:52 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:01:52 /todo.GET took 0ms. User: unknown
+25/02/2024 16:01:52 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:01:52 /todo.GET took 0ms. User: unknown
+25/02/2024 16:01:52 /index.html.GET took 3ms. User: unknown
+25/02/2024 16:01:52 /todo.GET took 0ms. User: unknown
+25/02/2024 16:01:52 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:01:52 /todo.GET took 0ms. User: unknown
+25/02/2024 16:01:53 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:01:53 /todo.GET took 0ms. User: unknown
+25/02/2024 16:01:53 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:01:53 /todo.GET took 0ms. User: unknown
+25/02/2024 16:04:20 /index.html.GET took 40ms. User: unknown
+25/02/2024 16:04:21 /index.html.GET took 3ms. User: unknown
+25/02/2024 16:06:31 /index.html.GET took 4ms. User: unknown
+25/02/2024 16:26:15 /todo.GET took 149ms. User: unknown
+25/02/2024 16:26:18 /todo/99.DELETE took 19ms. User: unknown
+25/02/2024 16:26:18 /todo.GET took 2ms. User: unknown
+25/02/2024 16:26:21 /todo.POST took 34ms. User: unknown
+25/02/2024 16:26:21 /todo.GET took 0ms. User: unknown
+25/02/2024 16:26:24 /todo/93.PUT took 21ms. User: unknown
+25/02/2024 16:26:24 /todo.GET took 0ms. User: unknown
+25/02/2024 16:26:26 /swagger/index.html.GET took 23ms. User: unknown
+25/02/2024 16:26:26 /swagger/v1/swagger.json.GET took 54ms. User: unknown
+25/02/2024 16:26:32 /Admin/Get.GET took 4ms. User: unknown
+25/02/2024 16:26:41 /Admin/Login.POST took 281ms. User: unknown
+25/02/2024 16:26:54 /Admin/Get.GET took 59ms. User: unknown
+25/02/2024 16:27:02 /user/111.GET took 3ms. User: unknown
+25/02/2024 16:35:27 /index.html.GET took 9ms. User: unknown
+25/02/2024 16:35:27 /todo.GET took 0ms. User: unknown
+25/02/2024 16:39:51 /index.html.GET took 3ms. User: unknown
+25/02/2024 16:39:51 /todo.GET took 0ms. User: unknown
+25/02/2024 16:41:51 /index.html.GET took 41ms. User: unknown
+25/02/2024 16:41:51 /todo.GET took 57ms. User: unknown
+25/02/2024 16:41:52 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:41:52 /todo.GET took 0ms. User: unknown
+25/02/2024 16:41:53 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:41:53 /todo.GET took 1ms. User: unknown
+25/02/2024 16:41:54 /swagger/index.html.GET took 24ms. User: unknown
+25/02/2024 16:41:54 /swagger/v1/swagger.json.GET took 52ms. User: unknown
+25/02/2024 16:41:55 /swagger/v1/swagger.json.GET took 2ms. User: unknown
+25/02/2024 16:43:02 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:43:02 /todo.GET took 0ms. User: unknown
+25/02/2024 16:43:02 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:43:02 /todo.GET took 0ms. User: unknown
+25/02/2024 16:43:03 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:43:03 /todo.GET took 0ms. User: unknown
+25/02/2024 16:43:03 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:43:03 /todo.GET took 0ms. User: unknown
+25/02/2024 16:43:04 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:43:04 /todo.GET took 0ms. User: unknown
+25/02/2024 16:44:46 /todo.GET took 106ms. User: unknown
+25/02/2024 16:49:03 /index.html.GET took 47ms. User: unknown
+25/02/2024 16:49:48 /index.html.GET took 50ms. User: unknown
+25/02/2024 16:50:33 /index.html.GET took 48ms. User: unknown
+25/02/2024 16:50:46 /index.html.GET took 44ms. User: unknown
+25/02/2024 16:50:59 /index.html.GET took 46ms. User: unknown
+25/02/2024 16:51:00 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:51:00 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:51:38 /index.html.GET took 49ms. User: unknown
+25/02/2024 16:51:39 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:53:00 /index.html.GET took 48ms. User: unknown
+25/02/2024 16:53:00 /js/login.js.GET took 3ms. User: unknown
+25/02/2024 16:53:00 /task.html.GET took 2ms. User: unknown
+25/02/2024 16:53:00 /todo.GET took 60ms. User: unknown
+25/02/2024 16:53:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:53:02 /todo.GET took 1ms. User: unknown
+25/02/2024 16:53:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:53:02 /todo.GET took 2ms. User: unknown
+25/02/2024 16:53:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:53:02 /todo.GET took 0ms. User: unknown
+25/02/2024 16:53:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:53:02 /todo.GET took 0ms. User: unknown
+25/02/2024 16:53:03 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:53:03 /todo.GET took 0ms. User: unknown
+25/02/2024 16:53:03 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:53:03 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:44 /task.html.GET took 35ms. User: unknown
+25/02/2024 16:54:44 /todo.GET took 53ms. User: unknown
+25/02/2024 16:54:44 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:54:44 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:45 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:54:45 /todo.GET took 1ms. User: unknown
+25/02/2024 16:54:45 /task.html.GET took 0ms. User: unknown
+25/02/2024 16:54:45 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:45 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:54:45 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:45 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:54:45 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:46 /task.html.GET took 0ms. User: unknown
+25/02/2024 16:54:46 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:46 /task.html.GET took 0ms. User: unknown
+25/02/2024 16:54:46 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:46 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:54:46 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:47 /task.html.GET took 0ms. User: unknown
+25/02/2024 16:54:47 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:47 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:54:47 /todo.GET took 0ms. User: unknown
+25/02/2024 16:54:47 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:54:47 /todo.GET took 0ms. User: unknown
+25/02/2024 16:55:04 /task.html.GET took 35ms. User: unknown
+25/02/2024 16:55:04 /todo.GET took 55ms. User: unknown
+25/02/2024 16:55:05 /task.html.GET took 2ms. User: unknown
+25/02/2024 16:55:05 /todo.GET took 0ms. User: unknown
+25/02/2024 16:55:05 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:55:05 /todo.GET took 1ms. User: unknown
+25/02/2024 16:55:06 /task.html.GET took 1ms. User: unknown
+25/02/2024 16:55:06 /todo.GET took 0ms. User: unknown
+25/02/2024 16:55:08 /task.html.GET took 0ms. User: unknown
+25/02/2024 16:55:08 /todo.GET took 0ms. User: unknown
+25/02/2024 16:55:11 /index.html.GET took 14ms. User: unknown
+25/02/2024 16:55:12 /js/login.js.GET took 7ms. User: unknown
+25/02/2024 16:55:13 /index.html.GET took 3ms. User: unknown
+25/02/2024 16:55:13 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 16:55:20 /index.html.GET took 39ms. User: unknown
+25/02/2024 16:55:20 /js/login.js.GET took 7ms. User: unknown
+25/02/2024 16:55:21 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 16:55:22 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:55:34 /index.html.GET took 45ms. User: unknown
+25/02/2024 16:55:34 /js/login.js.GET took 7ms. User: unknown
+25/02/2024 16:55:35 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 16:55:36 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:55:36 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:55:36 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:55:37 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:55:37 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:55:37 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:55:39 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:55:39 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 16:55:42 /index.html.GET took 6ms. User: unknown
+25/02/2024 16:55:42 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:55:43 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:55:43 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 16:57:01 /index.html.GET took 47ms. User: unknown
+25/02/2024 16:57:01 /js/login.js.GET took 6ms. User: unknown
+25/02/2024 16:57:03 /index.html.GET took 3ms. User: unknown
+25/02/2024 16:57:03 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 16:57:03 /index.html.GET took 3ms. User: unknown
+25/02/2024 16:57:04 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:57:04 /index.html.GET took 3ms. User: unknown
+25/02/2024 16:57:04 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 16:57:04 /index.html.GET took 2ms. User: unknown
+25/02/2024 16:57:46 /index.html.GET took 50ms. User: unknown
+25/02/2024 16:57:46 /js/login.js.GET took 4ms. User: unknown
+25/02/2024 16:57:49 /index.html.GET took 4ms. User: unknown
+25/02/2024 16:57:49 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 16:58:15 /index.html.GET took 42ms. User: unknown
+25/02/2024 16:58:15 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 16:58:18 /task.html.GET took 2ms. User: unknown
+25/02/2024 16:58:18 /todo.GET took 68ms. User: unknown
+25/02/2024 17:01:01 /index.html.GET took 47ms. User: unknown
+25/02/2024 17:01:01 /js/login.js.GET took 5ms. User: unknown
+25/02/2024 17:04:21 /index.html.GET took 50ms. User: unknown
+25/02/2024 17:04:21 /js/login.js.GET took 5ms. User: unknown
+25/02/2024 17:06:55 /index.html.GET took 42ms. User: unknown
+25/02/2024 17:06:55 /js/login.js.GET took 9ms. User: unknown
+25/02/2024 17:06:58 /todo.POST took 98ms. User: unknown
+25/02/2024 17:06:58 /todo.GET took 1ms. User: unknown
+25/02/2024 17:09:28 /index.html.GET took 40ms. User: unknown
+25/02/2024 17:09:28 /js/login.js.GET took 9ms. User: unknown
+25/02/2024 17:09:29 /todo.POST took 97ms. User: unknown
+25/02/2024 17:09:29 /todo.GET took 1ms. User: unknown
+25/02/2024 17:15:10 /index.html.GET took 48ms. User: unknown
+25/02/2024 17:15:10 /js/login.js.GET took 6ms. User: unknown
+25/02/2024 17:15:11 /index.html.GET took 2ms. User: unknown
+25/02/2024 17:15:17 /todo.POST took 102ms. User: unknown
+25/02/2024 17:15:17 /todo.GET took 1ms. User: unknown
+25/02/2024 17:35:27 /index.html.GET took 54ms. User: unknown
+25/02/2024 17:35:27 /js/login.js.GET took 6ms. User: unknown
+25/02/2024 17:35:28 /index.html.GET took 4ms. User: unknown
+25/02/2024 17:38:47 /Login.GET took 152ms. User: unknown
+25/02/2024 17:38:49 /Login.GET took 1ms. User: unknown
+25/02/2024 17:38:51 /index.html.GET took 23ms. User: unknown
+25/02/2024 17:38:51 /js/login.js.GET took 7ms. User: unknown
+25/02/2024 17:38:54 /Login.POST took 1ms. User: unknown
+25/02/2024 17:38:54 /task.html.GET took 1ms. User: unknown
+25/02/2024 17:38:54 /todo.GET took 13ms. User: unknown
+25/02/2024 17:39:00 /Login.POST took 0ms. User: unknown
+25/02/2024 17:39:00 /todo.GET took 1ms. User: unknown
+25/02/2024 17:43:08 /task.html.GET took 44ms. User: unknown
+25/02/2024 17:43:08 /todo.GET took 82ms. User: unknown
+25/02/2024 17:43:25 /index.html.GET took 11ms. User: unknown
+25/02/2024 17:43:25 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 17:43:27 /Login.POST took 0ms. User: unknown
+25/02/2024 17:43:27 /todo.GET took 2ms. User: unknown
+25/02/2024 17:43:34 /Login.POST took 0ms. User: unknown
+25/02/2024 17:43:34 /todo.GET took 0ms. User: unknown
+25/02/2024 17:45:21 /todo.GET took 0ms. User: unknown
+25/02/2024 17:45:27 /Login.GET took 0ms. User: unknown
+25/02/2024 17:45:35 /login.GET took 1ms. User: unknown
+25/02/2024 17:48:39 /index.html.GET took 39ms. User: unknown
+25/02/2024 17:48:39 /js/login.js.GET took 6ms. User: unknown
+25/02/2024 17:48:39 /index.html.GET took 2ms. User: unknown
+25/02/2024 17:48:40 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 17:48:40 /index.html.GET took 2ms. User: unknown
+25/02/2024 17:48:40 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 17:48:40 /index.html.GET took 3ms. User: unknown
+25/02/2024 17:48:40 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 17:48:41 /Login.POST took 48ms. User: unknown
+25/02/2024 17:48:41 /task.html.GET took 1ms. User: unknown
+25/02/2024 17:48:41 /todo.GET took 13ms. User: unknown
+25/02/2024 17:49:06 /index.html.GET took 38ms. User: unknown
+25/02/2024 17:49:06 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 17:49:06 /Login.POST took 45ms. User: unknown
+25/02/2024 17:49:08 /todo.GET took 13ms. User: unknown
+25/02/2024 17:54:36 /index.html.GET took 41ms. User: unknown
+25/02/2024 17:54:36 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 17:55:42 /swagger/index.html.GET took 54ms. User: unknown
+25/02/2024 17:55:42 /swagger/v1/swagger.json.GET took 56ms. User: unknown
+25/02/2024 17:55:44 /index.html.GET took 14ms. User: unknown
+25/02/2024 17:55:44 /js/login.js.GET took 7ms. User: unknown
+25/02/2024 17:56:13 /index.html.GET took 42ms. User: unknown
+25/02/2024 17:56:13 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 17:56:14 /Login/Admin/Login.POST took 49ms. User: unknown
+25/02/2024 17:56:40 /index.html.GET took 39ms. User: unknown
+25/02/2024 17:56:40 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 17:56:42 /Admin/Login.POST took 122ms. User: unknown
+25/02/2024 17:56:49 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 17:57:50 /index.html.GET took 42ms. User: unknown
+25/02/2024 17:57:51 /js/login.js.GET took 9ms. User: unknown
+25/02/2024 17:57:52 /Admin/Login.POST took 75ms. User: unknown
+25/02/2024 17:59:30 /swagger/index.html.GET took 25ms. User: unknown
+25/02/2024 17:59:30 /swagger/v1/swagger.json.GET took 58ms. User: unknown
+25/02/2024 18:01:01 /swagger/index.html.GET took 0ms. User: unknown
+25/02/2024 18:01:01 /swagger/v1/swagger.json.GET took 2ms. User: unknown
+25/02/2024 18:02:53 /index.html.GET took 42ms. User: unknown
+25/02/2024 18:02:53 /js/login.js.GET took 10ms. User: unknown
+25/02/2024 18:02:55 /Admin/Login.POST took 74ms. User: unknown
+25/02/2024 18:03:04 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 18:03:22 /Admin/Login.GET took 1ms. User: unknown
+25/02/2024 18:03:36 /swagger/index.html.GET took 24ms. User: unknown
+25/02/2024 18:03:36 /swagger/v1/swagger.json.GET took 53ms. User: unknown
+25/02/2024 18:03:44 /Admin/Get.GET took 6ms. User: unknown
+25/02/2024 18:03:51 /Get.GET took 1ms. User: unknown
+25/02/2024 18:05:22 /index.html.GET took 38ms. User: unknown
+25/02/2024 18:05:22 /js/login.js.GET took 7ms. User: unknown
+25/02/2024 18:05:24 /Admin/Login.POST took 75ms. User: unknown
+25/02/2024 18:05:28 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 18:06:29 /swagger/index.html.GET took 24ms. User: unknown
+25/02/2024 18:06:29 /swagger/v1/swagger.json.GET took 56ms. User: unknown
+25/02/2024 18:06:40 /Admin/Get.GET took 6ms. User: unknown
+25/02/2024 18:07:33 /Get.GET took 0ms. User: unknown
+25/02/2024 18:07:34 /swagger/index.html.GET took 0ms. User: unknown
+25/02/2024 18:07:34 /swagger/v1/swagger.json.GET took 2ms. User: unknown
+25/02/2024 18:07:41 /index.html.GET took 5ms. User: unknown
+25/02/2024 18:07:41 /js/login.js.GET took 4ms. User: unknown
+25/02/2024 18:07:43 /Admin/Login.POST took 3ms. User: unknown
+25/02/2024 18:07:52 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:10:15 /js/login.js.GET took 36ms. User: unknown
+25/02/2024 18:10:17 /Admin/Login.POST took 80ms. User: unknown
+25/02/2024 18:10:33 /Admin/Login.POST took 4ms. User: unknown
+25/02/2024 18:11:23 /index.html.GET took 50ms. User: unknown
+25/02/2024 18:11:23 /js/login.js.GET took 5ms. User: unknown
+25/02/2024 18:11:24 /Admin/Login.POST took 74ms. User: unknown
+25/02/2024 18:12:53 /index.html.GET took 47ms. User: unknown
+25/02/2024 18:12:53 /js/login.js.GET took 2ms. User: unknown
+25/02/2024 18:12:57 /Admin/Login.POST took 83ms. User: unknown
+25/02/2024 18:12:59 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 18:14:10 /index.html.GET took 48ms. User: unknown
+25/02/2024 18:14:10 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 18:14:14 /Admin/Login.POST took 77ms. User: unknown
+25/02/2024 18:14:14 /task.html.GET took 1ms. User: unknown
+25/02/2024 18:14:14 /todo.GET took 6ms. User: unknown
+25/02/2024 18:14:20 /.GET took 27ms. User: unknown
+25/02/2024 18:14:20 /index.html.GET took 16ms. User: unknown
+25/02/2024 18:14:20 /css/site.css.GET took 4ms. User: unknown
+25/02/2024 18:14:20 /favicon.ico.GET took 57ms. User: unknown
+25/02/2024 18:14:20 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 18:14:20 /todo.GET took 0ms. User: unknown
+25/02/2024 18:14:27 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 18:14:27 /todo.GET took 0ms. User: unknown
+25/02/2024 18:14:49 /Admin/Login.POST took 4ms. User: unknown
+25/02/2024 18:14:49 /todo.GET took 0ms. User: unknown
+25/02/2024 18:14:55 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:14:55 /todo.GET took 0ms. User: unknown
+25/02/2024 18:15:31 /index.html.GET took 45ms. User: unknown
+25/02/2024 18:15:31 /js/login.js.GET took 10ms. User: unknown
+25/02/2024 18:15:35 /Admin/Login.POST took 76ms. User: unknown
+25/02/2024 18:17:47 /task.html.GET took 0ms. User: unknown
+25/02/2024 18:17:47 /todo.GET took 0ms. User: unknown
+25/02/2024 18:17:48 /task.html.GET took 1ms. User: unknown
+25/02/2024 18:17:48 /todo.GET took 0ms. User: unknown
+25/02/2024 18:17:50 /index.html.GET took 6ms. User: unknown
+25/02/2024 18:17:50 /js/login.js.GET took 3ms. User: unknown
+25/02/2024 18:17:51 /index.html.GET took 2ms. User: unknown
+25/02/2024 18:17:51 /index.html.GET took 3ms. User: unknown
+25/02/2024 18:17:53 /Admin/Login.POST took 3ms. User: unknown
+25/02/2024 18:17:53 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:17:54 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:17:54 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:17:54 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:17:55 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:17:55 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:17:55 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:17:55 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:12 /Admin/Login.POST took 3ms. User: unknown
+25/02/2024 18:19:12 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:13 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:13 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:13 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:13 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:13 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:13 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:16 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:17 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:17 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:17 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:17 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:18 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:18 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:18 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:18 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:18 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:18 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:19 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:19 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:19 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:19 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:19 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:20 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 18:19:38 /Admin/Login.POST took 442ms. User: unknown
+25/02/2024 18:23:04 /index.html.GET took 7ms. User: unknown
+25/02/2024 18:23:04 /js/login.js.GET took 4ms. User: unknown
+25/02/2024 18:26:46 /swagger/index.html.GET took 54ms. User: unknown
+25/02/2024 18:26:47 /swagger/v1/swagger.json.GET took 63ms. User: unknown
+25/02/2024 18:26:48 /index.html.GET took 16ms. User: unknown
+25/02/2024 18:26:48 /js/login.js.GET took 3ms. User: unknown
+25/02/2024 18:26:49 /Admin/Login.POST took 71ms. User: unknown
+25/02/2024 18:26:51 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 18:26:51 /task.html.GET took 1ms. User: unknown
+25/02/2024 18:26:51 /todo.GET took 6ms. User: unknown
+25/02/2024 18:27:00 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 18:27:00 /todo.GET took 0ms. User: unknown
+25/02/2024 18:27:22 /Admin/Login.POST took 3ms. User: unknown
+25/02/2024 18:27:22 /todo.GET took 0ms. User: unknown
+25/02/2024 18:43:44 /index.html.GET took 40ms. User: unknown
+25/02/2024 18:43:44 /js/login.js.GET took 4ms. User: unknown
+25/02/2024 18:43:45 /index.html.GET took 2ms. User: unknown
+25/02/2024 18:43:45 /index.html.GET took 2ms. User: unknown
+25/02/2024 18:43:45 /index.html.GET took 5ms. User: unknown
+25/02/2024 18:43:45 /index.html.GET took 2ms. User: unknown
+25/02/2024 18:43:46 /index.html.GET took 2ms. User: unknown
+25/02/2024 18:43:46 /index.html.GET took 2ms. User: unknown
+25/02/2024 18:43:46 /index.html.GET took 2ms. User: unknown
+25/02/2024 18:43:46 /Admin/Login.POST took 76ms. User: unknown
+25/02/2024 18:43:53 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 18:43:53 /task.html.GET took 1ms. User: unknown
+25/02/2024 18:43:53 /todo.GET took 9ms. User: unknown
+25/02/2024 18:44:07 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 18:44:07 /todo.GET took 0ms. User: unknown
+25/02/2024 18:48:25 /swagger/index.html.GET took 23ms. User: unknown
+25/02/2024 18:48:25 /swagger/v1/swagger.json.GET took 51ms. User: unknown
+25/02/2024 18:50:02 /index.html.GET took 7ms. User: unknown
+25/02/2024 18:50:02 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 18:50:11 /Admin/Login.POST took 13ms. User: unknown
+25/02/2024 18:50:11 /todo.GET took 0ms. User: unknown
+25/02/2024 19:30:42 /index.html.GET took 44ms. User: unknown
+25/02/2024 19:30:42 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 19:30:45 /Admin/Login.POST took 79ms. User: unknown
+25/02/2024 19:30:45 /todo.GET took 6ms. User: unknown
+25/02/2024 19:32:29 /Admin/Login.POST took 89ms. User: unknown
+25/02/2024 19:32:29 /todo.GET took 20ms. User: unknown
+25/02/2024 19:32:36 /task.html.GET took 7ms. User: unknown
+25/02/2024 19:32:36 /todo.GET took 1ms. User: unknown
+25/02/2024 19:33:53 /task.html.GET took 36ms. User: unknown
+25/02/2024 19:33:53 /todo.GET took 61ms. User: unknown
+25/02/2024 19:33:54 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:33:54 /todo.GET took 1ms. User: unknown
+25/02/2024 19:33:56 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:33:56 /todo.GET took 1ms. User: unknown
+25/02/2024 19:33:57 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:33:57 /todo.GET took 0ms. User: unknown
+25/02/2024 19:33:57 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:33:57 /todo.GET took 0ms. User: unknown
+25/02/2024 19:33:57 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:33:57 /todo.GET took 0ms. User: unknown
+25/02/2024 19:33:58 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:33:58 /todo.GET took 0ms. User: unknown
+25/02/2024 19:34:26 /task.html.GET took 38ms. User: unknown
+25/02/2024 19:34:26 /todo.GET took 63ms. User: unknown
+25/02/2024 19:34:26 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:34:26 /todo.GET took 1ms. User: unknown
+25/02/2024 19:34:53 /task.html.GET took 36ms. User: unknown
+25/02/2024 19:34:53 /todo.GET took 62ms. User: unknown
+25/02/2024 19:34:54 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:34:54 /todo.GET took 1ms. User: unknown
+25/02/2024 19:34:54 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:34:54 /todo.GET took 1ms. User: unknown
+25/02/2024 19:34:55 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:34:55 /todo.GET took 0ms. User: unknown
+25/02/2024 19:34:55 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:34:55 /todo.GET took 0ms. User: unknown
+25/02/2024 19:34:55 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:34:55 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:03 /task.html.GET took 34ms. User: unknown
+25/02/2024 19:35:03 /todo.GET took 32ms. User: unknown
+25/02/2024 19:35:03 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:03 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:03 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:03 /todo.GET took 1ms. User: unknown
+25/02/2024 19:35:03 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:03 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:04 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:04 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:49 /task.html.GET took 35ms. User: unknown
+25/02/2024 19:35:49 /todo.GET took 59ms. User: unknown
+25/02/2024 19:35:50 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:50 /todo.GET took 1ms. User: unknown
+25/02/2024 19:35:50 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:50 /todo.GET took 1ms. User: unknown
+25/02/2024 19:35:50 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:50 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:50 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:50 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:53 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:53 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:53 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:53 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:53 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:53 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:53 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:53 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:53 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:53 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:54 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:54 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:54 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:54 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:56 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:56 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:56 /task.html.GET took 2ms. User: unknown
+25/02/2024 19:35:56 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:56 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:56 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:56 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:56 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:57 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:35:57 /todo.GET took 0ms. User: unknown
+25/02/2024 19:35:57 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:35:57 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:00 /Admin/Login.POST took 24ms. User: unknown
+25/02/2024 19:36:00 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:36:02 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:02 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:36:02 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:36:02 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:02 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:36:02 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:14 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:36:14 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:14 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:36:14 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:14 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:36:14 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:36 /task.html.GET took 35ms. User: unknown
+25/02/2024 19:36:36 /todo.GET took 58ms. User: unknown
+25/02/2024 19:36:37 /task.html.GET took 2ms. User: unknown
+25/02/2024 19:36:37 /todo.GET took 1ms. User: unknown
+25/02/2024 19:36:37 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:36:37 /todo.GET took 2ms. User: unknown
+25/02/2024 19:36:37 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:36:37 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:37 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:36:37 /todo.GET took 0ms. User: unknown
+25/02/2024 19:36:37 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:36:37 /todo.GET took 0ms. User: unknown
+25/02/2024 19:37:05 /todo.GET took 88ms. User: unknown
+25/02/2024 19:37:13 /todo.GET took 1ms. User: unknown
+25/02/2024 19:40:30 /task.html.GET took 42ms. User: unknown
+25/02/2024 19:40:30 /todo.GET took 61ms. User: unknown
+25/02/2024 19:40:30 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:40:30 /todo.GET took 1ms. User: unknown
+25/02/2024 19:40:31 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:40:31 /todo.GET took 2ms. User: unknown
+25/02/2024 19:40:31 /task.html.GET took 0ms. User: unknown
+25/02/2024 19:40:31 /todo.GET took 0ms. User: unknown
+25/02/2024 19:40:31 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:40:31 /todo.GET took 0ms. User: unknown
+25/02/2024 19:43:38 /task.html.GET took 42ms. User: unknown
+25/02/2024 19:43:38 /todo.GET took 62ms. User: unknown
+25/02/2024 19:43:39 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:43:39 /todo.GET took 1ms. User: unknown
+25/02/2024 19:43:41 /index.html.GET took 8ms. User: unknown
+25/02/2024 19:43:41 /js/login.js.GET took 5ms. User: unknown
+25/02/2024 19:43:43 /Admin/Login/.POST took 27ms. User: unknown
+25/02/2024 19:43:43 /todo.GET took 0ms. User: unknown
+25/02/2024 19:44:10 /js/login.js.GET took 44ms. User: unknown
+25/02/2024 19:44:15 /Admin/Login.POST took 74ms. User: unknown
+25/02/2024 19:44:15 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:44:15 /todo.GET took 5ms. User: unknown
+25/02/2024 19:44:41 /task.html.GET took 37ms. User: unknown
+25/02/2024 19:44:41 /todo.GET took 62ms. User: unknown
+25/02/2024 19:44:42 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:44:42 /todo.GET took 0ms. User: unknown
+25/02/2024 19:44:46 /index.html.GET took 8ms. User: unknown
+25/02/2024 19:44:46 /js/login.js.GET took 7ms. User: unknown
+25/02/2024 19:44:50 /Admin/Login.POST took 26ms. User: unknown
+25/02/2024 19:44:50 /todo.GET took 0ms. User: unknown
+25/02/2024 19:45:06 /swagger/index.html.GET took 24ms. User: unknown
+25/02/2024 19:45:06 /swagger/v1/swagger.json.GET took 56ms. User: unknown
+25/02/2024 19:45:10 /swagger/v1/swagger.json.GET took 2ms. User: unknown
+25/02/2024 19:46:13 /index.html.GET took 42ms. User: unknown
+25/02/2024 19:46:13 /js/login.js.GET took 9ms. User: unknown
+25/02/2024 19:46:13 /index.html.GET took 3ms. User: unknown
+25/02/2024 19:46:17 /Admin/Login.POST took 80ms. User: unknown
+25/02/2024 19:46:17 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:46:17 /todo.GET took 7ms. User: unknown
+25/02/2024 19:48:30 /index.html.GET took 38ms. User: unknown
+25/02/2024 19:48:30 /js/login.js.GET took 7ms. User: unknown
+25/02/2024 19:48:30 /index.html.GET took 2ms. User: unknown
+25/02/2024 19:48:30 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 19:48:31 /index.html.GET took 2ms. User: unknown
+25/02/2024 19:48:31 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 19:48:31 /index.html.GET took 2ms. User: unknown
+25/02/2024 19:48:31 /js/login.js.GET took 1ms. User: unknown
+25/02/2024 19:48:31 /index.html.GET took 2ms. User: unknown
+25/02/2024 19:48:51 /index.html.GET took 40ms. User: unknown
+25/02/2024 19:48:51 /js/login.js.GET took 9ms. User: unknown
+25/02/2024 19:49:02 /Admin/Login.POST took 82ms. User: unknown
+25/02/2024 19:49:49 /index.html.GET took 37ms. User: unknown
+25/02/2024 19:49:49 /js/login.js.GET took 9ms. User: unknown
+25/02/2024 19:49:51 /Admin/Login.POST took 77ms. User: unknown
+25/02/2024 19:49:56 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 19:50:36 /index.html.GET took 39ms. User: unknown
+25/02/2024 19:50:36 /js/login.js.GET took 8ms. User: unknown
+25/02/2024 19:50:38 /Admin/Login.POST took 73ms. User: unknown
+25/02/2024 19:51:37 /Admin/Login.POST took 7ms. User: unknown
+25/02/2024 19:52:58 /Admin/login.POST took 4ms. User: unknown
+25/02/2024 19:53:25 /swagger/v1/swagger.json.GET took 71ms. User: unknown
+25/02/2024 19:56:20 /task.html.GET took 34ms. User: unknown
+25/02/2024 19:56:20 /todo.GET took 60ms. User: unknown
+25/02/2024 19:56:23 /index.html.GET took 7ms. User: unknown
+25/02/2024 19:56:23 /js/login.js.GET took 0ms. User: unknown
+25/02/2024 19:56:24 /index.html.GET took 2ms. User: unknown
+25/02/2024 19:56:25 /Admin/Login.POST took 26ms. User: unknown
+25/02/2024 19:56:26 /Admin/Login.POST took 4ms. User: unknown
+25/02/2024 19:56:27 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 19:56:30 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 19:56:30 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 19:56:31 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 19:56:31 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 19:58:34 /index.html.GET took 49ms. User: unknown
+25/02/2024 19:58:34 /js/logIn.js.GET took 3ms. User: unknown
+25/02/2024 19:58:35 /Admin/Login.POST took 81ms. User: unknown
+25/02/2024 19:58:35 /task.html.GET took 1ms. User: unknown
+25/02/2024 19:58:35 /todo.GET took 12ms. User: unknown
+25/02/2024 19:58:57 /index.html.GET took 38ms. User: unknown
+25/02/2024 19:58:57 /js/logIn.js.GET took 9ms. User: unknown
+25/02/2024 19:58:58 /index.html.GET took 2ms. User: unknown
+25/02/2024 19:58:58 /js/logIn.js.GET took 0ms. User: unknown
+25/02/2024 19:58:59 /Admin/Login.POST took 79ms. User: unknown
+25/02/2024 19:59:37 /Admin/login.POST took 5ms. User: unknown
+25/02/2024 19:59:43 /Admin/login.POST took 2ms. User: unknown
+25/02/2024 19:59:52 /index.html.GET took 32ms. User: unknown
+25/02/2024 19:59:52 /js/logIn.js.GET took 15ms. User: unknown
+25/02/2024 19:59:56 /Admin/Login.POST took 4ms. User: unknown
+25/02/2024 20:00:14 /index.html.GET took 2ms. User: unknown
+25/02/2024 20:00:14 /js/logIn.js.GET took 1ms. User: unknown
+25/02/2024 20:00:18 /Admin/Login.POST took 5ms. User: unknown
+25/02/2024 20:00:23 /index.html.GET took 17ms. User: unknown
+25/02/2024 20:00:23 /js/logIn.js.GET took 2ms. User: unknown
+25/02/2024 20:00:28 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 20:00:43 /Admin/Login.POST took 7ms. User: unknown
+25/02/2024 20:00:44 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 20:00:59 /index.html.GET took 40ms. User: unknown
+25/02/2024 20:00:59 /js/logIn.js.GET took 8ms. User: unknown
+25/02/2024 20:01:03 /Admin/Login.POST took 77ms. User: unknown
+25/02/2024 20:01:03 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:01:03 /todo.GET took 9ms. User: unknown
+25/02/2024 20:01:40 /Admin/Login.POST took 91ms. User: unknown
+25/02/2024 20:01:40 /todo.GET took 21ms. User: unknown
+25/02/2024 20:01:43 /task.html.GET took 7ms. User: unknown
+25/02/2024 20:01:43 /todo.GET took 2ms. User: unknown
+25/02/2024 20:01:44 /index.html.GET took 7ms. User: unknown
+25/02/2024 20:01:44 /js/logIn.js.GET took 6ms. User: unknown
+25/02/2024 20:01:48 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 20:05:26 /index.html.GET took 38ms. User: unknown
+25/02/2024 20:05:26 /js/logIn.js.GET took 8ms. User: unknown
+25/02/2024 20:05:30 /Admin/Login.POST took 77ms. User: unknown
+25/02/2024 20:05:38 /Admin/Login.POST took 345ms. User: unknown
+25/02/2024 20:05:38 /Admin/Login.POST took 3ms. User: unknown
+25/02/2024 20:05:39 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 20:05:40 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 20:05:40 /Admin/Login.POST took 1ms. User: unknown
+25/02/2024 20:05:41 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 20:05:41 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 20:06:00 /index.html.GET took 41ms. User: unknown
+25/02/2024 20:06:00 /js/logIn.js.GET took 10ms. User: unknown
+25/02/2024 20:06:04 /Admin/Login.POST took 76ms. User: unknown
+25/02/2024 20:06:20 /Admin/Login.POST took 3ms. User: unknown
+25/02/2024 20:06:24 /Admin/Login.POST took 79ms. User: unknown
+25/02/2024 20:06:24 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:06:24 /todo.GET took 7ms. User: unknown
+25/02/2024 20:06:38 /index.html.GET took 2ms. User: unknown
+25/02/2024 20:06:38 /js/logIn.js.GET took 0ms. User: unknown
+25/02/2024 20:06:42 /Admin/Login.POST took 2ms. User: unknown
+25/02/2024 20:06:42 /todo.GET took 0ms. User: unknown
+25/02/2024 20:07:20 /Admin/login.POST took 4ms. User: unknown
+25/02/2024 20:07:31 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:07:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:07:31 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:07:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:07:32 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:07:32 /todo.GET took 0ms. User: unknown
+25/02/2024 20:07:32 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:07:32 /todo.GET took 0ms. User: unknown
+25/02/2024 20:07:32 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:07:32 /todo.GET took 0ms. User: unknown
+25/02/2024 20:08:06 /task.html.GET took 43ms. User: unknown
+25/02/2024 20:08:06 /todo.GET took 58ms. User: unknown
+25/02/2024 20:08:07 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:08:07 /todo.GET took 1ms. User: unknown
+25/02/2024 20:08:08 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:08:08 /todo.GET took 1ms. User: unknown
+25/02/2024 20:08:08 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:08 /todo.GET took 0ms. User: unknown
+25/02/2024 20:08:26 /task.html.GET took 43ms. User: unknown
+25/02/2024 20:08:27 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:08:27 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:08:27 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:27 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:27 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:28 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:28 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:28 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:28 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:28 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:29 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:29 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:29 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:29 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:29 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:29 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:30 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:08:57 /task.html.GET took 4ms. User: unknown
+25/02/2024 20:08:57 /todo.GET took 81ms. User: unknown
+25/02/2024 20:08:58 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:08:58 /todo.GET took 1ms. User: unknown
+25/02/2024 20:10:07 /task.html.GET took 42ms. User: unknown
+25/02/2024 20:10:07 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:07 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:07 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:08 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:08 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:08 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:09 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:09 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:09 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:09 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:09 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:09 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:10 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:10 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:10 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:10 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:10 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:11 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:11 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:11 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:11 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:11 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:11 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:12 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:10:13 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:11:06 /task.html.GET took 47ms. User: unknown
+25/02/2024 20:11:06 /todo.GET took 72ms. User: unknown
+25/02/2024 20:11:10 /todo.POST took 42ms. User: unknown
+25/02/2024 20:11:10 /todo.GET took 1ms. User: unknown
+25/02/2024 20:11:10 /todo.POST took 5ms. User: unknown
+25/02/2024 20:11:10 /todo.GET took 0ms. User: unknown
+25/02/2024 20:11:11 /todo.POST took 5ms. User: unknown
+25/02/2024 20:11:11 /todo.GET took 0ms. User: unknown
+25/02/2024 20:11:11 /todo.POST took 4ms. User: unknown
+25/02/2024 20:11:11 /todo.GET took 0ms. User: unknown
+25/02/2024 20:11:12 /todo.POST took 4ms. User: unknown
+25/02/2024 20:11:12 /todo.GET took 0ms. User: unknown
+25/02/2024 20:11:13 /todo/102.DELETE took 6ms. User: unknown
+25/02/2024 20:11:13 /todo.GET took 0ms. User: unknown
+25/02/2024 20:11:13 /todo/101.DELETE took 4ms. User: unknown
+25/02/2024 20:11:13 /todo.GET took 0ms. User: unknown
+25/02/2024 20:11:13 /todo/100.DELETE took 4ms. User: unknown
+25/02/2024 20:11:13 /todo.GET took 0ms. User: unknown
+25/02/2024 20:11:14 /todo/99.DELETE took 6ms. User: unknown
+25/02/2024 20:11:14 /todo.GET took 0ms. User: unknown
+25/02/2024 20:11:14 /todo/98.DELETE took 5ms. User: unknown
+25/02/2024 20:11:14 /todo.GET took 0ms. User: unknown
+25/02/2024 20:12:06 /task.html.GET took 41ms. User: unknown
+25/02/2024 20:12:06 /todo.GET took 76ms. User: unknown
+25/02/2024 20:12:09 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:12:09 /todo.GET took 1ms. User: unknown
+25/02/2024 20:12:09 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:12:09 /todo.GET took 2ms. User: unknown
+25/02/2024 20:12:09 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:12:09 /todo.GET took 0ms. User: unknown
+25/02/2024 20:12:10 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:12:10 /todo.GET took 0ms. User: unknown
+25/02/2024 20:12:10 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:12:10 /todo.GET took 0ms. User: unknown
+25/02/2024 20:12:10 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:12:10 /todo.GET took 0ms. User: unknown
+25/02/2024 20:12:10 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:12:10 /todo.GET took 0ms. User: unknown
+25/02/2024 20:12:10 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:12:10 /todo.GET took 0ms. User: unknown
+25/02/2024 20:12:32 /task.html.GET took 42ms. User: unknown
+25/02/2024 20:12:32 /todo.GET took 64ms. User: unknown
+25/02/2024 20:12:33 /task.html.GET took 2ms. User: unknown
+25/02/2024 20:12:33 /todo.GET took 1ms. User: unknown
+25/02/2024 20:12:33 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:12:33 /todo.GET took 2ms. User: unknown
+25/02/2024 20:12:33 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:12:33 /todo.GET took 0ms. User: unknown
+25/02/2024 20:12:33 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:12:33 /todo.GET took 0ms. User: unknown
+25/02/2024 20:12:33 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:12:33 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:00 /task.html.GET took 41ms. User: unknown
+25/02/2024 20:13:00 /todo.GET took 61ms. User: unknown
+25/02/2024 20:13:00 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:13:00 /todo.GET took 1ms. User: unknown
+25/02/2024 20:13:01 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:13:01 /todo.GET took 3ms. User: unknown
+25/02/2024 20:13:01 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:13:01 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:01 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:13:01 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:01 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:13:01 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:01 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:13:01 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:13:02 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:13:02 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:13:02 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:13:02 /todo.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:13:02 /todo.GET took 0ms. User: unknown
+25/02/2024 20:14:13 /task.html.GET took 43ms. User: unknown
+25/02/2024 20:14:13 /todo.GET took 56ms. User: unknown
+25/02/2024 20:14:20 /index.html.GET took 11ms. User: unknown
+25/02/2024 20:14:20 /js/logIn.js.GET took 5ms. User: unknown
+25/02/2024 20:16:26 /task.html.GET took 38ms. User: unknown
+25/02/2024 20:16:27 /todo.GET took 75ms. User: unknown
+25/02/2024 20:16:27 /task.html.GET took 2ms. User: unknown
+25/02/2024 20:16:27 /todo.GET took 1ms. User: unknown
+25/02/2024 20:16:27 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:27 /todo.GET took 2ms. User: unknown
+25/02/2024 20:16:28 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:28 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:28 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:28 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:29 /task.html.GET took 2ms. User: unknown
+25/02/2024 20:16:29 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:29 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:29 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:30 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:30 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:30 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:30 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:30 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:31 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:31 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:41 /task.html.GET took 40ms. User: unknown
+25/02/2024 20:16:41 /todo.GET took 37ms. User: unknown
+25/02/2024 20:16:41 /task.html.GET took 5ms. User: unknown
+25/02/2024 20:16:41 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:42 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:42 /todo.GET took 1ms. User: unknown
+25/02/2024 20:16:42 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:42 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:42 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:42 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:42 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:42 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:42 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:42 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:43 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:16:43 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:43 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /todo.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:16:44 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:29 /task.html.GET took 37ms. User: unknown
+25/02/2024 20:17:29 /todo.GET took 68ms. User: unknown
+25/02/2024 20:17:29 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:29 /todo.GET took 1ms. User: unknown
+25/02/2024 20:17:29 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:29 /todo.GET took 4ms. User: unknown
+25/02/2024 20:17:29 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:29 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:30 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:30 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:17:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:30 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:17:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:30 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:17:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:30 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:30 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:30 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:31 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:31 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:17:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:31 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:31 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:31 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:31 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:31 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:32 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:32 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:32 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:17:32 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:32 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:32 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:32 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:17:32 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:32 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:17:32 /todo.GET took 0ms. User: unknown
+25/02/2024 20:17:32 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:17:32 /todo.GET took 0ms. User: unknown
+25/02/2024 20:18:06 /task.html.GET took 40ms. User: unknown
+25/02/2024 20:18:06 /todo.GET took 64ms. User: unknown
+25/02/2024 20:19:23 /swagger/v1/swagger.json.GET took 61ms. User: unknown
+25/02/2024 20:20:20 /task.html.GET took 37ms. User: unknown
+25/02/2024 20:20:20 /todo.GET took 58ms. User: unknown
+25/02/2024 20:20:20 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:20:20 /todo.GET took 0ms. User: unknown
+25/02/2024 20:20:20 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:20:20 /todo.GET took 2ms. User: unknown
+25/02/2024 20:20:21 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:20:21 /todo.GET took 0ms. User: unknown
+25/02/2024 20:20:21 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:20:21 /todo.GET took 0ms. User: unknown
+25/02/2024 20:20:21 /task.html.GET took 1ms. User: unknown
+25/02/2024 20:20:21 /todo.GET took 0ms. User: unknown
+25/02/2024 20:20:21 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:20:21 /todo.GET took 0ms. User: unknown
+25/02/2024 20:20:21 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:20:21 /todo.GET took 0ms. User: unknown
+25/02/2024 20:20:21 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:20:22 /todo.GET took 0ms. User: unknown
+25/02/2024 20:20:22 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:20:22 /todo.GET took 0ms. User: unknown
+25/02/2024 20:20:22 /task.html.GET took 0ms. User: unknown
+25/02/2024 20:20:22 /todo.GET took 0ms. User: unknown
+25/02/2024 20:20:31 /todo.GET took 0ms. User: unknown
+26/02/2024 15:26:48 /index.html.GET took 186ms. User: unknown
+26/02/2024 15:26:48 /css/site.css.GET took 4ms. User: unknown
+26/02/2024 15:26:48 /js/logIn.js.GET took 27ms. User: unknown
+26/02/2024 15:26:48 /favicon.ico.GET took 211ms. User: unknown
+26/02/2024 15:27:31 /Admin/Login.POST took 203ms. User: unknown
+26/02/2024 15:27:31 /task.html.GET took 12ms. User: unknown
+26/02/2024 15:27:31 /js/site.js.GET took 13ms. User: unknown
+26/02/2024 15:27:36 /task.html.GET took 4ms. User: unknown
+26/02/2024 15:27:37 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:27:37 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:37 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:37 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:37 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:38 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:38 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:38 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:27:38 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:38 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:38 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:41 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:41 /task.html.GET took 4ms. User: unknown
+26/02/2024 15:27:42 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:42 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:42 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:42 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:42 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:42 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:43 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:43 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:44 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:44 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:44 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:27:44 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:44 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:44 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:27:45 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:27:45 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:27:45 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:27:45 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:28:19 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:28:55 /task.html.GET took 4ms. User: unknown
+26/02/2024 15:28:55 /css/site.css.GET took 2ms. User: unknown
+26/02/2024 15:28:55 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 15:29:00 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:00 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:00 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:01 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:01 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:01 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:01 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:01 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:01 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:01 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:03 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:03 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:04 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:04 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:04 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:04 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:04 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:29:05 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:05 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:05 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:05 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:06 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:29:16 /task.html.GET took 3ms. User: unknown
+26/02/2024 15:29:16 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 15:29:16 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 15:29:19 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:29:19 /css/site.css.GET took 0ms. User: unknown
+26/02/2024 15:29:19 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 15:30:28 /task.html.GET took 34ms. User: unknown
+26/02/2024 15:30:29 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:30:31 /task.html.GET took 7ms. User: unknown
+26/02/2024 15:30:31 /css/site.css.GET took 2ms. User: unknown
+26/02/2024 15:30:31 /favicon.ico.GET took 66ms. User: unknown
+26/02/2024 15:30:32 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:30:32 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 15:30:32 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 15:30:37 /Admin/Login.POST took 110ms. User: unknown
+26/02/2024 15:30:37 /js/site.js.GET took 0ms. User: unknown
+26/02/2024 15:30:37 /todo.GET took 55ms. User: unknown
+26/02/2024 15:32:16 /task.html.GET took 34ms. User: unknown
+26/02/2024 15:32:16 /js/site.js.GET took 7ms. User: unknown
+26/02/2024 15:32:16 /todo.GET took 102ms. User: unknown
+26/02/2024 15:32:17 /task.html.GET took 0ms. User: unknown
+26/02/2024 15:32:17 /js/site.js.GET took 0ms. User: unknown
+26/02/2024 15:32:17 /todo.GET took 0ms. User: unknown
+26/02/2024 15:32:18 /task.html.GET took 1ms. User: unknown
+26/02/2024 15:32:18 /js/site.js.GET took 0ms. User: unknown
+26/02/2024 15:32:18 /todo.GET took 1ms. User: unknown
+26/02/2024 16:10:54 /Admin/Login.POST took 327ms. User: unknown
+26/02/2024 16:10:54 /js/site.js.GET took 60ms. User: unknown
+26/02/2024 16:12:02 /task.html.GET took 3ms. User: unknown
+26/02/2024 16:12:02 /js/site.js.GET took 3ms. User: unknown
+26/02/2024 16:12:03 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 16:12:04 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:12:04 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:12:04 /favicon.ico.GET took 2ms. User: unknown
+26/02/2024 16:12:49 /task.html.GET took 34ms. User: unknown
+26/02/2024 16:12:49 /js/site.js.GET took 9ms. User: unknown
+26/02/2024 16:12:49 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:12:49 /js/site.js.GET took 0ms. User: unknown
+26/02/2024 16:12:49 /task.html.GET took 0ms. User: unknown
+26/02/2024 16:12:49 /js/site.js.GET took 0ms. User: unknown
+26/02/2024 16:12:51 /task.html.GET took 3ms. User: unknown
+26/02/2024 16:12:51 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:12:51 /favicon.ico.GET took 59ms. User: unknown
+26/02/2024 16:14:59 /task.html.GET took 36ms. User: unknown
+26/02/2024 16:14:59 /js/site.js.GET took 8ms. User: unknown
+26/02/2024 16:15:02 /task.html.GET took 4ms. User: unknown
+26/02/2024 16:15:02 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:15:02 /css/site.css.GET took 5ms. User: unknown
+26/02/2024 16:15:02 /favicon.ico.GET took 62ms. User: unknown
+26/02/2024 16:15:04 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:15:04 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:15:04 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 16:15:05 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:15:05 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:15:05 /favicon.ico.GET took 2ms. User: unknown
+26/02/2024 16:15:05 /task.html.GET took 0ms. User: unknown
+26/02/2024 16:15:05 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:15:05 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 16:15:06 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:15:06 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:15:06 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:16:09 /task.html.GET took 38ms. User: unknown
+26/02/2024 16:16:09 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 16:16:09 /favicon.ico.GET took 62ms. User: unknown
+26/02/2024 16:16:09 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:16:09 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:16:09 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:16:10 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:16:10 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:16:10 /favicon.ico.GET took 2ms. User: unknown
+26/02/2024 16:16:10 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:16:10 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:16:10 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:16:11 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:16:11 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:16:11 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:16:11 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:16:11 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:16:11 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:16:20 /js/site.js.GET took 7ms. User: unknown
+26/02/2024 16:21:19 /task.html.GET took 9ms. User: unknown
+26/02/2024 16:21:19 /js/site.js.GET took 2ms. User: unknown
+26/02/2024 16:36:04 /Admin/Login.POST took 197ms. User: unknown
+26/02/2024 16:36:04 /js/site.js.GET took 26ms. User: unknown
+26/02/2024 16:36:07 /task.html.GET took 8ms. User: unknown
+26/02/2024 16:36:07 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 16:36:07 /favicon.ico.GET took 2ms. User: unknown
+26/02/2024 16:36:07 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:36:07 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:36:07 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:36:08 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:36:08 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:36:08 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:36:08 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:36:08 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:36:08 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:36:08 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:36:08 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:36:08 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:37:52 /task.html.GET took 43ms. User: unknown
+26/02/2024 16:37:52 /js/site.js.GET took 12ms. User: unknown
+26/02/2024 16:37:52 /favicon.ico.GET took 108ms. User: unknown
+26/02/2024 16:40:28 /task.html.GET took 36ms. User: unknown
+26/02/2024 16:40:28 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 16:40:28 /favicon.ico.GET took 50ms. User: unknown
+26/02/2024 16:40:29 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:40:29 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:40:29 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 16:40:34 /js/site.js.GET took 4ms. User: unknown
+26/02/2024 16:40:41 /Admin/Login.POST took 104ms. User: unknown
+26/02/2024 16:40:44 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:40:44 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:40:44 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:41:44 /task.html.GET took 38ms. User: unknown
+26/02/2024 16:41:44 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 16:41:44 /js/site.js.GET took 6ms. User: unknown
+26/02/2024 16:41:44 /favicon.ico.GET took 50ms. User: unknown
+26/02/2024 16:41:57 /.GET took 1ms. User: unknown
+26/02/2024 16:41:59 /Admin/Login.POST took 108ms. User: unknown
+26/02/2024 16:43:56 /swagger.GET took 31ms. User: unknown
+26/02/2024 16:43:56 /swagger/index.html.GET took 26ms. User: unknown
+26/02/2024 16:43:57 /swagger/swagger-ui.css.GET took 20ms. User: unknown
+26/02/2024 16:43:57 /swagger/swagger-ui-bundle.js.GET took 31ms. User: unknown
+26/02/2024 16:43:57 /swagger/favicon-32x32.png.GET took 0ms. User: unknown
+26/02/2024 16:43:59 /swagger/index.html.GET took 0ms. User: unknown
+26/02/2024 16:43:59 /swagger/v1/swagger.json.GET took 70ms. User: unknown
+26/02/2024 16:44:43 /Admin/Login.POST took 109ms. User: unknown
+26/02/2024 16:44:55 /todo.GET took 122ms. User: 222
+26/02/2024 16:46:33 /Admin/Login.POST took 162ms. User: unknown
+26/02/2024 16:46:33 /js/site.js.GET took 24ms. User: unknown
+26/02/2024 16:50:38 /task.html.GET took 32ms. User: unknown
+26/02/2024 16:50:38 /js/site.js.GET took 7ms. User: unknown
+26/02/2024 16:50:38 /todo.GET took 58ms. User: unknown
+26/02/2024 16:50:43 /Admin/Login.POST took 110ms. User: unknown
+26/02/2024 16:50:43 /todo.GET took 0ms. User: unknown
+26/02/2024 16:50:45 /task.html.GET took 4ms. User: unknown
+26/02/2024 16:50:45 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:50:45 /todo.GET took 0ms. User: unknown
+26/02/2024 16:50:45 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:50:46 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:50:46 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:50:46 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:50:47 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:50:47 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:50:47 /todo.GET took 0ms. User: unknown
+26/02/2024 16:50:47 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:51:20 /Admin/Login.POST took 193ms. User: unknown
+26/02/2024 16:51:20 /js/site.js.GET took 22ms. User: unknown
+26/02/2024 16:51:20 /todo.GET took 6ms. User: unknown
+26/02/2024 16:51:42 /task.html.GET took 7ms. User: unknown
+26/02/2024 16:51:42 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:51:43 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 16:52:01 /task.html.GET took 5ms. User: unknown
+26/02/2024 16:52:01 /js/site.js.GET took 4ms. User: unknown
+26/02/2024 16:52:01 /todo.GET took 0ms. User: unknown
+26/02/2024 16:52:01 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 16:56:13 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:37 /todo.GET took 82ms. User: unknown
+26/02/2024 16:56:38 /todo.GET took 1ms. User: unknown
+26/02/2024 16:56:39 /todo.GET took 1ms. User: unknown
+26/02/2024 16:56:39 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:39 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:39 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:39 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:39 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:40 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:40 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:40 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:40 /todo.GET took 0ms. User: unknown
+26/02/2024 16:56:43 /task.html.GET took 11ms. User: unknown
+26/02/2024 16:56:43 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 16:56:43 /favicon.ico.GET took 29ms. User: unknown
+26/02/2024 16:56:43 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:56:43 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:56:43 /Task.GET took 1ms. User: unknown
+26/02/2024 16:56:43 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:56:43 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:56:43 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:56:43 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:56:44 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:56:44 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:56:44 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:56:44 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:56:44 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:56:44 /Task.GET took 0ms. User: unknown
+26/02/2024 16:56:44 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:56:44 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:56:44 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:56:44 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:56:45 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:56:45 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:56:45 /Task.GET took 0ms. User: unknown
+26/02/2024 16:56:45 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:56:45 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:56:45 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:56:45 /Task.GET took 0ms. User: unknown
+26/02/2024 16:56:45 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 16:56:45 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:56:45 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:56:45 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:56:48 /todo.GET took 0ms. User: unknown
+26/02/2024 16:57:00 /task.html.GET took 38ms. User: unknown
+26/02/2024 16:57:00 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 16:57:01 /favicon.ico.GET took 61ms. User: unknown
+26/02/2024 16:58:09 /task.html.GET took 39ms. User: unknown
+26/02/2024 16:58:09 /css/site.css.GET took 4ms. User: unknown
+26/02/2024 16:58:09 /favicon.ico.GET took 95ms. User: unknown
+26/02/2024 16:58:18 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:58:18 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:58:18 /todo.GET took 7ms. User: unknown
+26/02/2024 16:58:18 /favicon.ico.GET took 21ms. User: unknown
+26/02/2024 16:58:21 /todo/.PUT took 0ms. User: unknown
+26/02/2024 16:58:21 /todo.GET took 0ms. User: unknown
+26/02/2024 16:58:23 /task.html.GET took 10ms. User: unknown
+26/02/2024 16:58:23 /css/site.css.GET took 2ms. User: unknown
+26/02/2024 16:58:23 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 16:58:24 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:58:24 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:58:24 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:58:24 /task.html.GET took 0ms. User: unknown
+26/02/2024 16:58:24 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:58:25 /todo.GET took 0ms. User: unknown
+26/02/2024 16:58:25 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:58:25 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:58:25 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 16:58:25 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:58:25 /task.html.GET took 1ms. User: unknown
+26/02/2024 16:58:25 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 16:58:25 /todo.GET took 0ms. User: unknown
+26/02/2024 16:58:25 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 16:59:42 /task.html.GET took 32ms. User: unknown
+26/02/2024 16:59:42 /js/site.js.GET took 8ms. User: unknown
+26/02/2024 16:59:43 /todo.GET took 665ms. User: unknown
+26/02/2024 16:59:48 /Admin/Login.POST took 889ms. User: unknown
+26/02/2024 16:59:48 /js/site.js.GET took 0ms. User: unknown
+26/02/2024 16:59:58 /todo.GET took 0ms. User: unknown
+26/02/2024 17:00:31 /task.html.GET took 42ms. User: unknown
+26/02/2024 17:00:31 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 17:00:31 /favicon.ico.GET took 183ms. User: unknown
+26/02/2024 17:00:31 /todo.GET took 194ms. User: unknown
+26/02/2024 17:00:45 /todo.GET took 1ms. User: unknown
+26/02/2024 17:00:46 /todo.GET took 0ms. User: unknown
+26/02/2024 17:00:46 /todo.GET took 0ms. User: unknown
+26/02/2024 17:00:46 /todo.GET took 0ms. User: unknown
+26/02/2024 17:00:46 /todo.GET took 0ms. User: unknown
+26/02/2024 17:00:46 /todo.GET took 0ms. User: unknown
+26/02/2024 17:00:47 /todo.GET took 0ms. User: unknown
+26/02/2024 17:00:47 /todo.GET took 0ms. User: unknown
+26/02/2024 17:00:48 /swagger/index.html.GET took 25ms. User: unknown
+26/02/2024 17:00:49 /swagger/v1/swagger.json.GET took 59ms. User: unknown
+26/02/2024 17:00:52 /todo.GET took 0ms. User: unknown
+26/02/2024 17:11:29 /task.html.GET took 8ms. User: unknown
+26/02/2024 17:11:29 /css/site.css.GET took 5ms. User: unknown
+26/02/2024 17:11:29 /favicon.ico.GET took 2ms. User: unknown
+26/02/2024 17:12:59 /task.html.GET took 37ms. User: unknown
+26/02/2024 17:12:59 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 17:12:59 /favicon.ico.GET took 121ms. User: unknown
+26/02/2024 17:13:09 /task.html.GET took 1ms. User: unknown
+26/02/2024 17:13:09 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 17:13:09 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 17:13:10 /task.html.GET took 1ms. User: unknown
+26/02/2024 17:13:10 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 17:13:10 /todo.GET took 7ms. User: unknown
+26/02/2024 17:13:10 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 17:13:10 /task.html.GET took 1ms. User: unknown
+26/02/2024 17:13:10 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 17:13:10 /todo.GET took 0ms. User: unknown
+26/02/2024 17:13:10 /task.html.GET took 0ms. User: unknown
+26/02/2024 17:13:10 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 17:13:11 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 17:13:11 /task.html.GET took 1ms. User: unknown
+26/02/2024 17:13:11 /css/site.css.GET took 1ms. User: unknown
+26/02/2024 17:13:11 /favicon.ico.GET took 0ms. User: unknown
+26/02/2024 17:13:11 /task.html.GET took 1ms. User: unknown
+26/02/2024 17:13:11 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 17:13:11 /todo.GET took 0ms. User: unknown
+26/02/2024 17:13:21 /todo.GET took 0ms. User: unknown
+26/02/2024 17:14:50 /todo.GET took 78ms. User: unknown
+26/02/2024 17:14:51 /task.html.GET took 8ms. User: unknown
+26/02/2024 17:14:51 /js/site.js.GET took 2ms. User: unknown
+26/02/2024 17:14:51 /todo.GET took 1ms. User: unknown
+26/02/2024 17:14:51 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 17:14:52 /task.html.GET took 1ms. User: unknown
+26/02/2024 17:14:52 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 17:14:52 /todo.GET took 0ms. User: unknown
+26/02/2024 17:14:52 /task.html.GET took 1ms. User: unknown
+26/02/2024 17:14:52 /js/site.js.GET took 0ms. User: unknown
+26/02/2024 17:14:53 /todo.GET took 0ms. User: unknown
+26/02/2024 17:14:53 /task.html.GET took 0ms. User: unknown
+26/02/2024 17:14:53 /todo.GET took 0ms. User: unknown
+26/02/2024 17:15:16 /Admin/Login.POST took 171ms. User: unknown
+26/02/2024 17:15:16 /todo.GET took 19ms. User: unknown
+26/02/2024 17:15:19 /task.html.GET took 12ms. User: unknown
+26/02/2024 17:15:19 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 17:15:19 /favicon.ico.GET took 2ms. User: unknown
+26/02/2024 17:17:11 /task.html.GET took 48ms. User: unknown
+26/02/2024 17:17:11 /js/site.js.GET took 9ms. User: unknown
+26/02/2024 17:17:11 /todo.GET took 119ms. User: unknown
+26/02/2024 17:17:12 /task.html.GET took 1ms. User: unknown
+26/02/2024 17:17:12 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 17:17:13 /todo.GET took 2ms. User: unknown
+26/02/2024 17:17:13 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 17:20:37 /Admin/Login.POST took 218ms. User: unknown
+26/02/2024 17:20:37 /task.html.GET took 21ms. User: unknown
+26/02/2024 17:20:37 /js/site.js.GET took 7ms. User: unknown
+26/02/2024 17:20:37 /todo.GET took 5ms. User: unknown
+26/02/2024 17:20:39 /task.html.GET took 4ms. User: unknown
+26/02/2024 17:20:39 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 17:20:39 /todo.GET took 2ms. User: unknown
+26/02/2024 17:20:39 /favicon.ico.GET took 1ms. User: unknown
+26/02/2024 17:22:19 /task.html.GET took 34ms. User: unknown
+26/02/2024 17:22:19 /js/site.js.GET took 8ms. User: unknown
+26/02/2024 17:22:19 /todo.GET took 58ms. User: unknown
+26/02/2024 17:22:21 /task.html.GET took 22ms. User: unknown
+26/02/2024 17:22:21 /js/site.js.GET took 1ms. User: unknown
+26/02/2024 17:22:21 /css/site.css.GET took 3ms. User: unknown
+26/02/2024 17:22:21 /todo.GET took 2ms. User: unknown
+26/02/2024 17:22:21 /favicon.ico.GET took 2ms. User: unknown
+26/02/2024 17:29:08 /swagger/index.html.GET took 52ms. User: unknown
+26/02/2024 17:29:08 /swagger/v1/swagger.json.GET took 57ms. User: unknown
+26/02/2024 17:29:18 /Admin/Login.POST took 544ms. User: unknown
+26/02/2024 17:29:31 /todo.GET took 40ms. User: 111
+26/02/2024 17:29:39 /todo.GET took 1ms. User: 111
+26/02/2024 17:32:24 /swagger/index.html.GET took 52ms. User: unknown
+26/02/2024 17:32:24 /swagger/v1/swagger.json.GET took 58ms. User: unknown
+26/02/2024 17:32:25 /swagger/index.html.GET took 0ms. User: unknown
+26/02/2024 17:32:25 /swagger/v1/swagger.json.GET took 3ms. User: unknown
+26/02/2024 17:32:33 /Admin/Login.POST took 158ms. User: unknown
+26/02/2024 17:32:44 /todo.GET took 41ms. User: 111
+26/02/2024 17:32:55 /todo.GET took 3ms. User: unknown
+26/02/2024 17:32:57 /todo.GET took 0ms. User: unknown
+26/02/2024 17:32:57 /todo.GET took 0ms. User: unknown
+26/02/2024 17:32:57 /todo.GET took 0ms. User: unknown
+26/02/2024 17:32:58 /todo.GET took 0ms. User: unknown
+26/02/2024 17:32:58 /todo.GET took 0ms. User: unknown
+26/02/2024 17:32:58 /todo.GET took 0ms. User: unknown
+26/02/2024 17:32:58 /todo.GET took 0ms. User: unknown
+26/02/2024 17:32:58 /todo.GET took 0ms. User: unknown
+26/02/2024 17:32:59 /todo.GET took 0ms. User: unknown
+26/02/2024 17:33:05 /todo.GET took 0ms. User: unknown
+26/02/2024 17:33:05 /todo.GET took 0ms. User: unknown
+26/02/2024 17:33:05 /todo.GET took 0ms. User: unknown
+26/02/2024 17:33:05 /todo.GET took 0ms. User: unknown
+26/02/2024 17:33:06 /todo.GET took 0ms. User: unknown
+26/02/2024 17:33:06 /todo.GET took 0ms. User: unknown
+26/02/2024 17:35:25 /swagger/index.html.GET took 54ms. User: unknown
+26/02/2024 17:35:25 /swagger/v1/swagger.json.GET took 57ms. User: unknown
+26/02/2024 17:35:34 /Admin/Login.POST took 737ms. User: unknown
+26/02/2024 17:35:45 /todo.GET took 125ms. User: 111
+26/02/2024 17:40:41 /index.html.GET took 40ms. User: unknown
+26/02/2024 17:40:41 /js/logIn.js.GET took 1ms. User: unknown
+26/02/2024 17:40:44 /Admin/Login.POST took 747ms. User: unknown
+26/02/2024 17:40:44 /task.html.GET took 0ms. User: unknown
+26/02/2024 17:40:44 /js/site.js.GET took 6ms. User: unknown
+26/02/2024 17:40:44 /todo.GET took 4ms. User: unknown
+26/02/2024 17:41:48 /swagger/index.html.GET took 25ms. User: unknown
+26/02/2024 17:41:48 /swagger/v1/swagger.json.GET took 77ms. User: unknown
+26/02/2024 17:41:57 /Admin/Login.POST took 6ms. User: unknown
+26/02/2024 17:42:11 /todo.GET took 83ms. User: 111
+26/02/2024 17:44:20 /Admin/Login.POST took 686ms. User: unknown
+26/02/2024 17:44:20 /task.html.GET took 21ms. User: unknown
+26/02/2024 17:44:20 /js/site.js.GET took 11ms. User: unknown
+26/02/2024 17:44:21 /todo.GET took 82ms. User: 111
+26/02/2024 18:21:47 /index.html.GET took 66ms. User: unknown
+26/02/2024 18:21:48 /css/site.css.GET took 0ms. User: unknown
+26/02/2024 18:21:48 /js/logIn.js.GET took 12ms. User: unknown
+26/02/2024 18:21:48 /favicon.ico.GET took 50ms. User: unknown
+26/02/2024 18:21:54 /Admin/Login.POST took 43ms. User: unknown
+26/02/2024 18:22:02 /Admin/Login.POST took 418ms. User: unknown
+26/02/2024 18:22:02 /task.html.GET took 0ms. User: unknown
+26/02/2024 18:22:02 /js/site.js.GET took 3ms. User: unknown
+26/02/2024 18:22:02 /todo.GET took 208ms. User: 111
+26/02/2024 18:22:10 /Admin/Login.POST took 1ms. User: unknown
+26/02/2024 18:22:10 /todo.GET took 1ms. User: 222
+26/02/2024 18:22:19 /Admin/Login.POST took 1ms. User: unknown
+26/02/2024 18:22:19 /todo.GET took 1ms. User: 111
+27/02/2024 11:47:53 /index.html.GET took 101ms. User: unknown
+27/02/2024 11:47:53 /css/site.css.GET took 2ms. User: unknown
+27/02/2024 11:47:53 /js/logIn.js.GET took 20ms. User: unknown
+27/02/2024 11:47:53 /favicon.ico.GET took 106ms. User: unknown
+27/02/2024 11:47:56 /Admin/Login.POST took 160ms. User: unknown
+27/02/2024 11:47:56 /task.html.GET took 9ms. User: unknown
+27/02/2024 11:47:56 /js/site.js.GET took 24ms. User: unknown
+27/02/2024 11:47:56 /todo.GET took 116ms. User: 111
+27/02/2024 11:48:00 /todo.GET took 1ms. User: 111
+27/02/2024 11:48:07 /todo.GET took 3ms. User: 111
+27/02/2024 11:48:11 /todo.GET took 0ms. User: 111
+27/02/2024 11:48:17 /todo.GET took 0ms. User: 111
+27/02/2024 11:48:20 /todo.GET took 0ms. User: 111
+27/02/2024 11:48:27 /swagger.GET took 3ms. User: unknown
+27/02/2024 11:48:27 /swagger/index.html.GET took 36ms. User: unknown
+27/02/2024 11:48:27 /swagger/swagger-ui.css.GET took 17ms. User: unknown
+27/02/2024 11:48:27 /swagger/swagger-ui-standalone-preset.js.GET took 31ms. User: unknown
+27/02/2024 11:48:27 /swagger/swagger-ui-bundle.js.GET took 44ms. User: unknown
+27/02/2024 11:48:27 /swagger/favicon-32x32.png.GET took 0ms. User: unknown
+27/02/2024 11:48:27 /swagger/v1/swagger.json.GET took 112ms. User: unknown
+27/02/2024 11:48:52 /Admin/Login.POST took 2ms. User: unknown
+27/02/2024 11:49:10 /todo.GET took 1ms. User: 222
+27/02/2024 11:49:28 /todo/95.GET took 17ms. User: 222
+27/02/2024 11:50:12 /todo/95.PUT took 5ms. User: 222
+27/02/2024 11:50:34 /todo.POST took 32ms. User: 222
+27/02/2024 11:58:40 /swagger/index.html.GET took 80ms. User: unknown
+27/02/2024 11:58:40 /swagger/v1/swagger.json.GET took 88ms. User: unknown
+27/02/2024 11:58:52 /Admin/Login.POST took 160ms. User: unknown
+27/02/2024 12:09:24 /todo.POST took 246ms. User: 222
+27/02/2024 12:10:47 /todo.POST took 278ms. User: 222
+27/02/2024 12:10:57 /todo.POST took 6ms. User: 222
+27/02/2024 12:10:59 /todo.POST took 4ms. User: 222
+27/02/2024 12:11:00 /todo.POST took 2ms. User: 222
+27/02/2024 12:11:00 /todo.POST took 5ms. User: 222
+27/02/2024 12:11:12 /todo.POST took 2ms. User: 222
+27/02/2024 12:11:58 /todo.POST took 4ms. User: 222
+27/02/2024 12:12:03 /todo.POST took 38ms. User: 222
+27/02/2024 12:12:05 /todo.POST took 2ms. User: 222
+27/02/2024 12:13:37 /todo.POST took 3ms. User: 222
+27/02/2024 12:21:11 /todo.POST took 247ms. User: 222
+27/02/2024 12:25:33 /Admin/Login.POST took 19ms. User: unknown
+27/02/2024 12:25:33 /todo.GET took 44ms. User: 222
+27/02/2024 12:25:46 /todo.POST took 3ms. User: unknown
+27/02/2024 12:33:54 /Admin/Login.POST took 160ms. User: unknown
+27/02/2024 12:33:54 /todo.GET took 101ms. User: 222
+27/02/2024 12:33:55 /todo.POST took 5ms. User: unknown
+27/02/2024 12:33:59 /todo.POST took 0ms. User: unknown
+27/02/2024 12:34:15 /todo.POST took 0ms. User: unknown
+27/02/2024 12:36:18 /swagger/v1/swagger.json.GET took 121ms. User: unknown
+27/02/2024 12:36:25 /todo.POST took 0ms. User: unknown
+27/02/2024 12:42:52 /Admin/Login.POST took 160ms. User: unknown
+27/02/2024 12:42:52 /todo.GET took 99ms. User: 222
+27/02/2024 12:42:54 /todo.POST took 6ms. User: unknown
+27/02/2024 12:42:55 /todo.GET took 2ms. User: 222
+27/02/2024 12:42:57 /todo.GET took 0ms. User: 222
+27/02/2024 12:43:04 /swagger/index.html.GET took 39ms. User: unknown
+27/02/2024 12:43:05 /swagger/v1/swagger.json.GET took 117ms. User: unknown
+27/02/2024 12:43:12 /Admin/Login.POST took 3ms. User: unknown
+27/02/2024 12:43:25 /todo.GET took 1ms. User: 222
+27/02/2024 12:43:38 /todo/108.GET took 3ms. User: 222
+27/02/2024 12:43:59 /todo/108.DELETE took 3ms. User: 222
+27/02/2024 12:44:17 /todo.GET took 0ms. User: 222
+27/02/2024 12:44:36 /task.html.GET took 4ms. User: unknown
+27/02/2024 12:44:36 /todo.GET took 0ms. User: 222
+27/02/2024 12:44:38 /todo.GET took 0ms. User: 222
+27/02/2024 12:45:35 /swagger/index.html.GET took 0ms. User: unknown
+27/02/2024 12:45:35 /swagger/v1/swagger.json.GET took 10ms. User: unknown
+27/02/2024 12:45:40 /todo.GET took 0ms. User: unknown
+27/02/2024 12:45:47 /todo/4.GET took 0ms. User: unknown
+27/02/2024 12:48:54 /todo/108.GET took 23ms. User: 222
+27/02/2024 12:51:09 /Admin/Login.POST took 169ms. User: unknown
+27/02/2024 12:51:09 /todo.GET took 108ms. User: 222
+27/02/2024 12:51:10 /todo/2.DELETE took 4ms. User: unknown
+27/02/2024 12:51:10 /todo.GET took 1ms. User: 222
+27/02/2024 12:51:11 /todo/93.PUT took 0ms. User: unknown
+27/02/2024 12:51:11 /todo.GET took 0ms. User: 222
+27/02/2024 12:51:12 /todo.POST took 0ms. User: unknown
+27/02/2024 12:51:18 /Admin/Login.POST took 3ms. User: 222
+27/02/2024 12:51:23 /todo.GET took 1ms. User: 222
+27/02/2024 12:51:32 /todo/107.GET took 4ms. User: 222
+27/02/2024 12:51:41 /todo/107.DELETE took 7ms. User: 222
+27/02/2024 12:51:54 /todo.GET took 0ms. User: unknown
+27/02/2024 12:51:55 /todo.GET took 0ms. User: unknown
+27/02/2024 12:51:56 /todo.GET took 0ms. User: unknown
+27/02/2024 12:52:15 /todo.GET took 0ms. User: 222
+27/02/2024 12:55:11 /todo.GET took 0ms. User: 222
+27/02/2024 12:55:34 /todo/106.PUT took 4ms. User: 222
+27/02/2024 12:56:42 /todo.POST took 29ms. User: 222
+27/02/2024 12:56:54 /todo.POST took 8ms. User: 222
+27/02/2024 12:57:02 /todo.POST took 1ms. User: 222
+27/02/2024 12:57:15 /todo.POST took 0ms. User: 222
+27/02/2024 12:57:27 /todo.POST took 1ms. User: 222
+27/02/2024 12:58:21 /task.html.GET took 8ms. User: unknown
+27/02/2024 12:58:21 /todo.GET took 0ms. User: 222
+27/02/2024 12:58:22 /task.html.GET took 0ms. User: unknown
+27/02/2024 12:58:22 /todo.GET took 1ms. User: 222
+27/02/2024 12:58:22 /task.html.GET took 0ms. User: unknown
+27/02/2024 12:58:22 /todo.GET took 0ms. User: 222
+27/02/2024 12:58:39 /todo/95.DELETE took 0ms. User: unknown
+27/02/2024 12:58:39 /todo.GET took 0ms. User: 222
+27/02/2024 13:02:48 /task.html.GET took 49ms. User: unknown
+27/02/2024 13:02:49 /todo.GET took 441ms. User: 222
+27/02/2024 13:02:51 /todo/93.DELETE took 5ms. User: unknown
+27/02/2024 13:02:51 /todo.GET took 3ms. User: 222
+27/02/2024 13:02:51 /todo/93.DELETE took 0ms. User: unknown
+27/02/2024 13:02:51 /todo.GET took 0ms. User: 222
+27/02/2024 13:02:52 /todo/95.DELETE took 0ms. User: unknown
+27/02/2024 13:02:52 /todo.GET took 1ms. User: 222
+27/02/2024 13:03:00 /Admin/Login.POST took 41ms. User: unknown
+27/02/2024 13:03:00 /todo.GET took 0ms. User: 222
+27/02/2024 13:03:01 /todo/93.DELETE took 0ms. User: unknown
+27/02/2024 13:03:01 /todo.GET took 0ms. User: 222
+27/02/2024 13:03:45 /task.html.GET took 1ms. User: unknown
+27/02/2024 13:03:45 /todo.GET took 0ms. User: 222
+27/02/2024 13:03:59 /Admin/Login.POST took 7ms. User: unknown
+27/02/2024 13:03:59 /todo.GET took 15ms. User: 111
+27/02/2024 13:04:00 /todo/1.DELETE took 0ms. User: unknown
+27/02/2024 13:04:00 /todo.GET took 0ms. User: 111
+27/02/2024 13:07:16 /Admin/Login.POST took 164ms. User: unknown
+27/02/2024 13:07:16 /todo.GET took 107ms. User: 111
+27/02/2024 13:07:17 /todo/1.DELETE took 5ms. User: unknown
+27/02/2024 13:07:17 /todo.GET took 1ms. User: 111
+27/02/2024 13:07:20 /todo/94.DELETE took 0ms. User: unknown
+27/02/2024 13:07:20 /todo.GET took 0ms. User: 111
+27/02/2024 13:07:21 /todo/96.DELETE took 0ms. User: unknown
+27/02/2024 13:07:21 /todo.GET took 0ms. User: 111
+27/02/2024 13:09:00 /task.html.GET took 54ms. User: unknown
+27/02/2024 13:09:00 /todo.GET took 242ms. User: 111
+27/02/2024 13:09:02 /task.html.GET took 1ms. User: unknown
+27/02/2024 13:09:02 /todo.GET took 5ms. User: 111
+27/02/2024 13:09:03 /todo/1.DELETE took 26ms. User: unknown
+27/02/2024 13:09:03 /todo.GET took 7ms. User: 111
+27/02/2024 13:09:04 /todo/94.DELETE took 1ms. User: unknown
+27/02/2024 13:09:04 /todo.GET took 0ms. User: 111
+27/02/2024 13:09:05 /todo/96.DELETE took 0ms. User: unknown
+27/02/2024 13:09:05 /todo.GET took 0ms. User: 111
+27/02/2024 13:09:05 /todo/98.DELETE took 0ms. User: unknown
+27/02/2024 13:09:05 /todo.GET took 0ms. User: 111
+27/02/2024 13:09:55 /Admin/Login.POST took 42ms. User: unknown
+27/02/2024 13:09:56 /todo.GET took 0ms. User: 111
+27/02/2024 13:09:56 /todo/1.DELETE took 0ms. User: unknown
+27/02/2024 13:09:56 /todo.GET took 0ms. User: 111
+27/02/2024 13:10:06 /todo/1.DELETE took 0ms. User: unknown
+27/02/2024 13:10:06 /todo.GET took 0ms. User: 111
+27/02/2024 13:10:07 /todo/1.DELETE took 0ms. User: unknown
+27/02/2024 13:10:07 /todo.GET took 0ms. User: 111
+27/02/2024 13:10:10 /todo/1.DELETE took 0ms. User: unknown
+27/02/2024 13:10:10 /todo.GET took 0ms. User: 111
+27/02/2024 13:10:27 /todo/1.DELETE took 0ms. User: unknown
+27/02/2024 13:10:27 /todo.GET took 0ms. User: 111
+27/02/2024 13:11:57 /todo/1.DELETE took 0ms. User: unknown
+27/02/2024 13:11:57 /todo.GET took 0ms. User: 111
+27/02/2024 13:12:06 /Admin/Login.POST took 2ms. User: unknown
+27/02/2024 13:12:06 /todo.GET took 0ms. User: 111
+27/02/2024 13:12:07 /todo/1.DELETE took 0ms. User: unknown
+27/02/2024 13:12:07 /todo.GET took 0ms. User: 111
+27/02/2024 13:12:27 /Admin/Login.POST took 1ms. User: unknown
+27/02/2024 13:12:27 /todo.GET took 1ms. User: 222
+27/02/2024 13:12:28 /todo/2.DELETE took 0ms. User: unknown
+27/02/2024 13:12:28 /todo.GET took 0ms. User: 222
+27/02/2024 13:17:39 /Admin/Login.POST took 172ms. User: unknown
+27/02/2024 13:17:39 /todo.GET took 111ms. User: 222
+27/02/2024 13:17:40 /todo/2.DELETE took 4ms. User: unknown
+27/02/2024 13:17:40 /todo.GET took 2ms. User: 222
+27/02/2024 13:17:46 /todo/2.GET took 0ms. User: unknown
+27/02/2024 13:18:35 /todo/2.DELETE took 0ms. User: unknown
+27/02/2024 13:18:35 /todo.GET took 0ms. User: 222
+27/02/2024 13:19:04 /Admin/Login.POST took 197ms. User: unknown
+27/02/2024 13:19:04 /todo.GET took 126ms. User: 222
+27/02/2024 13:19:05 /todo/2.DELETE took 4ms. User: unknown
+27/02/2024 13:19:05 /todo.GET took 1ms. User: 222
+27/02/2024 13:19:08 /todo/2.DELETE took 0ms. User: unknown
+27/02/2024 13:19:08 /todo.GET took 0ms. User: 222
+27/02/2024 13:24:27 /task.html.GET took 8ms. User: unknown
+27/02/2024 13:24:27 /todo.GET took 1ms. User: 222
+27/02/2024 13:24:29 /todo/2.DELETE took 0ms. User: unknown
+27/02/2024 13:24:29 /todo.GET took 0ms. User: 222
+27/02/2024 13:24:39 /Admin/Login.POST took 2ms. User: unknown
+27/02/2024 13:24:39 /todo.GET took 0ms. User: 222
+27/02/2024 13:24:40 /todo/2.DELETE took 0ms. User: unknown
+27/02/2024 13:24:40 /todo.GET took 0ms. User: 222
+27/02/2024 13:55:36 /task.html.GET took 1ms. User: unknown
+27/02/2024 13:55:36 /js/site.js.GET took 5ms. User: unknown
+27/02/2024 13:55:36 /todo.GET took 0ms. User: 222
+27/02/2024 13:55:39 /todo/106.DELETE took 4ms. User: 222
+27/02/2024 13:55:39 /todo.GET took 0ms. User: 222
+27/02/2024 13:55:40 /todo/105.DELETE took 1ms. User: 222
+27/02/2024 13:55:40 /todo.GET took 0ms. User: 222
+27/02/2024 13:55:42 /todo/104.DELETE took 1ms. User: 222
+27/02/2024 13:55:42 /todo.GET took 0ms. User: 222
+27/02/2024 13:55:43 /task.html.GET took 0ms. User: unknown
+27/02/2024 13:55:43 /todo.GET took 0ms. User: 222
+27/02/2024 13:55:45 /todo/95.DELETE took 1ms. User: 222
+27/02/2024 13:55:45 /todo.GET took 0ms. User: 222
+27/02/2024 13:55:51 /todo/101.DELETE took 1ms. User: 222
+27/02/2024 13:55:51 /todo.GET took 0ms. User: 222
+27/02/2024 13:55:52 /todo/2.DELETE took 1ms. User: 222
+27/02/2024 13:55:52 /todo.GET took 0ms. User: 222
+27/02/2024 13:56:31 /Admin/Login.POST took 163ms. User: unknown
+27/02/2024 13:56:32 /todo.GET took 102ms. User: 222
+27/02/2024 13:56:35 /todo/102.PUT took 5ms. User: unknown
+27/02/2024 13:56:35 /todo.GET took 1ms. User: 222
+27/02/2024 13:56:39 /todo.POST took 0ms. User: unknown
+27/02/2024 13:56:40 /todo/102.DELETE took 4ms. User: 222
+27/02/2024 13:56:40 /todo.GET took 0ms. User: 222
+27/02/2024 13:56:44 /todo/103.PUT took 0ms. User: unknown
+27/02/2024 13:56:44 /todo.GET took 0ms. User: 222
+27/02/2024 13:56:47 /todo/103.PUT took 0ms. User: unknown
+27/02/2024 13:56:47 /todo.GET took 0ms. User: 222
+27/02/2024 13:56:51 /todo/103.PUT took 0ms. User: unknown
+27/02/2024 13:56:51 /todo.GET took 0ms. User: 222
+27/02/2024 13:57:55 /Admin/Login.POST took 160ms. User: unknown
+27/02/2024 13:57:55 /todo.GET took 99ms. User: 222
+27/02/2024 13:58:06 /task.html.GET took 8ms. User: unknown
+27/02/2024 13:58:06 /css/site.css.GET took 2ms. User: unknown
+27/02/2024 13:58:06 /js/site.js.GET took 6ms. User: unknown
+27/02/2024 13:58:06 /todo.GET took 6ms. User: 222
+27/02/2024 13:58:06 /favicon.ico.GET took 1ms. User: unknown
+27/02/2024 13:58:07 /task.html.GET took 1ms. User: unknown
+27/02/2024 13:58:07 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 13:58:07 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 13:58:07 /todo.GET took 1ms. User: 222
+27/02/2024 13:58:07 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 13:58:09 /todo/93.DELETE took 4ms. User: 222
+27/02/2024 13:58:09 /todo.GET took 0ms. User: 222
+27/02/2024 14:11:42 /Admin/Login.POST took 159ms. User: unknown
+27/02/2024 14:11:42 /task.html.GET took 31ms. User: unknown
+27/02/2024 14:11:42 /js/site.js.GET took 6ms. User: unknown
+27/02/2024 14:11:42 /todo.GET took 82ms. User: 222
+27/02/2024 14:11:44 /todo.POST took 4ms. User: unknown
+27/02/2024 14:11:46 /todo.POST took 0ms. User: unknown
+27/02/2024 14:11:46 /todo.POST took 0ms. User: unknown
+27/02/2024 14:11:46 /todo.POST took 0ms. User: unknown
+27/02/2024 14:11:46 /todo.POST took 0ms. User: unknown
+27/02/2024 14:11:49 /todo/99.PUT took 7ms. User: 222
+27/02/2024 14:11:49 /todo.GET took 0ms. User: 222
+27/02/2024 14:11:55 /todo/100.PUT took 1ms. User: 222
+27/02/2024 14:11:55 /todo.GET took 0ms. User: 222
+27/02/2024 14:12:31 /Admin/Login.POST took 165ms. User: unknown
+27/02/2024 14:12:32 /js/site.js.GET took 40ms. User: unknown
+27/02/2024 14:12:32 /todo.GET took 83ms. User: 222
+27/02/2024 14:12:38 /todo/103.PUT took 9ms. User: 222
+27/02/2024 14:12:38 /todo.GET took 1ms. User: 222
+27/02/2024 14:12:47 /todo/103.PUT took 1ms. User: 222
+27/02/2024 14:12:47 /todo.GET took 0ms. User: 222
+27/02/2024 14:13:03 /task.html.GET took 165ms. User: unknown
+27/02/2024 14:13:03 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:13:04 /todo.GET took 309ms. User: 222
+27/02/2024 14:13:07 /todo/103.DELETE took 20ms. User: 222
+27/02/2024 14:13:07 /todo.GET took 2ms. User: 222
+27/02/2024 14:13:10 /todo/103.DELETE took 1ms. User: 222
+27/02/2024 14:13:10 /todo.GET took 0ms. User: 222
+27/02/2024 14:13:32 /Admin/Login.POST took 175ms. User: unknown
+27/02/2024 14:13:32 /js/site.js.GET took 36ms. User: unknown
+27/02/2024 14:13:32 /todo.GET took 78ms. User: 222
+27/02/2024 14:13:33 /task.html.GET took 3ms. User: unknown
+27/02/2024 14:13:33 /css/site.css.GET took 1ms. User: unknown
+27/02/2024 14:13:33 /js/site.js.GET took 2ms. User: unknown
+27/02/2024 14:13:33 /todo.GET took 3ms. User: 222
+27/02/2024 14:13:33 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:13:37 /todo/103.PUT took 7ms. User: 222
+27/02/2024 14:13:37 /todo.GET took 0ms. User: 222
+27/02/2024 14:13:40 /todo/103.DELETE took 2ms. User: 222
+27/02/2024 14:13:40 /todo.GET took 0ms. User: 222
+27/02/2024 14:13:41 /todo/103.DELETE took 1ms. User: 222
+27/02/2024 14:13:41 /todo.GET took 0ms. User: 222
+27/02/2024 14:15:43 /Admin/Login.POST took 159ms. User: unknown
+27/02/2024 14:15:43 /task.html.GET took 29ms. User: unknown
+27/02/2024 14:15:43 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:15:43 /todo.GET took 81ms. User: 222
+27/02/2024 14:15:46 /todo/103.DELETE took 6ms. User: 222
+27/02/2024 14:15:46 /todo.GET took 1ms. User: 222
+27/02/2024 14:15:50 /todo/103.DELETE took 1ms. User: 222
+27/02/2024 14:15:50 /todo.GET took 0ms. User: 222
+27/02/2024 14:22:00 /Admin/Login.POST took 163ms. User: unknown
+27/02/2024 14:22:00 /task.html.GET took 31ms. User: unknown
+27/02/2024 14:22:00 /js/site.js.GET took 5ms. User: unknown
+27/02/2024 14:22:00 /todo.GET took 90ms. User: 222
+27/02/2024 14:22:05 /todo/103.PUT took 9ms. User: unknown
+27/02/2024 14:22:05 /todo.GET took 0ms. User: unknown
+27/02/2024 14:22:10 /todo/103.PUT took 0ms. User: unknown
+27/02/2024 14:22:10 /todo.GET took 0ms. User: unknown
+27/02/2024 14:22:13 /task.html.GET took 5ms. User: unknown
+27/02/2024 14:22:13 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 14:22:13 /js/site.js.GET took 1ms. User: unknown
+27/02/2024 14:22:13 /todo.GET took 1ms. User: 222
+27/02/2024 14:22:14 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /task.html.GET took 1ms. User: unknown
+27/02/2024 14:22:18 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /todo.GET took 0ms. User: 222
+27/02/2024 14:22:18 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /task.html.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /css/site.css.GET took 3ms. User: unknown
+27/02/2024 14:22:18 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /todo.GET took 0ms. User: 222
+27/02/2024 14:22:18 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /task.html.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /task.html.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:22:18 /task.html.GET took 0ms. User: unknown
+27/02/2024 14:22:19 /css/site.css.GET took 1ms. User: unknown
+27/02/2024 14:22:19 /js/site.js.GET took 1ms. User: unknown
+27/02/2024 14:22:19 /todo.GET took 0ms. User: 222
+27/02/2024 14:22:19 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:27:30 /Admin/Login.POST took 163ms. User: unknown
+27/02/2024 14:27:30 /task.html.GET took 35ms. User: unknown
+27/02/2024 14:27:30 /js/site.js.GET took 2ms. User: unknown
+27/02/2024 14:27:30 /todo/.PUT took 74ms. User: 222
+27/02/2024 14:27:30 /todo.GET took 85ms. User: 222
+27/02/2024 14:27:30 /todo.GET took 2ms. User: 222
+27/02/2024 14:27:35 /task.html.GET took 2ms. User: unknown
+27/02/2024 14:27:35 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:27:35 /todo/.PUT took 0ms. User: 222
+27/02/2024 14:27:35 /todo.GET took 3ms. User: 222
+27/02/2024 14:27:35 /favicon.ico.GET took 1ms. User: unknown
+27/02/2024 14:27:36 /task.html.GET took 8ms. User: unknown
+27/02/2024 14:27:36 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:27:36 /css/site.css.GET took 1ms. User: unknown
+27/02/2024 14:27:36 /todo.GET took 0ms. User: 222
+27/02/2024 14:27:36 /todo/.PUT took 1ms. User: 222
+27/02/2024 14:27:36 /todo.GET took 0ms. User: 222
+27/02/2024 14:27:36 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:27:37 /task.html.GET took 1ms. User: unknown
+27/02/2024 14:27:37 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 14:27:37 /js/site.js.GET took 1ms. User: unknown
+27/02/2024 14:27:37 /todo/.PUT took 0ms. User: 222
+27/02/2024 14:27:37 /todo.GET took 1ms. User: 222
+27/02/2024 14:27:37 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:27:37 /task.html.GET took 2ms. User: unknown
+27/02/2024 14:27:37 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 14:27:37 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:27:37 /todo.GET took 0ms. User: 222
+27/02/2024 14:27:37 /todo/.PUT took 0ms. User: 222
+27/02/2024 14:27:37 /todo.GET took 0ms. User: 222
+27/02/2024 14:27:37 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:28:04 /Admin/Login.POST took 207ms. User: unknown
+27/02/2024 14:28:04 /task.html.GET took 37ms. User: unknown
+27/02/2024 14:28:04 /js/site.js.GET took 10ms. User: unknown
+27/02/2024 14:28:04 /todo.GET took 110ms. User: 222
+27/02/2024 14:28:06 /task.html.GET took 1ms. User: unknown
+27/02/2024 14:28:06 /css/site.css.GET took 9ms. User: unknown
+27/02/2024 14:28:06 /favicon.ico.GET took 2ms. User: unknown
+27/02/2024 14:28:07 /task.html.GET took 1ms. User: unknown
+27/02/2024 14:28:07 /css/site.css.GET took 1ms. User: unknown
+27/02/2024 14:28:07 /js/site.js.GET took 1ms. User: unknown
+27/02/2024 14:28:07 /todo.GET took 3ms. User: 222
+27/02/2024 14:28:07 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:28:07 /task.html.GET took 0ms. User: unknown
+27/02/2024 14:28:07 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 14:28:07 /js/site.js.GET took 1ms. User: unknown
+27/02/2024 14:28:07 /todo.GET took 1ms. User: 222
+27/02/2024 14:28:07 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:28:52 /Admin/Login.POST took 166ms. User: unknown
+27/02/2024 14:28:52 /task.html.GET took 32ms. User: unknown
+27/02/2024 14:28:52 /js/site.js.GET took 5ms. User: unknown
+27/02/2024 14:28:52 /todo/.PUT took 75ms. User: 222
+27/02/2024 14:28:52 /todo.GET took 86ms. User: 222
+27/02/2024 14:28:52 /todo.GET took 3ms. User: 222
+27/02/2024 14:28:57 /task.html.GET took 1ms. User: unknown
+27/02/2024 14:28:57 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:28:57 /todo/.PUT took 0ms. User: 222
+27/02/2024 14:28:57 /todo.GET took 2ms. User: 222
+27/02/2024 14:28:57 /todo.GET took 0ms. User: 222
+27/02/2024 14:28:59 /task.html.GET took 2ms. User: unknown
+27/02/2024 14:28:59 /css/site.css.GET took 5ms. User: unknown
+27/02/2024 14:28:59 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:29:02 /task.html.GET took 0ms. User: unknown
+27/02/2024 14:29:03 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:29:03 /css/site.css.GET took 2ms. User: unknown
+27/02/2024 14:29:03 /todo.GET took 0ms. User: 222
+27/02/2024 14:29:03 /todo/.PUT took 0ms. User: 222
+27/02/2024 14:29:03 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:29:03 /todo.GET took 1ms. User: 222
+27/02/2024 14:29:08 /todo/103.DELETE took 6ms. User: 222
+27/02/2024 14:29:08 /todo.GET took 0ms. User: 222
+27/02/2024 14:29:13 /todo/103.DELETE took 1ms. User: 222
+27/02/2024 14:29:13 /todo.GET took 0ms. User: 222
+27/02/2024 14:31:24 /Admin/Login.POST took 159ms. User: unknown
+27/02/2024 14:31:24 /task.html.GET took 31ms. User: unknown
+27/02/2024 14:31:24 /js/site.js.GET took 2ms. User: unknown
+27/02/2024 14:31:24 /todo.GET took 79ms. User: 222
+27/02/2024 14:31:40 /task.html.GET took 1ms. User: unknown
+27/02/2024 14:31:40 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 14:31:40 /js/site.js.GET took 2ms. User: unknown
+27/02/2024 14:31:40 /todo.GET took 4ms. User: 222
+27/02/2024 14:31:40 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:32:11 /Admin/Login.POST took 162ms. User: unknown
+27/02/2024 14:32:11 /task.html.GET took 33ms. User: unknown
+27/02/2024 14:32:11 /js/site.js.GET took 3ms. User: unknown
+27/02/2024 14:32:11 /todo.GET took 83ms. User: 222
+27/02/2024 14:32:14 /todo/103.PUT took 7ms. User: unknown
+27/02/2024 14:32:14 /todo.GET took 0ms. User: unknown
+27/02/2024 14:32:17 /todo/103.PUT took 0ms. User: unknown
+27/02/2024 14:32:17 /todo.GET took 0ms. User: unknown
+27/02/2024 14:32:20 /todo/103.PUT took 0ms. User: unknown
+27/02/2024 14:32:20 /todo.GET took 0ms. User: unknown
+27/02/2024 14:32:29 /todo/103.GET took 0ms. User: unknown
+27/02/2024 14:32:57 /todo/103.GET took 0ms. User: unknown
+27/02/2024 14:33:04 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:08 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:09 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:09 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:09 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:09 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:10 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:10 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:10 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:10 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:10 /todo.GET took 0ms. User: unknown
+27/02/2024 14:33:10 /todo.GET took 0ms. User: unknown
+27/02/2024 14:35:12 /Admin/Login.POST took 160ms. User: unknown
+27/02/2024 14:35:12 /task.html.GET took 30ms. User: unknown
+27/02/2024 14:35:12 /js/site.js.GET took 2ms. User: unknown
+27/02/2024 14:35:12 /todo.GET took 82ms. User: 222
+27/02/2024 14:35:16 /todo/108.PUT took 8ms. User: unknown
+27/02/2024 14:35:16 /todo.GET took 0ms. User: unknown
+27/02/2024 14:35:20 /todo/14223.PUT took 0ms. User: unknown
+27/02/2024 14:35:20 /todo.GET took 0ms. User: unknown
+27/02/2024 14:35:23 /todo/104.DELETE took 5ms. User: 222
+27/02/2024 14:35:23 /todo.GET took 1ms. User: 222
+27/02/2024 14:35:25 /todo.POST took 0ms. User: unknown
+27/02/2024 14:35:35 /todo.POST took 0ms. User: unknown
+27/02/2024 14:35:35 /todo.POST took 0ms. User: unknown
+27/02/2024 14:35:49 /todo/108.PUT took 0ms. User: unknown
+27/02/2024 14:35:49 /todo.GET took 0ms. User: unknown
+27/02/2024 14:36:09 /todo/14223.PUT took 0ms. User: unknown
+27/02/2024 14:36:09 /todo.GET took 0ms. User: unknown
+27/02/2024 14:36:21 /todo/14223.DELETE took 1ms. User: 222
+27/02/2024 14:36:21 /todo.GET took 0ms. User: 222
+27/02/2024 14:37:11 /index.html.GET took 55ms. User: unknown
+27/02/2024 14:37:11 /css/site.css.GET took 6ms. User: unknown
+27/02/2024 14:37:11 /favicon.ico.GET took 27ms. User: unknown
+27/02/2024 14:38:16 /Admin/Login.POST took 83ms. User: unknown
+27/02/2024 14:38:23 /Admin/Login.POST took 87ms. User: unknown
+27/02/2024 14:38:23 /task.html.GET took 32ms. User: unknown
+27/02/2024 14:38:23 /js/site.js.GET took 2ms. User: unknown
+27/02/2024 14:38:23 /todo.GET took 90ms. User: 222
+27/02/2024 14:38:29 /todo/107.PUT took 6ms. User: unknown
+27/02/2024 14:38:29 /todo.GET took 0ms. User: unknown
+27/02/2024 14:38:33 /task.html.GET took 7ms. User: unknown
+27/02/2024 14:38:33 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 14:38:33 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:38:33 /todo.GET took 1ms. User: 222
+27/02/2024 14:38:33 /favicon.ico.GET took 1ms. User: unknown
+27/02/2024 14:38:47 /Admin/Login.POST took 8ms. User: unknown
+27/02/2024 14:38:47 /task.html.GET took 0ms. User: unknown
+27/02/2024 14:38:47 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:38:47 /todo.GET took 15ms. User: 111
+27/02/2024 14:38:51 /todo/1.PUT took 0ms. User: unknown
+27/02/2024 14:38:51 /todo.GET took 0ms. User: unknown
+27/02/2024 14:40:00 /Admin/Login.POST took 171ms. User: unknown
+27/02/2024 14:40:00 /task.html.GET took 41ms. User: unknown
+27/02/2024 14:40:00 /js/site.js.GET took 1ms. User: unknown
+27/02/2024 14:40:00 /todo.GET took 100ms. User: 111
+27/02/2024 14:40:04 /todo/96.PUT took 11ms. User: unknown
+27/02/2024 14:40:04 /todo.GET took 0ms. User: unknown
+27/02/2024 14:40:09 /task.html.GET took 3ms. User: unknown
+27/02/2024 14:40:09 /css/site.css.GET took 1ms. User: unknown
+27/02/2024 14:40:09 /js/site.js.GET took 5ms. User: unknown
+27/02/2024 14:40:09 /todo.GET took 1ms. User: 111
+27/02/2024 14:40:09 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:40:12 /todo/96.PUT took 0ms. User: unknown
+27/02/2024 14:40:12 /todo.GET took 0ms. User: unknown
+27/02/2024 14:40:16 /todo/96.PUT took 0ms. User: unknown
+27/02/2024 14:40:16 /todo.GET took 0ms. User: unknown
+27/02/2024 14:44:29 /Admin/Login.POST took 178ms. User: unknown
+27/02/2024 14:44:29 /task.html.GET took 32ms. User: unknown
+27/02/2024 14:44:29 /js/site.js.GET took 4ms. User: unknown
+27/02/2024 14:44:29 /todo.GET took 95ms. User: 111
+27/02/2024 14:44:32 /todo/94.PUT took 9ms. User: 111
+27/02/2024 14:44:32 /todo.GET took 1ms. User: 111
+27/02/2024 14:44:34 /todo/96.PUT took 1ms. User: 111
+27/02/2024 14:44:34 /todo.GET took 0ms. User: 111
+27/02/2024 14:44:37 /todo/98.PUT took 1ms. User: 111
+27/02/2024 14:44:37 /todo.GET took 0ms. User: 111
+27/02/2024 14:44:47 /todo/1.PUT took 1ms. User: 111
+27/02/2024 14:44:47 /todo.GET took 0ms. User: 111
+27/02/2024 14:45:26 /todo.POST took 3ms. User: unknown
+27/02/2024 14:46:06 /Admin/Login.POST took 83ms. User: unknown
+27/02/2024 14:46:14 /Admin/Login.POST took 85ms. User: unknown
+27/02/2024 14:46:14 /task.html.GET took 30ms. User: unknown
+27/02/2024 14:46:14 /js/site.js.GET took 9ms. User: unknown
+27/02/2024 14:46:14 /todo.GET took 99ms. User: 222
+27/02/2024 14:46:18 /todo/107.PUT took 3ms. User: unknown
+27/02/2024 14:46:18 /todo.GET took 1ms. User: 222
+27/02/2024 14:46:36 /Admin/Login.POST took 164ms. User: unknown
+27/02/2024 14:46:37 /js/site.js.GET took 40ms. User: unknown
+27/02/2024 14:46:37 /todo.GET took 93ms. User: 222
+27/02/2024 14:46:40 /todo/107.PUT took 9ms. User: 222
+27/02/2024 14:46:40 /todo.GET took 1ms. User: 222
+27/02/2024 14:47:56 /Admin/Login.POST took 161ms. User: unknown
+27/02/2024 14:47:56 /task.html.GET took 33ms. User: unknown
+27/02/2024 14:47:56 /js/site.js.GET took 4ms. User: unknown
+27/02/2024 14:47:56 /todo.GET took 23ms. User: unknown
+27/02/2024 14:47:59 /task.html.GET took 1ms. User: unknown
+27/02/2024 14:47:59 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:47:59 /css/site.css.GET took 7ms. User: unknown
+27/02/2024 14:47:59 /todo.GET took 2ms. User: unknown
+27/02/2024 14:47:59 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:48:00 /task.html.GET took 1ms. User: unknown
+27/02/2024 14:48:00 /css/site.css.GET took 1ms. User: unknown
+27/02/2024 14:48:00 /js/site.js.GET took 1ms. User: unknown
+27/02/2024 14:48:00 /todo.GET took 1ms. User: unknown
+27/02/2024 14:48:00 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 14:48:55 /Admin/Login.POST took 160ms. User: unknown
+27/02/2024 14:48:55 /js/site.js.GET took 44ms. User: unknown
+27/02/2024 14:48:55 /todo.GET took 83ms. User: 222
+27/02/2024 14:49:13 /Admin/Login.POST took 162ms. User: unknown
+27/02/2024 14:49:13 /task.html.GET took 31ms. User: unknown
+27/02/2024 14:49:13 /js/site.js.GET took 4ms. User: unknown
+27/02/2024 14:49:13 /todo.GET took 8ms. User: unknown
+27/02/2024 14:50:44 /Admin/Login.POST took 168ms. User: unknown
+27/02/2024 14:50:44 /task.html.GET took 31ms. User: unknown
+27/02/2024 14:50:44 /js/site.js.GET took 10ms. User: unknown
+27/02/2024 14:50:44 /todo.GET took 83ms. User: 222
+27/02/2024 14:50:44 /todo.POST took 29ms. User: 222
+27/02/2024 14:50:44 /todo.GET took 1ms. User: 222
+27/02/2024 14:50:45 /todo.POST took 1ms. User: 222
+27/02/2024 14:50:45 /todo.GET took 0ms. User: 222
+27/02/2024 14:50:45 /todo.POST took 1ms. User: 222
+27/02/2024 14:50:45 /todo.GET took 0ms. User: 222
+27/02/2024 14:50:45 /todo.POST took 1ms. User: 222
+27/02/2024 14:50:45 /todo.GET took 0ms. User: 222
+27/02/2024 14:50:46 /todo.POST took 2ms. User: 222
+27/02/2024 14:50:46 /todo.GET took 0ms. User: 222
+27/02/2024 14:50:46 /todo.POST took 1ms. User: 222
+27/02/2024 14:50:46 /todo.GET took 0ms. User: 222
+27/02/2024 14:50:46 /todo.POST took 1ms. User: 222
+27/02/2024 14:50:46 /todo.GET took 0ms. User: 222
+27/02/2024 14:52:55 /todo/35415.DELETE took 4ms. User: 222
+27/02/2024 14:52:56 /todo.GET took 0ms. User: 222
+27/02/2024 14:52:57 /todo/35416.DELETE took 1ms. User: 222
+27/02/2024 14:52:57 /todo.GET took 0ms. User: 222
+27/02/2024 14:53:00 /todo/35419.PUT took 3ms. User: 222
+27/02/2024 14:53:00 /todo.GET took 0ms. User: 222
+27/02/2024 14:53:26 /todo/35419.PUT took 1ms. User: 222
+27/02/2024 14:53:27 /todo.GET took 0ms. User: 222
+27/02/2024 14:53:27 /todo.POST took 1ms. User: 222
+27/02/2024 14:53:27 /todo.GET took 0ms. User: 222
+27/02/2024 14:53:42 /Admin/Login.POST took 8ms. User: unknown
+27/02/2024 14:53:42 /task.html.GET took 0ms. User: unknown
+27/02/2024 14:53:42 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 14:53:42 /todo.GET took 17ms. User: 111
+27/02/2024 14:53:43 /todo.POST took 1ms. User: 111
+27/02/2024 14:53:43 /todo.GET took 0ms. User: 111
+27/02/2024 14:53:48 /todo.POST took 1ms. User: 111
+27/02/2024 14:53:48 /todo.GET took 0ms. User: 111
+27/02/2024 14:53:49 /todo/35422.DELETE took 1ms. User: 111
+27/02/2024 14:53:49 /todo.GET took 0ms. User: 111
+27/02/2024 15:00:47 /Admin/Login.POST took 170ms. User: unknown
+27/02/2024 15:00:47 /task.html.GET took 30ms. User: unknown
+27/02/2024 15:00:47 /js/site.js.GET took 1ms. User: unknown
+27/02/2024 15:00:47 /todo.GET took 96ms. User: 111
+27/02/2024 15:00:51 /todo/96.PUT took 9ms. User: 111
+27/02/2024 15:00:51 /todo.GET took 1ms. User: 111
+27/02/2024 15:00:53 /todo/96.DELETE took 2ms. User: 111
+27/02/2024 15:00:53 /todo.GET took 0ms. User: 111
+27/02/2024 15:03:48 /swagger/index.html.GET took 79ms. User: unknown
+27/02/2024 15:03:48 /swagger/v1/swagger.json.GET took 100ms. User: unknown
+27/02/2024 15:05:32 /Admin/Login.POST took 163ms. User: unknown
+27/02/2024 15:05:32 /task.html.GET took 29ms. User: unknown
+27/02/2024 15:05:32 /js/site.js.GET took 5ms. User: unknown
+27/02/2024 15:05:32 /todo.GET took 91ms. User: 111
+27/02/2024 15:05:36 /todo/1.PUT took 10ms. User: 111
+27/02/2024 15:05:36 /todo.GET took 1ms. User: 111
+27/02/2024 15:06:03 /Admin/Login.POST took 205ms. User: unknown
+27/02/2024 15:06:12 /Admin/Login.POST took 97ms. User: unknown
+27/02/2024 15:06:12 /js/site.js.GET took 56ms. User: unknown
+27/02/2024 15:06:12 /todo.GET took 98ms. User: 222
+27/02/2024 15:06:17 /todo/35414.PUT took 8ms. User: 222
+27/02/2024 15:06:17 /todo.GET took 1ms. User: 222
+27/02/2024 15:06:20 /todo/35418.PUT took 1ms. User: 222
+27/02/2024 15:06:20 /todo.GET took 0ms. User: 222
+27/02/2024 15:06:21 /task.html.GET took 1ms. User: unknown
+27/02/2024 15:06:21 /css/site.css.GET took 1ms. User: unknown
+27/02/2024 15:06:21 /js/site.js.GET took 4ms. User: unknown
+27/02/2024 15:06:22 /todo.GET took 0ms. User: 222
+27/02/2024 15:06:22 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 15:06:22 /task.html.GET took 1ms. User: unknown
+27/02/2024 15:06:22 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 15:06:22 /js/site.js.GET took 13ms. User: unknown
+27/02/2024 15:06:22 /todo.GET took 0ms. User: 222
+27/02/2024 15:06:22 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 15:06:24 /task.html.GET took 0ms. User: unknown
+27/02/2024 15:06:24 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 15:06:24 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 15:06:24 /todo.GET took 0ms. User: 222
+27/02/2024 15:06:24 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 15:06:25 /task.html.GET took 0ms. User: unknown
+27/02/2024 15:06:25 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 15:06:25 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 15:06:25 /todo.GET took 0ms. User: 222
+27/02/2024 15:06:25 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 15:06:26 /task.html.GET took 1ms. User: unknown
+27/02/2024 15:06:26 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 15:06:26 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 15:06:30 /task.html.GET took 1ms. User: unknown
+27/02/2024 15:06:30 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 15:06:30 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 15:06:30 /todo.GET took 0ms. User: 222
+27/02/2024 15:06:30 /favicon.ico.GET took 2ms. User: unknown
+27/02/2024 15:06:31 /task.html.GET took 0ms. User: unknown
+27/02/2024 15:06:31 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 15:06:31 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 15:06:31 /todo.GET took 1ms. User: 222
+27/02/2024 15:06:31 /favicon.ico.GET took 0ms. User: unknown
+27/02/2024 15:06:32 /task.html.GET took 1ms. User: unknown
+27/02/2024 15:06:32 /css/site.css.GET took 0ms. User: unknown
+27/02/2024 15:06:32 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 15:06:32 /todo.GET took 0ms. User: 222
+27/02/2024 15:06:32 /favicon.ico.GET took 1ms. User: unknown
+27/02/2024 15:14:51 /Admin/Login.POST took 177ms. User: unknown
+27/02/2024 15:14:52 /task.html.GET took 34ms. User: unknown
+27/02/2024 15:14:52 /js/site.js.GET took 0ms. User: unknown
+27/02/2024 15:14:52 /todo.GET took 112ms. User: 222
+27/02/2024 15:15:08 /todo/107.DELETE took 7ms. User: unknown
+27/02/2024 15:15:08 /todo.GET took 1ms. User: unknown
+27/02/2024 15:15:09 /todo/107.DELETE took 0ms. User: unknown
+27/02/2024 15:15:09 /todo.GET took 0ms. User: unknown
+27/02/2024 15:15:10 /todo/107.DELETE took 0ms. User: unknown
+27/02/2024 15:15:10 /todo.GET took 0ms. User: unknown
+27/02/2024 15:15:11 /todo/107.DELETE took 0ms. User: unknown
+27/02/2024 15:15:11 /todo.GET took 0ms. User: unknown
+27/02/2024 15:15:19 /Admin/Login.POST took 2ms. User: unknown
+27/02/2024 15:15:19 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:20 /todo/35421.DELETE took 4ms. User: 222
+27/02/2024 15:15:20 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:20 /todo/35420.DELETE took 1ms. User: 222
+27/02/2024 15:15:20 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:23 /todo/35419.DELETE took 1ms. User: 222
+27/02/2024 15:15:23 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:25 /todo/35417.DELETE took 1ms. User: 222
+27/02/2024 15:15:25 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:27 /todo.POST took 29ms. User: 222
+27/02/2024 15:15:27 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:27 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:27 /todo.GET took 15ms. User: 222
+27/02/2024 15:15:27 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:27 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:28 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:28 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:28 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:28 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:28 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:28 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:28 /todo.POST took 3ms. User: 222
+27/02/2024 15:15:28 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:29 /todo/35430.DELETE took 1ms. User: 222
+27/02/2024 15:15:29 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:29 /todo/35429.DELETE took 1ms. User: 222
+27/02/2024 15:15:29 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:29 /todo/35428.DELETE took 1ms. User: 222
+27/02/2024 15:15:29 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:30 /todo/35427.DELETE took 1ms. User: 222
+27/02/2024 15:15:30 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:30 /todo/35426.DELETE took 2ms. User: 222
+27/02/2024 15:15:30 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:31 /todo/35425.DELETE took 1ms. User: 222
+27/02/2024 15:15:31 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:31 /todo.POST took 2ms. User: 222
+27/02/2024 15:15:31 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:32 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:32 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:32 /todo.POST took 3ms. User: 222
+27/02/2024 15:15:32 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:32 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:32 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:32 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:32 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:32 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:32 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:32 /todo.POST took 2ms. User: 222
+27/02/2024 15:15:32 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:33 /todo.POST took 1ms. User: 222
+27/02/2024 15:15:33 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:33 /todo.POST took 4ms. User: 222
+27/02/2024 15:15:33 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:33 /todo.POST took 2ms. User: 222
+27/02/2024 15:15:33 /todo.GET took 0ms. User: 222
+27/02/2024 15:15:34 /todo/35434.DELETE took 0ms. User: unknown
+27/02/2024 15:15:34 /todo.GET took 0ms. User: unknown
+27/02/2024 15:15:34 /todo/35433.DELETE took 0ms. User: unknown
+27/02/2024 15:15:34 /todo.GET took 0ms. User: unknown
+27/02/2024 15:15:35 /todo/35432.DELETE took 0ms. User: unknown
+27/02/2024 15:15:35 /todo.GET took 0ms. User: unknown
+27/02/2024 15:15:35 /todo/35431.DELETE took 0ms. User: unknown
+27/02/2024 15:15:35 /todo.GET took 0ms. User: unknown
+27/02/2024 15:15:36 /todo/35430.DELETE took 0ms. User: unknown
+27/02/2024 15:15:36 /todo.GET took 0ms. User: unknown
+27/02/2024 15:15:36 /todo/35429.DELETE took 0ms. User: unknown
+27/02/2024 15:15:36 /todo.GET took 0ms. User: unknown
+27/02/2024 15:15:36 /todo/35428.DELETE took 0ms. User: unknown
+27/02/2024 15:15:36 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:04 /index.html.GET took 147ms. User: unknown
+03/03/2024 17:08:04 /css/site.css.GET took 1ms. User: unknown
+03/03/2024 17:08:04 /js/logIn.js.GET took 44ms. User: unknown
+03/03/2024 17:08:04 /favicon.ico.GET took 156ms. User: unknown
+03/03/2024 17:08:07 /Admin/Login.POST took 134ms. User: unknown
+03/03/2024 17:08:07 /task.html.GET took 1ms. User: unknown
+03/03/2024 17:08:07 /js/site.js.GET took 19ms. User: unknown
+03/03/2024 17:08:07 /todo.GET took 79ms. User: 222
+03/03/2024 17:08:46 /todo/35434.DELETE took 7ms. User: unknown
+03/03/2024 17:08:46 /todo.GET took 1ms. User: unknown
+03/03/2024 17:08:46 /todo/35433.DELETE took 0ms. User: unknown
+03/03/2024 17:08:46 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:47 /todo/35432.DELETE took 0ms. User: unknown
+03/03/2024 17:08:47 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:47 /todo/35432.DELETE took 0ms. User: unknown
+03/03/2024 17:08:47 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:47 /todo/35432.DELETE took 0ms. User: unknown
+03/03/2024 17:08:47 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:49 /todo/35431.DELETE took 0ms. User: unknown
+03/03/2024 17:08:49 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:49 /todo/35431.DELETE took 0ms. User: unknown
+03/03/2024 17:08:49 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:53 /todo/35434.DELETE took 0ms. User: unknown
+03/03/2024 17:08:53 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:56 /todo/35433.DELETE took 0ms. User: unknown
+03/03/2024 17:08:56 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:56 /todo/35432.DELETE took 0ms. User: unknown
+03/03/2024 17:08:56 /todo.GET took 0ms. User: unknown
+03/03/2024 17:08:57 /todo/35431.DELETE took 0ms. User: unknown
+03/03/2024 17:08:57 /todo.GET took 0ms. User: unknown
+03/03/2024 17:09:01 /todo/107.PUT took 0ms. User: unknown
+03/03/2024 17:09:01 /todo.GET took 0ms. User: unknown
+03/03/2024 17:09:05 /todo.POST took 0ms. User: unknown
+03/03/2024 17:09:07 /todo.POST took 0ms. User: unknown
+03/03/2024 17:09:07 /todo.POST took 0ms. User: unknown
+03/03/2024 17:09:52 /Admin/Login.POST took 153ms. User: unknown
+03/03/2024 17:09:52 /todo.GET took 96ms. User: 222
+03/03/2024 17:09:53 /todo/35432.DELETE took 7ms. User: 222
+03/03/2024 17:09:53 /todo.GET took 1ms. User: 222
+03/03/2024 17:09:54 /todo/35433.DELETE took 1ms. User: 222
+03/03/2024 17:09:54 /todo.GET took 0ms. User: 222
+03/03/2024 17:09:58 /todo.GET took 0ms. User: 222
+03/03/2024 17:10:04 /swagger.GET took 3ms. User: unknown
+03/03/2024 17:10:04 /swagger/index.html.GET took 35ms. User: unknown
+03/03/2024 17:10:04 /swagger/swagger-ui.css.GET took 21ms. User: unknown
+03/03/2024 17:10:04 /swagger/swagger-ui-standalone-preset.js.GET took 17ms. User: unknown
+03/03/2024 17:10:05 /swagger/swagger-ui-bundle.js.GET took 23ms. User: unknown
+03/03/2024 17:10:05 /swagger/favicon-32x32.png.GET took 0ms. User: unknown
+03/03/2024 17:10:05 /swagger/v1/swagger.json.GET took 102ms. User: unknown
