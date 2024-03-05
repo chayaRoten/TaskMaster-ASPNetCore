@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LELIHdvaIAzG4U3l8s/YDHc+/e5G8z8s8htg8O5KmCKE9XQnkq3yRB6KASPStCFJdX9WPa9D+Q1oevzjqjueKQ==",
+  "dgSpecHash": "byUp9D2ROF3D0lZDgXyupV0HbfWLnjzDiHXjd+gno5yjgDfciAR6beXB6EvZg/V9Y47ZbZEgVlSGR1wa+B0leQ==",
   "success": true,
-  "projectFilePath": "D:\\תכנות שלי\\תשפד\\Core\\hw\\myProject\\Task\\les3.csproj",
+  "projectFilePath": "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\myProject\\Task\\les3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.4\\microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

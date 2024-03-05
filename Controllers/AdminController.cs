@@ -68,22 +68,20 @@ namespace MyTask.Controllers
 
 
         [HttpPost]
-        // [Route("[action]")]
         [Authorize(Policy="Admin")]
         public ActionResult Post(User user)
         {
-            var newPassword = UserService.AddUser(user);
+            var newUserId = UserService.AddUser(user);
 
             return CreatedAtAction("Post", 
-                new {password = newPassword}, UserService.GetUserById(newPassword));
+                new {userId = newUserId}, UserService.GetUserById(newUserId));
         }
 
-        [HttpDelete("{password}")]
-        // [Route("[action]")]
+        [HttpDelete("{id}")]
         [Authorize(Policy = "Admin")]
-        public ActionResult deleteUser(string password)
+        public ActionResult deleteUser(int id)
         {
-            var result = UserService.DeleteUser(password);
+            var result = UserService.DeleteUser(id);
             if (!result)
             {
                 return BadRequest();

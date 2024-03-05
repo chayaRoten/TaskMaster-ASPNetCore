@@ -2,11 +2,29 @@ const uri = '/todo';
 let tasks = [];
 const token = localStorage.getItem("token");
 
-
 var myHeaders = new Headers();
-    myHeaders.append("Authorization", "Bearer " + token);
-    myHeaders.append("Content-Type", "application/json");
+myHeaders.append("Authorization", "Bearer " + token);
+myHeaders.append("Content-Type", "application/json");
+
+showUser();
 getItems(token);
+
+function showUser() {
+    const showUser = document.getElementById('showUser');
+        var requestOptions = {
+            method: 'GET',
+            headers: myHeaders,
+            redirect: 'follow'
+        };
+        fetch('/Admin/Get', requestOptions)
+            .then(response => response.json())
+            .then(data => console.log(data))
+            .catch(error => {
+                console.error(error);
+                showUser.style = 'display:none';
+            });
+    }
+
 
 function getItems(token) {
     // fetch(uri , {
@@ -157,3 +175,4 @@ function _displayItems(data) {
     tasks = data;
 
 }
+

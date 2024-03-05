@@ -117,36 +117,36 @@ namespace MyTask.Service
 
         public List<User> GetAllUsers() => users;
 
-        public User GetUserById(string Password)
+        public User GetUserById(int userId)
         {
-            return users.FirstOrDefault(p => p.Password == Password);
+            return users.FirstOrDefault(p => p.userId == userId);
         }
 
 
-        public string AddUser(User user)
+        public int AddUser(User user)
         {
             if (users.Count == 0)
 
             {
-                user.Password = "1";
+                user.userId = 1;
             }
             else
             {
-                user.Password = users.Max(p => p.Password) + 1;
+                user.userId = users.Max(p => p.userId) + 1;
 
             }
             users.Add(user);
             saveToFileUsers();
-            return user.Password;
+            return user.userId;
         }
 
 
-        public bool UpdateUser(string password, User user)
+        public bool UpdateUser(int userId, User user)
         {
-            if (password != user.Password)
+            if (userId != user.userId)
                 return false;
 
-            var existingUser =GetUserById(password);
+            var existingUser =GetUserById(userId);
             if (existingUser == null)
                 return false;
 
@@ -159,9 +159,9 @@ namespace MyTask.Service
             return true;
         }
 
-        public bool DeleteUser(string password)
+        public bool DeleteUser(int userId)
         {
-            var existingUser = GetUserById(password);
+            var existingUser = GetUserById(userId);
             if (existingUser == null)
                 return false;
 

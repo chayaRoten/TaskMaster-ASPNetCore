@@ -3,7 +3,7 @@
         "Username": "chaya",
         "Password": "111",
         "isAdmin": true,
-        "userId" : 111
+        "userId": 111
     },
     {
         "Username": "Sari",
@@ -15,12 +15,12 @@
         "Username": "Rut",
         "Password": "333",
         "isAdmin": false,
-        "userId" : 333
+        "userId": 333
     },
     {
-        "Username": "pop",
-        "Password": "3331",
-        "isAdmin": true,
-        "userId" : 444
+        "Username": "xxxx",
+        "Password": "a@a@a@",
+        "isAdmin": false,
+        "userId": 334
     }
 ]

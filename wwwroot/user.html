@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Users</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+
+<body>
+    <h1>All Users</h1>
+    <h3>Add</h3>
+    <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+        <input type="text" id="add-name" placeholder="New name">
+        <input type="text" id="add-password" placeholder="New password">
+        <input type="submit" value="Add">
+    </form>
+
+    <table>
+        <tr>
+            <th>Is the task accomplished?</th>
+            <th>Name</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tbody id="users"></tbody>
+    </table>
+
+    <script src="js/user.js" asp-append-version="true"></script>
+
+</body>
+
+</html>

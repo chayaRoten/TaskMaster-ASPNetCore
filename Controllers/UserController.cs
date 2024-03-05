@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using MyTask.Models;
 using MyTask.Service;
 using MyTask.Interface;
-
+using Microsoft.AspNetCore.Authorization;
 namespace MyTask.Controllers;
 
 [ApiController]
@@ -21,10 +21,11 @@ public class userController : ControllerBase
     //     return UserService.AdminGetAll();
     // }
 
+    [Authorize(Policy = "User")]        
     [HttpGet("{password}")]
-    public ActionResult<User> Get(string password)
+    public ActionResult<User> Get(int userFile)
     {
-        var user = UserService.GetUserById(password);
+        var user = UserService.GetUserById(userFile);
         if (user == null)
             return NotFound();
         return user;
