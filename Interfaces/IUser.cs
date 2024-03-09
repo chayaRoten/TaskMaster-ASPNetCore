@@ -11,11 +11,11 @@ namespace MyTask.Interface
         // bool Delete(int id);
         // bool Update(int x,Task1 pizza);
         List<User> GetAllUsers();
-        User GetUserById(int id);
+        User GetUserById(int userId);
         int AddUser(User user);
         bool UpdateUser(int userId, User user);
         bool DeleteUser(int id);
-
+        
 
 
     }

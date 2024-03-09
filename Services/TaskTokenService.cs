@@ -19,8 +19,8 @@ namespace  MyTask.Services
                 issuer,
                 issuer,
                 claims,
-                // expires: DateTime.Now.AddMinutes(1.0),
-                expires: DateTime.Now.AddSeconds(8.0),
+                expires: DateTime.Now.AddMinutes(30.0),
+                // expires: DateTime.Now.AddSeconds(8.0),
                 signingCredentials: new SigningCredentials(key, SecurityAlgorithms.HmacSha256)
             );
 

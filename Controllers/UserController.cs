@@ -9,10 +9,12 @@ namespace MyTask.Controllers;
 [Route("[controller]")]
 public class userController : ControllerBase
 {
+    private int userId;
     IUserService UserService;
-    public userController(IUserService UserService)
+    public userController(IUserService UserService , IHttpContextAccessor httpContextAccessor)
     {
         this.UserService = UserService;
+        this.userId = int.Parse(httpContextAccessor.HttpContext?.User?.FindFirst("userId")?.Value);
     }
 
     // [HttpGet]
@@ -22,10 +24,10 @@ public class userController : ControllerBase
     // }
 
     [Authorize(Policy = "User")]        
-    [HttpGet("{password}")]
-    public ActionResult<User> Get(int userFile)
+    [HttpGet]
+    public ActionResult<User> Get()
     {
-        var user = UserService.GetUserById(userFile);
+        var user = UserService.GetUserById(userId);
         if (user == null)
             return NotFound();
         return user;
@@ -39,17 +41,17 @@ public class userController : ControllerBase
     //     return CreatedAtAction("Post", 
     //         new {password = newPassword}, UserService.AdminGetById(newPassword));
     // }
-
-    // [HttpPut("{password}")]
-    // public ActionResult Put(string password,User user)
-    // {
-    //     var result = UserService.updateUser(password, user);
-    //     if (!result)
-    //     {
-    //         return BadRequest();
-    //     }
-    //     return NoContent();
-    // }
+    [Authorize(Policy = "User")]        
+    [HttpPut("{userId}")]
+    public ActionResult Put(int userId,User user)
+    {
+        var result = UserService.UpdateUser(userId, user);
+        if (!result)
+        {
+            return BadRequest();
+        }
+        return NoContent();
+    }
 
     // [HttpDelete("{password}")]
     // public ActionResult deleteUser(string password)

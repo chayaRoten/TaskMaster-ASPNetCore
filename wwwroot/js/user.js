@@ -18,50 +18,56 @@ function getItems(token) {
     fetch(uri, requestOptions)
         .then(response => response.json())
         .then(data => _displayItems(data))
-        .catch(error => console.error('Unable to get items.', error));
+        .catch(error => {
+            console.error('Unable to get items.', error);
+            // alert("The token has expired")
+            // location.href = "index.html";
+        });
 }
 
 function addItem() {
     const addNameTextbox = document.getElementById('add-name');
     const addPasswordTextbox = document.getElementById('add-password');
+    const editAdmin = document.getElementById('edit-admin').checked;
     const item = {
-        isAdmin: false,
+        isAdmin: editAdmin,
         Username: addNameTextbox.value.trim(),
         Password: addPasswordTextbox.value.trim()
     };
 
     fetch(url, {
-        method: 'POST',
-        headers: myHeaders,
-        redirect: 'follow',
-        body: JSON.stringify(item)
-    })
+            method: 'POST',
+            headers: myHeaders,
+            redirect: 'follow',
+            body: JSON.stringify(item)
+        })
         .then(response => response.json())
         .then(() => {
             getItems(token);
             addNameTextbox.value = '';
             addPasswordTextbox.value = '';
+            // editAdmin = false
+            // editAdmin = none
         })
-        .catch(error => { 
-            if(error.status===401)
-                location.href="../"
+        .catch(error => {
             console.error('Unable to add item.', error);
-            
-    });
+            // alert("The token has expired")
+            // location.href = "index.html";
+        });
 }
 
 function deleteItem(id) {
     fetch(`/Admin/${id}`, {
-        method: 'DELETE',
-        headers: myHeaders,
-        redirect: 'follow'
-    })
+            method: 'DELETE',
+            headers: myHeaders,
+            redirect: 'follow'
+        })
         .then(() => getItems(token))
         .catch(error => {
             console.error('Unable to delete item.', error);
-            // if(error.status===401)
-            //     location.href="../";
-    });
+            // alert("The token has expired")
+            // location.href = "index.html";
+        });
 }
 
 
@@ -96,7 +102,6 @@ function _displayItems(data) {
         let td2 = tr.insertCell(1);
         let textNode = document.createTextNode(item.username);
         td2.appendChild(textNode);
-
 
         let td3 = tr.insertCell(2);
         td3.appendChild(deleteButton);

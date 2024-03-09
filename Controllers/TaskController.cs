@@ -82,4 +82,16 @@ public class todoController : ControllerBase
         }
         return NoContent();
     }
+
+    //   [HttpPut("{password}")]
+    // public ActionResult Put(string password,User user)
+    // {
+    //     var result = TaskService.updateUser(password, user);
+    //     if (!result)
+    //     {
+    //         return BadRequest();
+    //     }
+    //     return NoContent();
+    // }
+
 }

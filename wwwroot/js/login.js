@@ -1,5 +1,11 @@
 const url = '/Admin/Login';
 
+document.getElementById('btn-google-connect').addEventListener('click', function() {
+    // Redirect to the Google authentication endpoint or trigger the authentication flow
+    window.location.href = 'https://localhost:7290//google-authentication-endpoint';
+});
+
+
 function Login() {
     localStorage.clear();
     var myHeaders = new Headers();
@@ -32,5 +38,4 @@ function Login() {
 
             }
         }).catch((error) => alert("error", error));
-
 }

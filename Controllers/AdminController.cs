@@ -10,6 +10,7 @@ using MyTask.Interface;
 using System.Linq;
 using System.IO;
 using System.Text.Json;
+using Microsoft.AspNetCore.Authentication;
 
 
 namespace MyTask.Controllers
@@ -35,7 +36,24 @@ namespace MyTask.Controllers
             }
         }
        
+        // [HttpGet]
+        // [Route("[action]")]
+        // public IActionResult GoogleAuthentication()
+        // {
+        //     // Redirect to the Google authentication provider
+        //     return Challenge(new AuthenticationProperties { RedirectUri = "/" }, "Google");
+        // }
 
+        // [HttpGet]
+        // [Route("[action]")]
+        // public async Task<IActionResult> GoogleCallback()
+        // {
+        //     // Handle the Google authentication callback
+        //     var result = await HttpContext.AuthenticateAsync("Google");
+        //     // Process the authentication result and sign in the user
+        //     // Redirect or display appropriate message
+        //     return RedirectToAction("Index", "Home");
+        // }
     
         [HttpPost]
         [Route("[action]")]

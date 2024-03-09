@@ -13,12 +13,13 @@
     <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
         <input type="text" id="add-name" placeholder="New name">
         <input type="text" id="add-password" placeholder="New password">
+        <input type="checkbox" id="edit-admin">
         <input type="submit" value="Add">
     </form>
 
     <table>
         <tr>
-            <th>Is the task accomplished?</th>
+            <th>isAdmin</th>
             <th>Name</th>
             <th></th>
             <th></th>
@@ -26,6 +27,7 @@
         <tbody id="users"></tbody>
     </table>
 
+    <a href="./task.html">show your tasks</a>
     <script src="js/user.js" asp-append-version="true"></script>
 
 </body>

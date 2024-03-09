@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\myProject\\Task\\les3.csproj": {}
+    "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\08-03-24\\Task\\les3.csproj": {}
   },
   "projects": {
-    "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\myProject\\Task\\les3.csproj": {
+    "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\08-03-24\\Task\\les3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\myProject\\Task\\les3.csproj",
+        "projectUniqueName": "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\08-03-24\\Task\\les3.csproj",
         "projectName": "les3",
-        "projectPath": "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\myProject\\Task\\les3.csproj",
+        "projectPath": "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\08-03-24\\Task\\les3.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\myProject\\Task\\obj\\",
+        "outputPath": "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\08-03-24\\Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[5.0.4, )"

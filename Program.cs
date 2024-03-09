@@ -11,12 +11,30 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using MyTask.Services;
+using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
 // Add services to the container.
 
+builder.Configuration.AddJsonFile("appsettings.json");
+
+// Access configuration
+var Configuration = builder.Configuration;
+
+
+// builder.Services.AddAuthentication(options =>
+//   {
+//       options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+//       options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+//   }).AddGoogle(options =>
+//   {
+//       options.ClientId = Configuration["Authentication:Google:ClientId"];
+//       options.ClientSecret = Configuration["Authentication:Google:ClientSecret"];
+//   });
+
+  
 builder.Services.AddAuthentication(options =>
      {
          options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
