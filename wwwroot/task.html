@@ -38,48 +38,20 @@
         <tbody id="tasks"></tbody>
     </table>
 
-    <a href="./user.html" id="showUser">show all users</a>
-
-    <!-- <div id="editUser">
-
-        <h3>edit User</h3>
-        <form action="javascript:void(0);" onsubmit="updateUser()">
-            <input type="hidden" id="edit-userId">
-            <input type="text" id="edit-userName">
-            <input type="text" id="edit-userPassword">
-            <input type="submit" value="Save">
-            <a onclick="closeInput()" aria-label="Close">&#10006;</a>
-        </form>
-    </div> -->
-
-
-
-
+    <a href="./user.html" id="showLink">show all users</a>
     <br>
     <br>
-
-    <!-- <table>
-        <tr>
-            <th>edit</th>
-            <th>Name</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tbody id="users"></tbody>
-    </table> -->
-
-
     <div id="editUserForm">
         <h3>edit your user</h3>
-        <form action="javascript:void(0);" >
-            <!-- <input type="hidden" id="edit-id"> -->
+        <form action="javascript:void(0);" onsubmit="updateUser()">
+            <input type="hidden" id="editUserid">
             <input type="text" id="editUsername">
             <br>
             <br>
             <input type="text" id="editUserpassword">
             <br>
             <br>
-            <input type="submit" value="Save" id="saveUser">
+            <input type="submit" value="Save">
         </form>
     </div>
 

@@ -18,12 +18,12 @@ namespace MyTask.Controllers
 
     [ApiController]
     [Route("[controller]")]
-    public class AdminController : ControllerBase
+    public class loginController : ControllerBase
     {
         IUserService UserService;
         private List<User> users;
         private string userFile = "Users.json";
-        public AdminController(IUserService UserService) {
+        public loginController(IUserService UserService) {
             this.UserService=UserService; 
             this.userFile = Path.Combine("Data", "Users.json");
             using (var jsonFile = System.IO.File.OpenText(userFile))
@@ -56,8 +56,8 @@ namespace MyTask.Controllers
         // }
     
         [HttpPost]
-        [Route("[action]")]
-        public ActionResult Login([FromBody] User User ) {
+        public ActionResult Login([FromBody] User User)
+        {
             var user = users.FirstOrDefault(x => x.Username == User.Username && x.Password == User.Password);
             if(user == null)
                 return Unauthorized();
@@ -69,44 +69,7 @@ namespace MyTask.Controllers
                     if(user.isAdmin==true)
                         claims.Add(new Claim("type", "Admin"));
             var token = TaskTokenService.GetToken(claims);
-
             return new OkObjectResult(TaskTokenService.WriteToken(token));
         }
-
-
-        [HttpGet]
-        [Route("[action]")]
-        [Authorize(Policy = "Admin")]
-
-        public ActionResult<List<User>> Get()
-        {
-            
-            return UserService.GetAllUsers();
-        }
-
-
-        [HttpPost]
-        [Authorize(Policy="Admin")]
-        public ActionResult Post(User user)
-        {
-            var newUserId = UserService.AddUser(user);
-
-            return CreatedAtAction("Post", 
-                new {userId = newUserId}, UserService.GetUserById(newUserId));
-        }
-
-        [HttpDelete("{id}")]
-        [Authorize(Policy = "Admin")]
-        public ActionResult deleteUser(int id)
-        {
-            var result = UserService.DeleteUser(id);
-            if (!result)
-            {
-                return BadRequest();
-            }
-            return NoContent();
-        }
-
-
     }
 }

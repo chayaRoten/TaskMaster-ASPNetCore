@@ -1,4 +1,4 @@
-const url = '/Admin/Login';
+const url = '/login';
 
 document.getElementById('btn-google-connect').addEventListener('click', function() {
     // Redirect to the Google authentication endpoint or trigger the authentication flow
@@ -39,3 +39,11 @@ function Login() {
             }
         }).catch((error) => alert("error", error));
 }
+
+
+// function redirectToPostman() {
+//     // window.location.href = 'https://www.getpostman.com/localhost:7290/login';
+//     // window.location.href = 'https://grey-equinox-798450.postman.co/workspace/06112675-7103-4667-81df-f350245a08e2/request/31280363-317e0a16-d053-4de2-864b-89c014914c56?ctx=documentation';
+
+    
+// }
