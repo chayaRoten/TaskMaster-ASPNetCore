@@ -2,13 +2,12 @@ const url = '/user';
 let users = [];
 const token = localStorage.getItem("token");
 
-
 var myHeaders = new Headers();
 myHeaders.append("Authorization", "Bearer " + token);
 myHeaders.append("Content-Type", "application/json");
-getItems(token);
+getItems();
 
-function getItems(token) {
+function getItems() {
     var requestOptions = {
         method: 'GET',
         headers: myHeaders,
@@ -19,17 +18,17 @@ function getItems(token) {
         .then(data => _displayItems(data))
         .catch(error => {
             console.error('Unable to get items.', error);
-            // alert("The token has expired")
-            // location.href = "index.html";
+            alert("The token has expired")
+            location.href = "index.html";
         });
 }
 
 function addItem() {
     const addNameTextbox = document.getElementById('add-name');
     const addPasswordTextbox = document.getElementById('add-password');
-    const editAdmin = document.getElementById('edit-admin').checked;
+    const editAdmin = document.getElementById('edit-admin');
     const item = {
-        isAdmin: editAdmin,
+        isAdmin: editAdmin.checked,
         Username: addNameTextbox.value.trim(),
         Password: addPasswordTextbox.value.trim()
     };
@@ -42,43 +41,42 @@ function addItem() {
         })
         .then(response => response.json())
         .then(() => {
-            getItems(token);
+            getItems();
             addNameTextbox.value = '';
             addPasswordTextbox.value = '';
-            // editAdmin = false
-            // editAdmin = none
+            editAdmin.checked = false
         })
         .catch(error => {
             console.error('Unable to add item.', error);
-            // alert("The token has expired")
-            // location.href = "index.html";
+            alert("The token has expired")
+            location.href = "index.html";
         });
 }
 
 function deleteItem(id) {
-    fetch(`/user/${id}`, {
+    fetch(`${url}/${id}`, {
             method: 'DELETE',
             headers: myHeaders,
             redirect: 'follow'
         })
-        .then(() => getItems(token))
+        .then(() => getItems())
         .catch(error => {
             console.error('Unable to delete item.', error);
-            // alert("The token has expired")
-            // location.href = "index.html";
+            alert("The token has expired")
+            location.href = "index.html";
         });
 }
 
 
-function _displayCount(itemCount) {
-    const name = (itemCount === 1) ? 'Todo' : 'Todo kinds';
-}
+// function _displayCount(itemCount) {
+//     const name = (itemCount === 1) ? 'Todo' : 'Todo kinds';
+// }
 
 function _displayItems(data) {
     const tBody = document.getElementById('users');
     tBody.innerHTML = '';
 
-    _displayCount(data.length);
+    // _displayCount(data.length);
 
     const button = document.createElement('button');
 
@@ -105,7 +103,5 @@ function _displayItems(data) {
         let td3 = tr.insertCell(2);
         td3.appendChild(deleteButton);
     });
-
     users = data;
-
 }

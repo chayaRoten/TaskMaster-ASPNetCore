@@ -10,69 +10,48 @@ using System.Text.Json;
 
 [ApiController]
 [Route("[controller]")]
-
 public class userController : ControllerBase
 {
     private List<User> users;
-    private List<User> userlist=new List<User>();
     private string userFile = "Users.json";
     private int userId;
     IUserService UserService;
-    public userController(IUserService UserService , IHttpContextAccessor httpContextAccessor)
+    public userController(IUserService UserService, IHttpContextAccessor httpContextAccessor)
     {
         this.UserService = UserService;
         this.userId = int.Parse(httpContextAccessor.HttpContext?.User?.FindFirst("userId")?.Value);
         this.userFile = Path.Combine("Data", "Users.json");
-            using (var jsonFile = System.IO.File.OpenText(userFile))
+        using (var jsonFile = System.IO.File.OpenText(userFile))
+        {
+            users = JsonSerializer.Deserialize<List<User>>(jsonFile.ReadToEnd(),
+            new JsonSerializerOptions
             {
-                users = JsonSerializer.Deserialize<List<User>>(jsonFile.ReadToEnd(),
-                new JsonSerializerOptions
-                {
-                    PropertyNameCaseInsensitive = true
-                });
-            }
+                PropertyNameCaseInsensitive = true
+            });
+        }
     }
 
-
-    // public ActionResult<List<User>> Get()
-    // {
-    //     var currentUser = users.Find(x => x.userId == userId);
-    //     if (currentUser.isAdmin == false)
-    //     {
-    //         var user = UserService.GetUserById(userId);
-    //         if (user == null)
-    //             return NotFound();
-    //         userlist.Add(user);
-    //         return userlist;
-    //     }
-    //     else
-    //     {
-    //         return UserService.GetAllUsers();
-    //     }
-    // }
-
-    [Authorize(Policy = "Admin")]
     [HttpGet]
     [Route("[action]")]
+    [Authorize(Policy = "Admin")]
     public ActionResult<List<User>> GetAll()
     {
         return UserService.GetAllUsers();
     }
 
 
-    [Authorize(Policy = "User")]
     [HttpGet]
+    [Authorize(Policy = "User")]
     public ActionResult<User> Get()
     {
         var user = UserService.GetUserById(userId);
         if (user == null)
             return NotFound();
-        userlist.Add(user);
         return user;
     }
 
-    [Authorize(Policy = "User")]        
     [HttpPut]
+    [Authorize(Policy = "User")]
     public ActionResult Put(User user)
     {
         var result = UserService.UpdateUser(userId, user);
@@ -89,8 +68,8 @@ public class userController : ControllerBase
     {
         var newUserId = UserService.AddUser(user);
 
-        return CreatedAtAction("Post", 
-            new {userId = newUserId}, UserService.GetUserById(newUserId));
+        return CreatedAtAction("Post",
+            new { userId = newUserId }, UserService.GetUserById(newUserId));
     }
 
     [HttpDelete("{id}")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ozjKeVdYQDMpcxcmXd28lJ8YTqGUetTnfwWinSV8z15DVeg7LxF/Mp88pj7GbhES8NShvvB2KKCS9v2UWSqlTA==",
+  "dgSpecHash": "Sc7qJe1MgVR9LscouxBxJjLmeIPn5snQuJfOwgagvbOSL7+Y58AlM/iNGltMS1VkgSVtgrOKwoS2w8iFurbWTg==",
   "success": true,
-  "projectFilePath": "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\12-03-24\\Task\\les3.csproj",
+  "projectFilePath": "D:\\תכנות שלי\\תשפד\\Core\\hw\\גרסאות\\31-03-24\\Task\\les3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.0\\microsoft.aspnetcore.authentication.google.6.0.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.4\\microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",

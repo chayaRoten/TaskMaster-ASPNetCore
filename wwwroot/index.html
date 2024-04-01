@@ -10,22 +10,42 @@
 </head>
 
 <body>
-    <form action="javascript:void(0);" id="formLogIn" method="POST" onsubmit="Login()">
+    <form action="javascript:void(0);" id="formLogIn" method="POST" onsubmit="toConnect()">
         <input type="text" id="name" name="name" placeholder="Name">
-        <input type="text" id="password" name="password" placeholder="Password">
+        <input type="password" id="password" name="password" placeholder="Password">
         <input type="submit" value="LogIn">
     </form>
 
-    <button id="btn-google-connect">Connect with Google</button>
     <br>
     <br>
-    <a href="https://null.postman.co/collection/31280363-2b7acabf-55fe-474a-b5e6-6ad56bf527dd?source=rip_html">
-        <img alt="Run in Postman" src="https://run.pstmn.io/button.svg">
-    </a>
-    <!-- <button onclick="redirectToPostman()">Login with Postman</button> -->
 
-    <script src="js/logIn.js">
+
+
+
+
+    <!-- login with google -->
+    <div id="g_id_onload" data-client_id="516793696698-hdmephtibfg2phhdndqs09nu3j6umifb.apps.googleusercontent.com" data-callback="handleCredentialResponse">
+    </div>
+
+    <!-- login with postman -->
+    <div class="postman-run-button" data-postman-action="collection/fork" data-postman-visibility="public" data-postman-var-1="31280363-4b6c111b-3ae7-4203-87c5-5a84696fdd87" data-postman-collection-url="entityId=31280363-4b6c111b-3ae7-4203-87c5-5a84696fdd87&entityType=collection&workspaceId=e98e5bb7-ce2b-404f-afce-1fe6e27111dd">
+    </div>
+
+    <script type="text/javascript">
+        (function(p, o, s, t, m, a, n) {
+            !p[s] && (p[s] = function() {
+                (p[t] || (p[t] = [])).push(arguments);
+            });
+            !o.getElementById(s + t) && o.getElementsByTagName("head")[0].appendChild((
+                (n = o.createElement("script")),
+                (n.id = s + t), (n.async = 1), (n.src = m), n
+            ));
+        }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
     </script>
+
+    <script src="js/logIn.js"></script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+
 </body>
 
 </html>

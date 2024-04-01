@@ -12,29 +12,11 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using MyTask.Services;
 using System.Configuration;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.Google;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-// Add services to the container.
-
-builder.Configuration.AddJsonFile("appsettings.json");
-
-// Access configuration
-var Configuration = builder.Configuration;
-
-
-// builder.Services.AddAuthentication(options =>
-//   {
-//       options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-//       options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-//   }).AddGoogle(options =>
-//   {
-//       options.ClientId = Configuration["Authentication:Google:ClientId"];
-//       options.ClientSecret = Configuration["Authentication:Google:ClientSecret"];
-//   });
-
-  
 builder.Services.AddAuthentication(options =>
      {
          options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -44,24 +26,19 @@ builder.Services.AddAuthentication(options =>
          cfg.RequireHttpsMetadata = false;
          cfg.TokenValidationParameters = TaskTokenService.GetTokenValidationParameters();
      });
-//
+
+
 builder.Services.AddAuthorization(cfg =>
             {
                 cfg.AddPolicy("Admin", policy => policy.RequireClaim("type", "Admin"));
-                // cfg.AddPolicy("Agent", policy => policy.RequireClaim("type", "User"));
                 cfg.AddPolicy("User", policy => policy.RequireClaim("type", "User"));
-                // cfg.AddPolicy("User", policy => policy.RequireClaim("userId", ""));
-                cfg.AddPolicy("ClearanceLevel1", policy => policy.RequireClaim("ClearanceLevel", "1", "2"));
-                cfg.AddPolicy("ClearanceLevel2", policy => policy.RequireClaim("ClearanceLevel", "2"));
             });
 
-//
 builder.Services.AddControllers();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddSwaggerGen(c =>
    {
-       c.SwaggerDoc("v1", new OpenApiInfo { Title = "FBI", Version = "v1" });
-       //auth3
+       c.SwaggerDoc("v1", new OpenApiInfo { Title = "myTask", Version = "v1" });
        c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
        {
            In = ParameterLocation.Header,
@@ -69,7 +46,6 @@ builder.Services.AddSwaggerGen(c =>
            Name = "Authorization",
            Type = SecuritySchemeType.ApiKey
        });
-       //auth4
        c.AddSecurityRequirement(new OpenApiSecurityRequirement {
                 { new OpenApiSecurityScheme
                         {
@@ -81,30 +57,16 @@ builder.Services.AddSwaggerGen(c =>
    });
 
 
-
-
-
-
-
-builder.Services.AddControllers();
 builder.Services.AddTask();
 builder.Services.AddUser();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// builder.Logging.ClearProviders();
-// builder.Logging.AddConsole();
-
 var app = builder.Build();
+app.Map("/favicon.ico", (a) =>
+    a.Run(async c => await Task.CompletedTask));
 
 app.UselogMiddleware("file.log");
-
-
-// app.UseloginMiddleware();
-
-
-// Configure the HTTP request pipeline.
 
 if (app.Environment.IsDevelopment())
 {
@@ -113,87 +75,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseDefaultFiles();
 app.UseStaticFiles();
-
-//auth5
 app.UseAuthentication();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
-
-
 app.Run();
-
-// var er.Build();
-// app.UselogMiddleware("file.log");
-
-// // Configure the HTTP request pipeline.
-
-// if (app.Environment.IsDevelopment())
-// {
-//     app.UseSwagger();
-//     app.UseSwaggerUI();
-// }
-
-// app.UseHttpsRedirection();
-
-// app.UseDefaultFiles();
-// app.UseStaticFiles();
-
-// //
-// app.UseAuthentication();
-
-// app.UseAuthorization();
-
-// app.MapControllers();
-
-
-
-// app.Run();
-
-
-
-// using Microsoft.AspNetCore.Hosting;
-// using Microsoft.Extensions.Hosting;
-// using startup;
-// using MyTask.Service;
-// using MyTask.Middlewares;
-
-// namespace program
-// {
-//     public class Program
-//     {
-//         public static void Main(string[] args)
-//         {
-//             // var builder = WebApplication.CreateBuilder(args);
-//             // builder.Services.AddControllers();
-//             // builder.Services.AddTask();
-//             // builder.Services.AddEndpointsApiExplorer();
-//             // builder.Services.AddSwaggerGen();
-//             // builder.Build().Run();
-//             // var builder=CreateHostBuilder(args).Services.AddControllers();
-//             // builder.Services.AddControllers();
-//             // builder.Services.AddTask();
-//             // builder.Services.AddEndpointsApiExplorer();
-//             // builder.Services.AddSwaggerGen();
-//             // builder.Build().Run();
-//             // IHostBuilder b=CreateHostBuilder(args);
-//             // b.Services.AddTask();
-//             // b.Build().Run();
-//             CreateHostBuilder(args).Build().Run();
-
-
-//         }
-
-//         public static IHostBuilder CreateHostBuilder(string[] args) =>
-//             Host.CreateDefaultBuilder(args)
-//                 .ConfigureWebHostDefaults(webBuilder =>
-//                 {
-//                     webBuilder.UseStartup<Startup>();
-//                 });
-//     }
-// }

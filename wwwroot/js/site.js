@@ -2,11 +2,11 @@ const uri = '/todo';
 let tasks = [];
 const token = localStorage.getItem("token");
 var myHeaders = new Headers();
-    myHeaders.append("Authorization", "Bearer " + token);
-    myHeaders.append("Content-Type", "application/json");
+myHeaders.append("Authorization", "Bearer " + token);
+myHeaders.append("Content-Type", "application/json");
 
 showLink();
-getItems(token);
+getItems();
 
 function showLink() {
     const showLink = document.getElementById('showLink');
@@ -25,7 +25,7 @@ function showLink() {
 }
 
 
-function getItems(token) {
+function getItems() {
     var requestOptions = {
         method: 'GET',
         headers: myHeaders,
@@ -49,14 +49,14 @@ function addItem() {
     };
 
     fetch(uri, {
-        method: 'POST',
-        headers: myHeaders,
-        redirect: 'follow',
-        body: JSON.stringify(item)
-    })
+            method: 'POST',
+            headers: myHeaders,
+            redirect: 'follow',
+            body: JSON.stringify(item)
+        })
         .then(response => response.json())
         .then(() => {
-            getItems(token);
+            getItems();
             addNameTextbox.value = '';
         })
         .catch(error => {
@@ -68,11 +68,11 @@ function addItem() {
 
 function deleteItem(id) {
     fetch(`${uri}/${id}`, {
-        method: 'DELETE',
-        headers: myHeaders,
-        redirect: 'follow'
-    })
-        .then(() => getItems(token))
+            method: 'DELETE',
+            headers: myHeaders,
+            redirect: 'follow'
+        })
+        .then(() => getItems())
         .catch(error => {
             console.error('Unable to delete item.', error);
             alert("The token has expired")
@@ -91,19 +91,18 @@ function displayEditForm(id) {
 function updateItem() {
     const itemId = document.getElementById('edit-id').value;
     const item = {
-        //ניסיתי להוריד אבל זה עשה שגיאה... בעיקרון צריך למחוק את זה
         id: parseInt(itemId, 10),
         IsDo: document.getElementById('edit-IsDo').checked,
         name: document.getElementById('edit-name').value.trim()
     };
 
     fetch(`${uri}/${itemId}`, {
-        method: 'PUT',
-        headers: myHeaders,
-        redirect: 'follow',
-        body: JSON.stringify(item)
-    })
-        .then(() => getItems(token))
+            method: 'PUT',
+            headers: myHeaders,
+            redirect: 'follow',
+            body: JSON.stringify(item)
+        })
+        .then(() => getItems())
         .catch(error => {
             console.error('Unable to update item.', error);
             alert("The token has expired")
@@ -165,18 +164,14 @@ function _displayItems(data) {
     tasks = data;
 }
 
-/******************************************************************************************************* */
-
-const editUsername = document.getElementById('editUsername');
-const editUserPassword = document.getElementById('editUserpassword');
-const saveUser = document.getElementById('saveUser');
-const editUserid = document.getElementById('editUserid').value;
-const editUserForm = document.getElementById('editUserForm');
-
+// Allow users to update their own details
 
 const urlUser = '/user';
-// let currentUser = [];
+const editUsername = document.getElementById('editUsername');
+const editUserPassword = document.getElementById('editUserpassword');
+
 getUser();
+
 let userid;
 let isAdmin;
 
@@ -195,10 +190,10 @@ function getUser() {
 }
 
 function showCurrentUser(data) {
-        editUsername.value = data.username;
-        editUserPassword.value = data.password;
-        userid = data.userId;
-        isAdmin=data.isAdmin;
+    editUsername.value = data.username;
+    editUserPassword.value = data.password;
+    userid = data.userId;
+    isAdmin = data.isAdmin;
 }
 
 function updateUser() {
@@ -209,14 +204,14 @@ function updateUser() {
         isAdmin: isAdmin
     };
     fetch(urlUser, {
-        method: 'PUT',
-        headers: myHeaders,
-        redirect: 'follow',
-        body: JSON.stringify(newUser)
-    })
+            method: 'PUT',
+            headers: myHeaders,
+            redirect: 'follow',
+            body: JSON.stringify(newUser)
+        })
         .then(() => getUser())
         .catch(error => {
-            console.error('Unable to edit user.', error);
+            console.error('Unable to edit user', error);
         });
     return false;
 }

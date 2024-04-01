@@ -22,9 +22,10 @@ namespace MyTask.Controllers
     {
         IUserService UserService;
         private List<User> users;
-        private string userFile = "Users.json";
-        public loginController(IUserService UserService) {
-            this.UserService=UserService; 
+        private string userFile;
+        public loginController(IUserService UserService)
+        {
+            this.UserService = UserService;
             this.userFile = Path.Combine("Data", "Users.json");
             using (var jsonFile = System.IO.File.OpenText(userFile))
             {
@@ -35,39 +36,20 @@ namespace MyTask.Controllers
                 });
             }
         }
-       
-        // [HttpGet]
-        // [Route("[action]")]
-        // public IActionResult GoogleAuthentication()
-        // {
-        //     // Redirect to the Google authentication provider
-        //     return Challenge(new AuthenticationProperties { RedirectUri = "/" }, "Google");
-        // }
 
-        // [HttpGet]
-        // [Route("[action]")]
-        // public async Task<IActionResult> GoogleCallback()
-        // {
-        //     // Handle the Google authentication callback
-        //     var result = await HttpContext.AuthenticateAsync("Google");
-        //     // Process the authentication result and sign in the user
-        //     // Redirect or display appropriate message
-        //     return RedirectToAction("Index", "Home");
-        // }
-    
         [HttpPost]
         public ActionResult Login([FromBody] User User)
         {
             var user = users.FirstOrDefault(x => x.Username == User.Username && x.Password == User.Password);
-            if(user == null)
+            if (user == null)
                 return Unauthorized();
-                    var claims = new List<Claim>
+            var claims = new List<Claim>
                     {
                         new Claim("type" ,"User"),
                         new Claim("userId", user.userId.ToString())
                     };
-                    if(user.isAdmin==true)
-                        claims.Add(new Claim("type", "Admin"));
+            if (user.isAdmin == true)
+                claims.Add(new Claim("type", "Admin"));
             var token = TaskTokenService.GetToken(claims);
             return new OkObjectResult(TaskTokenService.WriteToken(token));
         }

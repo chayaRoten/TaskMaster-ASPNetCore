@@ -19,17 +19,15 @@ namespace MyTask.Controllers;
 [Route("[controller]")]
 
 public class todoController : ControllerBase
-// public class TaskController : ControllerBase
 {
     private int userId;
     ITaskService TaskService;
-    // public TaskController(ITaskService TaskService)
     public todoController(ITaskService TaskService, IHttpContextAccessor httpContextAccessor)
     {
         this.TaskService = TaskService;
         this.userId = int.Parse(httpContextAccessor.HttpContext?.User?.FindFirst("userId")?.Value);
-
     }
+
     [HttpGet]
     [Authorize(Policy = "User")]
     public ActionResult<List<Task1>> Get()
@@ -82,16 +80,4 @@ public class todoController : ControllerBase
         }
         return NoContent();
     }
-
-    //   [HttpPut("{password}")]
-    // public ActionResult Put(string password,User user)
-    // {
-    //     var result = TaskService.updateUser(password, user);
-    //     if (!result)
-    //     {
-    //         return BadRequest();
-    //     }
-    //     return NoContent();
-    // }
-
 }

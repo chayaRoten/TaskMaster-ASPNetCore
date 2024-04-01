@@ -10,16 +10,6 @@ namespace MyTask.Interface
         int AddNewTask(Task1 Task, int userId);
         bool DeleteTask(int id, int userId);
         bool UpdateTask(int x, Task1 Task, int userId);
-
-
-        // List<User> AdminGetAll();
-        // User AdminGetById(string id);
-        // string addUser(User user);
-        // bool updateUser(string password, User user);
-        // bool deleteUser(string password);
-
-
-
     }
 }
 

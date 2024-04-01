@@ -20,17 +20,15 @@ namespace  MyTask.Services
                 issuer,
                 claims,
                 expires: DateTime.Now.AddMinutes(30.0),
-                // expires: DateTime.Now.AddSeconds(8.0),
                 signingCredentials: new SigningCredentials(key, SecurityAlgorithms.HmacSha256)
             );
-
         public static TokenValidationParameters GetTokenValidationParameters() =>
             new TokenValidationParameters
             {
                 ValidIssuer = issuer,
                 ValidAudience = issuer,
                 IssuerSigningKey = key,
-                ClockSkew = TimeSpan.Zero // remove delay of token when expire
+                ClockSkew = TimeSpan.Zero 
             };
 
         public static string WriteToken(SecurityToken token) =>
